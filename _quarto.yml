@@ -11,12 +11,16 @@ website:
         text: Home
       - about.qmd
       - webinars.qmd
+      - resources.qmd
       - contact.qmd
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: flatly
+      dark: darkly
+    mainfont: Atkinson Hyperlegible
+    css: styles.scss
     toc: true
 
 editor: visual

@@ -1,11 +1,16 @@
 ---
-title: "dd"
+title: "JEDI Outreach Group"
 ---
 
-This is a Quarto website.
+![](images/jedi-logo.jpg){style="float: right;" fig-alt="JEDI logo" fig-align="right" width="300"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Mission
 
-```{r}
-1 + 1
-```
+The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people. 
+\
+
+# Become a member
+
+JEDI OG is an outreach group of the American Statistical Association.
+
+Complete this [form](https://docs.google.com/forms/d/e/1FAIpQLScIfPpkxu9qcFB1r7-hfI9Ghjo3Ai3TnGXpq6vAUShLHIMzXA/viewform?usp=sf_link) to become a member. 
