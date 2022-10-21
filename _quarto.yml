@@ -20,7 +20,7 @@ format:
       light: flatly
       dark: darkly
     mainfont: Atkinson Hyperlegible
-    css: styles.scss
+    style: styles.scss
     toc: true
 
 editor: visual
