@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DataSci JEDI"
+  navbar:
+    logo: images/jedi-logo.jpg
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - webinars.qmd
+      - contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
