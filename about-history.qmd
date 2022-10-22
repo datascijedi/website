@@ -1,0 +1,18 @@
+---
+title: "History"
+---
+
+::: callout-note
+Amstat article on the history of the group is here: <https://magazine.amstat.org/blog/2021/05/01/the-origins-of-jedi/>
+
+We can also pull from the first JEDI corner for this: <https://magazine.amstat.org/blog/2021/10/01/jedi-corner-october-2021/>
+:::
+
+In particular: \"The American Statistical Association has established the Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group to develop a diverse and inclusive environment that embraces all statisticians and data scientists, as well as to study and address statistical methods that can potentially introduce or exacerbate inequities and injustices in our society.
+Accordingly, we are committed to communication, programming, and professional development to advance and support a society that values all people.\"
+
+::: callout-note
+**TO DO:** More detailed discussion of role of JEDI in statistics?
+:::
+
+\

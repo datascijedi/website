@@ -1,5 +1,25 @@
 ---
-title: "About"
+title: "JEDI Outreach Group"
+about:
+  template: marquee
+  image: "images/jedi-logo.jpg"
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/datascijedi
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/showcase/justice-equity-diversity-and-inclusion-organizing-group
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/datascijedi/
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/DataSciJEDI/
+    - icon: github
+      text: Github
+      href: https://github.com/datascijedi
 ---
 
-Add more about info...
+The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people.
+

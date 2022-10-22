@@ -1,13 +1,7 @@
 ---
-title: "Webinars"
+title: "Upcoming webinars"
 ---
 
-# Upcoming
-
-Add upcoming webinars...
-
-# Past
-
--   THE POWER OF REPRESENTATION: MY JOURNEY TO THE FIELD OF BIOSTATISTICS (THE JOURNEY CONTINUES\...) From Patsie to Annie - presented by Dr. Loni Tabb. View the recording [here](https://youtu.be/g-EFGen6j0w). View the slides [here](https://drive.google.com/file/d/1-gD7a_-MtEwLHIn7FYweTnG6ffRfFTI8/view?usp=sharing).
--   Incorporating Diversity and Equity into Biostatistics Courses - Listen to the recording [here](https://youtu.be/zu95d2gYoTc). View the slides [here](https://drive.google.com/file/d/1mKil-a244bGMPzaV6TcpPY74asFbi6no/view?usp=sharing).
-
+::: callout-note
+**TO DO:** Add upcoming webinars.
+:::

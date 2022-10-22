@@ -9,29 +9,57 @@
   {
     "objectID": "webinars.html",
     "href": "webinars.html",
-    "title": "Webinars",
+    "title": "Upcoming webinars",
     "section": "",
-    "text": "Past\n\nTHE POWER OF REPRESENTATION: MY JOURNEY TO THE FIELD OF BIOSTATISTICS (THE JOURNEY CONTINUES...) From Patsie to Annie - presented by Dr. Loni Tabb. View the recording here. View the slides here.\nIncorporating Diversity and Equity into Biostatistics Courses - Listen to the recording here. View the slides here."
+    "text": "Note\n\n\n\nTO DO: Add upcoming webinars."
+  },
+  {
+    "objectID": "about-mission.html",
+    "href": "about-mission.html",
+    "title": "Mission, vision, values",
+    "section": "",
+    "text": "Note\n\n\n\nTO DO: More to add here so it’s not just repeating the short mission from homepage and about?"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "JEDI Outreach Group",
     "section": "",
-    "text": "Mission\nThe Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people. \n\n\n\nBecome a member\nJEDI OG is an outreach group of the American Statistical Association.\nComplete this form to become a member."
+    "text": "The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people.\nJEDI is an outreach group of the American Statistical Association.\nComplete this form to become a member."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "JEDI Outreach Group",
     "section": "",
-    "text": "Add more about info…"
+    "text": "The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people."
+  },
+  {
+    "objectID": "about-history.html",
+    "href": "about-history.html",
+    "title": "History",
+    "section": "",
+    "text": "In particular: \"The American Statistical Association has established the Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group to develop a diverse and inclusive environment that embraces all statisticians and data scientists, as well as to study and address statistical methods that can potentially introduce or exacerbate inequities and injustices in our society. Accordingly, we are committed to communication, programming, and professional development to advance and support a society that values all people.\"\n\n\n\n\n\n\nNote\n\n\n\nTO DO: More detailed discussion of role of JEDI in statistics?"
+  },
+  {
+    "objectID": "webinars-past.html",
+    "href": "webinars-past.html",
+    "title": "Past webinars",
+    "section": "",
+    "text": "THE POWER OF REPRESENTATION: MY JOURNEY TO THE FIELD OF BIOSTATISTICS (THE JOURNEY CONTINUES...) From Patsie to Annie - presented by Dr. Loni Tabb. View the recording here. View the slides here.\nIncorporating Diversity and Equity into Biostatistics Courses - Listen to the recording here. View the slides here."
+  },
+  {
+    "objectID": "about-welcome.html",
+    "href": "about-welcome.html",
+    "title": "Welcome from the chair",
+    "section": "",
+    "text": "Note\n\n\n\nTO DO: Add welcome note from the chair.\nWe could incorporate some of our goals for the website here if we want to make it like a \"welcome to this website\" note, including what we hope people will learn/be able to do at the site"
   },
   {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Add more resources…"
+    "text": "Statistics without Borders https://www.statisticswithoutborders.org/ \nCaucus for Women in Statistics https://cwstat.org/ \n\nLinks to resources:\n\nhttps://labs.icahn.mssm.edu/bennlab/antiracism-resources/\nhttps://library.osu.edu/researchcommons/2020/06/17  (Web view)\nhttps://medicine-matters.blogs.hopkinsmedicine.org/files/2016  (Web view)\nhttps://www.cdc.gov/healthcommunication/Preferred_Terms.html  (Web view)\nDonna and Yates have started to compile resources, could transfer those here\n\nA possible example for the type of resources to share:  See: https://cwstat.org/professional-development-resources/ or https://cwstat.org/publications/cws-library/ (although the formatting could be better for this library)"
   }
 ]

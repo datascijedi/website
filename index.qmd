@@ -1,16 +1,18 @@
 ---
 title: "JEDI Outreach Group"
+toc: false
 ---
 
-![](images/jedi-logo.jpg){style="float: right;" fig-alt="JEDI logo" fig-align="right" width="300"}
+::: column-margin
+```{=html}
+<a class="twitter-timeline" data-width="350" data-tweet-limit="2" float="right" href="https://twitter.com/DataSciJedi?ref_src=twsrc%5Etfw">Tweets by DataSciJedi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+:::
 
-# Mission
+![](images/jedi-logo-wide.png){fig-alt="JEDI logo" fig-align="center"}
 
-The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people. 
-\
+The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people.
 
-# Become a member
+JEDI is an outreach group of the American Statistical Association.
 
-JEDI OG is an outreach group of the American Statistical Association.
-
-Complete this [form](https://docs.google.com/forms/d/e/1FAIpQLScIfPpkxu9qcFB1r7-hfI9Ghjo3Ai3TnGXpq6vAUShLHIMzXA/viewform?usp=sf_link) to become a member. 
+Complete this [form](https://docs.google.com/forms/d/e/1FAIpQLScIfPpkxu9qcFB1r7-hfI9Ghjo3Ai3TnGXpq6vAUShLHIMzXA/viewform?usp=sf_link) to become a member.

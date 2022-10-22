@@ -4,15 +4,71 @@ project:
 
 website:
   title: "DataSci JEDI"
+  description: "The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people."
+  favicon: "mages/jedi-logo.jpg"
+  site-url: "https://datascijedi.github.io/website/"
+
+  open-graph: true
+  twitter-card:
+    creator: "@datascijedi"
+    image: "images/jedi-logo-square.png"
+
+  page-footer:
+    left: "Copyright 2022 © JEDI"
+    right:
+    - text: "License"
+      href: LICENSE.md
+    - text: "Code of Conduct"
+      href: CODE_OF_CONDUCT.md
+
+  page-navigation: true
+
   navbar:
     logo: images/jedi-logo.jpg
+    align: center
+    title: false
+    collapse-below: lg
+
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
       - webinars.qmd
       - resources.qmd
       - contact.qmd
+
+    right:
+      - icon: twitter
+        href: https://twitter.com/datascijedi
+      - icon: linkedin
+        href: https://www.linkedin.com/showcase/justice-equity-diversity-and-inclusion-organizing-group
+      - icon: instagram
+        href: https://www.instagram.com/datascijedi/
+      - icon: facebook
+        href: https://www.facebook.com/DataSciJEDI/
+
+  sidebar:
+    - id: about
+      title: "About"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - href: about.qmd
+        - href: about-welcome.qmd
+          text: "Welcome from the chair"
+        - href: about-history.qmd
+        - href: about-mission.qmd
+
+    - id: about
+      title: "Webinars"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - href: webinars.qmd
+        - href: webinars-past.qmd
 
 format:
   html:
