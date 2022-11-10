@@ -6,7 +6,7 @@ title: "Sign Up"
 **Note:** This is the production JEDI form.
 :::
 
-If you'd like to become a member of the JEDI OG community, please use the following form to sign up. As a member, you can stay in the loop with emails from our chair, get more involved by joining one of our committees, and vote for future committee board members. 
+Become a member of the JEDI Outreach Group by filling out the form below. Members receive emails from our chair on JEDI-related news, can contribute to the community by joining one of our committees, vote for future committee board members, and more. 
 
 ```{=html}
 <iframe
