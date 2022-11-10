@@ -36,6 +36,8 @@ website:
         href: index.qmd
       - text: "About"
         href: about.qmd
+      - text: "Sign Up"
+        href: signup.qmd
       - webinars.qmd
       - resources.qmd
       - contact.qmd

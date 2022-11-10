@@ -15,4 +15,4 @@ The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community
 
 JEDI is an outreach group of the American Statistical Association.
 
-Complete this [form](https://docs.google.com/forms/d/e/1FAIpQLScIfPpkxu9qcFB1r7-hfI9Ghjo3Ai3TnGXpq6vAUShLHIMzXA/viewform?usp=sf_link) to become a member.
+Complete this [form](./signup.html) to become a member.
