@@ -63,13 +63,14 @@ website:
         - href: about-mission.qmd
 
     - id: about
-      title: "Webinars"
+      title: "Activities"
       style: "floating"
       collapse-level: 2
       align: left
       contents:
-        - href: webinars.qmd
+        - href: webinars-upcoming.qmd
         - href: webinars-past.qmd
+        - href: jedi-corner.qmd
 
 format:
   html:

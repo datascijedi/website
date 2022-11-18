@@ -2,4 +2,4 @@
 title: "Past webinars"
 ---
 
-Add past webinars.
+Add upcoming webinars.
