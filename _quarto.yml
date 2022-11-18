@@ -62,7 +62,7 @@ website:
         - href: about-history.qmd
         - href: about-mission.qmd
 
-    - id: about
+    - id: activities
       title: "Activities"
       style: "floating"
       collapse-level: 2
