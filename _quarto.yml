@@ -33,11 +33,11 @@ website:
         href: index.qmd
       - text: "About"
         href: about.qmd
-      - text: "Sign Up"
-        href: signup.qmd
-      - webinars.qmd
+      - text: "Activities"
+        href: activities.qmd
       - resources.qmd
-      - contact.qmd
+      - text: "Get involved"
+        href: get-involved.qmd
 
     right:
       - icon: twitter

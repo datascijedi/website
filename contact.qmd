@@ -1,5 +1,3 @@
 ---
 title: "Contact"
 ---
-
-If you are interested in learning more about the JEDI Outreach Group, contact us at [admin\@datascijedi.org](mailto:admin@datascijedi.org).

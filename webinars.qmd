@@ -1,7 +1,7 @@
 ---
-title: "Upcoming webinars"
+title: "Activities"
 ---
 
 ::: callout-note
-**TO DO:** Add upcoming webinars.
+**TO DO:** Add activities.
 :::
