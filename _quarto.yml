@@ -55,9 +55,9 @@ website:
       collapse-level: 2
       align: left
       contents:
-        - file: about.qmd
+        - text: "About"
+          file: about.qmd
         - file: welcome.qmd
-          text: "Welcome from the chair"
         - file: history.qmd
         - file: mission.qmd
 
@@ -67,7 +67,8 @@ website:
       collapse-level: 2
       align: left
       contents:
-        - file: activities.qmd
+        - text: "Activities"
+          file: activities.qmd
         - file: webinars.qmd
         - file: jedi-corner.qmd
 

@@ -1,5 +1,5 @@
 ---
-title: "Activities"
+title: "JEDI Activities"
 ---
 
 ::: callout-note

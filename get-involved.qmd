@@ -10,7 +10,7 @@ If you are interested in learning more about the JEDI Outreach Group, contact us
 ```{=html}
 <iframe
     src=https://docs.google.com/forms/d/e/1FAIpQLScIfPpkxu9qcFB1r7-hfI9Ghjo3Ai3TnGXpq6vAUShLHIMzXA/viewform?embedded=true
-    width="640" height="1900" frameborder="0" marginheight="0"
+    width="800" height="1900" frameborder="0" marginheight="0" align="center"
     marginwidth="0">Loading…
 </iframe>
 ```

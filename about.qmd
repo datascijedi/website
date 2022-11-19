@@ -1,8 +1,7 @@
 ---
-title: "JEDI Outreach Group"
 about:
-  template: marquee
-  image: "images/jedi-logo.jpg"
+  template: trestles
+  image: "images/jedi-logo-square.png"
   links:
     - icon: twitter
       text: twitter
