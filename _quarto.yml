@@ -26,41 +26,40 @@ website:
     logo: images/jedi-logo.jpg
     align: center
     title: false
-    collapse-below: lg
 
     left:
       - text: "Home"
-        href: index.qmd
+        file: index.qmd
       - text: "About"
-        href: about.qmd
+        file: about.qmd
       - text: "Activities"
-        href: activities.qmd
+        file: activities.qmd
       - resources.qmd
       - text: "Get involved"
-        href: get-involved.qmd
+        file: get-involved.qmd
 
     right:
       - icon: twitter
-        href: https://twitter.com/datascijedi
+        file: https://twitter.com/datascijedi
       - icon: linkedin
-        href: https://www.linkedin.com/showcase/justice-equity-diversity-and-inclusion-organizing-group
+        file: https://www.linkedin.com/showcase/justice-equity-diversity-and-inclusion-organizing-group
       - icon: instagram
-        href: https://www.instagram.com/datascijedi/
+        file: https://www.instagram.com/datascijedi/
       - icon: facebook
-        href: https://www.facebook.com/DataSciJEDI/
+        file: https://www.facebook.com/DataSciJEDI/
 
   sidebar:
     - id: about
       title: "About"
-      style: "floating"
+      style: "docked"
       collapse-level: 2
       align: left
       contents:
-        - href: about.qmd
-        - href: about-welcome.qmd
+        - file: about.qmd
+        - file: welcome.qmd
           text: "Welcome from the chair"
-        - href: about-history.qmd
-        - href: about-mission.qmd
+        - file: history.qmd
+        - file: mission.qmd
 
     - id: activities
       title: "Activities"
@@ -68,9 +67,9 @@ website:
       collapse-level: 2
       align: left
       contents:
-        - href: webinars-upcoming.qmd
-        - href: webinars-past.qmd
-        - href: jedi-corner.qmd
+        - file: activities.qmd
+        - file: webinars.qmd
+        - file: jedi-corner.qmd
 
 format:
   html:
