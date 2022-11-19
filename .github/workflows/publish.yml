@@ -8,6 +8,8 @@ name: Quarto Publish
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     permissions:
       contents: write
     steps:
@@ -19,9 +21,6 @@ jobs:
 
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
-        with:
-          to: html # If set, it will be equivalent to `quarto render --to html`
-          path: source-folder # By default, the current working dir is used i.e `quarto render .`
 
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
