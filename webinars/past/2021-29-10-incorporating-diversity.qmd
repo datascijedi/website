@@ -5,7 +5,7 @@ Two Case Studies"
 # categories:
 author: Scarlett Bellamy, Reneé Moore, and Andrea Lane
 date: 10/29/2021
-# toc: true
+toc: true
 image: webinars/images/incorporating-diversity.png
 image-alt: Title page of slides for Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses presentation
 ---
