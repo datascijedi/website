@@ -8,6 +8,8 @@ date: 10/29/2021
 toc: true
 image: webinars/images/incorporating-diversity.png
 image-alt: Title page of slides for Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses presentation
+author-title: Presented by
+published-title: Presented on
 ---
 ## Presenters
 * Scarlett Bellamy, Professor of Biostatistics and Associate Dean for Diversity, Inclusion and Faculty Development, Drexel University

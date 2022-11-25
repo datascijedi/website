@@ -6,7 +6,9 @@ author: Loni Tabb
 date: 2022/04/28
 toc: false
 # image: 
-# image-alt: 
+# image-alt:
+author-title: Presented by
+published-title: Presented on 
 ---
 ## Presenter
 Dr. Loni Tabb, Associate Professor of Biostatistics in the Department of Epidemiology and Biostatistics at Drexel University’s Dornsife School of Public Health
