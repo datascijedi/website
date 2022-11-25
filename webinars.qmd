@@ -4,24 +4,25 @@ listing:
   - id: upcoming-webinars
     contents: 
     - webinars/upcoming
-    # - "!index.qmd"
     sort: "date desc"
-    type: table
-    categories: true
-    sort-ui: false
-    filter-ui: false
-    feed: true
+    type: grid
   - id: past-webinars
     contents: 
     - webinars/past
-    # - "!index.qmd"
     sort: "date desc"
     type: table
-    categories: true
-    sort-ui: false
-    filter-ui: false
-    feed: true
-page-layout: full
+    sort-ui: true
+    filter-ui: true
+page-layout: article
+toc: false
+categories: false
 ---
+## Upcoming webinars
 
-Add upcoming webinars.
+::: {#upcoming-webinars}
+:::
+
+## Past webinars
+
+::: {#past-webinars}
+:::
