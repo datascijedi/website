@@ -1,5 +1,27 @@
 ---
 title: "Webinars"
+listing:
+  - id: upcoming-webinars
+    contents: 
+    - webinars/upcoming
+    # - "!index.qmd"
+    sort: "date desc"
+    type: table
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    feed: true
+  - id: past-webinars
+    contents: 
+    - webinars/past
+    # - "!index.qmd"
+    sort: "date desc"
+    type: table
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    feed: true
+page-layout: full
 ---
 
 Add upcoming webinars.
