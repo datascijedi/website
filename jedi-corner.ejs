@@ -1,0 +1,10 @@
+```{=html}
+<% for (const item of items) { %>
+  <a href="<%- item.href %>"><%= item.title %></a></br>
+  by <%= item.author %>, published <%= item.date %></br>
+  <a href="<%- item.href %>">
+    <img src="<%- item.image %>" width="150" float="left" alt="<%- item.alt %>" class="inline" /></a></br>
+  <%= item.intro %></br>
+</br>
+<% } %>
+```
