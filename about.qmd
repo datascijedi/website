@@ -4,7 +4,7 @@ about:
   image: "images/jedi-logo-square.png"
   links:
     - icon: twitter
-      text: twitter
+      text: Twitter
       href: https://twitter.com/datascijedi
     - icon: linkedin
       text: LinkedIn
@@ -16,7 +16,7 @@ about:
       text: Facebook
       href: https://www.facebook.com/DataSciJEDI/
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/datascijedi
 ---
 
