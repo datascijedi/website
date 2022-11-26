@@ -3,9 +3,10 @@ title: "JEDI Corner"
 listing:
     template: jedi-corner.ejs
     contents: jedi-corner.yml
-    # sort-ui: true
-    # filter-ui: true
-    # page-size: 10
+    fields: [title, date, author]
+    sort-ui: true
+    filter-ui: true
+    page-size: 5
 page-layout: article
 ---
 

@@ -11,5 +11,97 @@
   href: https://magazine.amstat.org/blog/2022/10/01/finding-ada-jedi/
   intro: Ada Lovelace Day falls on October 12 every year. According to the website Finding Ada, it "is an international celebration of the achievements of women in science, technology, engineering, and maths (STEM).” In terms of its purpose and outreach on and beyond Ada Lovelace Day, “it aims to increase the profile of women in STEM and, in doing so, create new role models who will encourage more girls into STEM careers and support women already working in STEM."
   date: 10/01/2022
-  image: webinars/images/incorporating-diversity.png
-  image-alt: Title page of slides for Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses presentation
+  image: images/jedi-corner/Zou_Kelly-copy-150x150.jpg
+  image-alt: Photo of Kelly Zou
+
+- title: "Disabilities as Assets and Strengths"
+  author: Shu-Min Liao, Chuck Coleman, Ryan Machtmes, Peter Flom, Erin Chapman, and Anja Zgodic
+  href: https://magazine.amstat.org/blog/2022/09/01/disabilities/
+  intro: As stated by the US Centers for Disease Control and Prevention, “Disability impacts all of us.” More than a quarter of the US population has some type of disability, many of which are invisible (e.g., chronic illness or learning disabilities) or doubly invisible (e.g., struggles with social cues). Over the past decade, societal understanding of disability has increased. Whereas the focus used to be on limitations brought on by disability, today’s understanding and study of disability looks at the positive aspects disabled individuals add to their communities.
+  date: 09/01/2022
+  image: images/jedi-corner/liao.png
+  alt: Photo of Shu-Min Liao
+
+- title: "So Much to Do, So Little Time"
+  author: Jana Asher
+  href: https://magazine.amstat.org/blog/2022/08/01/jedi-corner-jsm2022/
+  intro: By the time you read this article, the 2022 Joint Statistical Meetings in Washington, DC, will either be about to start or underway. This month’s article introduces readers to the plethora of JSM sessions and events either co-sponsored by the JEDI Outreach Group or related to JEDI initiatives.
+  date: 08/01/2022
+  image: images/jedi-corner/Asher-Option-2.jpg
+  alt: Photo of Jana Asher
+
+- title: "Keep Your Receipts: How Early-Career Statisticians Can Navigate Conferences"
+  author: Boyi Guo and Sarah Samorodnitsky
+  href: https://magazine.amstat.org/blog/2022/07/01/early-career-navigate-conferences/
+  intro: A key component of advancing JEDI in our profession is ensuring that all students and young professionals have access to the knowledge and resources needed to benefit from new and perhaps unfamiliar professional activities. This month’s JEDI Corner from two student contributors offers practical advice to junior statisticians preparing for their first conference experience.
+  date: 07/01/2022
+  image: images/jedi-corner/JEDI-Boyi-Guo.jpg
+  alt: Photo of Boyi Guo
+
+- title: "Statistics Education and Reconsidering the Status Quo"
+  author: Suzanne Thornton
+  href: https://magazine.amstat.org/blog/2022/06/01/jedi_june22/
+  intro: Imagine an introductory statistics instructor is teaching students about categorical variables, maybe even discussing how to include these variables in a linear regression model. To keep her students engaged, the instructor asks the students to think about the difference between categorical and numeric variables and solicits examples. The first student to raise their hand confidently exclaims “gender!”
+  date: 06/01/2022
+  image: images/jedi-corner/suzanne-thornton.png
+  alt: Photo of Suzanne Thornton
+
+- title: "Promoting Diversity in Data Repository Research"
+  author: Stephanie Cook and Erica P. Wood
+  href: https://magazine.amstat.org/blog/2022/05/02/jedi-corner-may-22/
+  intro: The National Institutes of Health is investing resources in constructing secure data repositories in which researchers and community members are able to use publicly available data. One such program is the NIH’s All of Us Research Program, which has expanded its Researcher Workbench to include data contributed by more than 329,000 participants, about 80 percent of whom are from communities that have been historically underrepresented in biomedical research.
+  date: 05/02/2022
+  image: images/jedi-corner/stephanie-cook.png
+  alt: Photo of Stephanie Cook
+
+- title: "Infusing DEI Learning Into an Elementary Statistics Class"
+  author: Jana Asher
+  href: https://magazine.amstat.org/blog/2022/04/01/dei-elementary-statistics/
+  intro: For many years, a small group of dedicated faculty members at Slippery Rock University, in Pennsylvania, have been lobbying for a diversity education requirement for undergraduate students. This diversity requirement would be fulfilled through completion of one of several specially designated courses to ground student learning in principles related to equity and inclusion. I joined this faculty group just as success was on the horizon, and I helped structure an online training for the faculty that would be creating and teaching the new “diversity designated” courses.
+  date: 04/01/2022
+  image: images/jedi-corner/Asher-Option-2.jpg
+  alt: Photo of Jana Asher
+
+- title: Increasing JEDI in Clinical Trials
+  author: Godwin Yung and Dooti Roy
+  href: https://magazine.amstat.org/blog/2022/03/01/jedi_clinicaltrials/
+  intro: Statistical practitioners in the biopharmaceutical area gather at the ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop (BIOP) every September to engage in conversations about contemporary topics of importance. Having heard the health disparities taking place in the ongoing COVID-19 pandemic and being industry statisticians ourselves, we decided to host a roundtable at this year’s conference on increasing JEDI in clinical trials—a related but wider topic.
+  date: 03/01/2022
+  image: images/jedi-corner/godwin-yung.png
+  alt: Photo of Godwin Yung
+
+- title: Cochairs Discuss Plans for Student and Young Professionals Committee
+  author: Robert A. Tumasian III and Lydia Gibson
+  href: https://magazine.amstat.org/blog/2022/02/01/young-professionals/
+  intro: This month, The Justice, Equity, Diversity, and Inclusion Corner is spotlighting the incoming cochairs of the Student and Young Professionals Committee—Robert Tumasian III and Lydia Gibson—and asking them a few questions about themselves and their visions for the committee in 2022.
+  date: 02/01/2022
+  image: images/jedi-corner/robert-tumasian.png
+  alt: Photo of Robert A. Tumasian III
+
+- title: "At the Rise of JEDI: Lessons Learned from Fall of Jedi Order in Star Wars"
+  author: Shu-Min Liao
+  href: https://magazine.amstat.org/blog/2022/01/01/jedi-lessons-learned-star-wars/
+  intro: This summer, I enjoyed the fun of watching all three Star Wars trilogies in chronological order with my nine-year-old boy. He is finally old enough to enjoy those films with me; plus, not being able to travel during the pandemic gave us time (or excuses?) to watch all the movies on nine Friday nights.
+  date: 01/01/2022
+  image: images/jedi-corner/liao.png
+  alt: Photo of Shu-Min Liao
+
+- title: "Caucus for Women in Statistics Celebrates 50 Years"
+  author: Donna Brogan, Nairanjana Dasgupta, Amanda Golbeck, Wendy Lou, and Motomi Mori
+  href: https://magazine.amstat.org/blog/2021/12/01/cws/
+  intro: The Caucus for Women in Statistics (CWS) is celebrating its 50th anniversary this year. Formed in 1971 before “JEDI” became an acronym known to all, CWS has been on the forefront of giving a voice to women in statistics and offering support, mentorship, friendship, and a safe space for discussion about challenging and often difficult topics faced by women.
+  date: 12/01/2021
+  image: images/jedi-corner/cws.png
+  alt: 50th anniversary logo design for the Caucus for Women in Statistics, 1971-2021
+
+- title: "Statistics for Equity: Capturing, Not Masking, Intersectional Dynamics in Data"
+  author: Stephanie H. Cook, Suzanne Thornton, Samantha E. Robinson, James J. Cochran, and Godwin Yung
+  href: https://magazine.amstat.org/blog/2021/11/01/the-jedi-corner-statistics-for-equity-capturing-not-masking-intersectional-dynamics-in-data/
+  intro: Statistics is the language of data. Just like any other language, statistics requires structure and rules for interpreting messages from data. However, statistics poses additional communications challenges, as it depends on one’s written language, which is always rife with nuances. Hence, the effectiveness of statistics for communicating concepts from data (e.g., selecting, understanding, and interpreting statistical models) also depends on one’s written language acuity.
+  date: 11/01/2021
+
+- title: "The JEDI Corner: How to Help Advocate for Justice, Equity, Diversity, and Inclusion"
+  author: Kimberly F. Sellers
+  href: https://magazine.amstat.org/blog/2021/10/01/jedi-corner-october-2021/
+  intro: The year 2020 proved to be a watershed period in our society, given the dual epidemics of health disparities and racism. It brought many underlying issues regarding justice, equity, diversity, and inclusion to the forefront, such that people could no longer turn a blind eye to them.
+  date: 10/01/2021
