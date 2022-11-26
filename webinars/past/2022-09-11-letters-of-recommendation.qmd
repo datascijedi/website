@@ -7,10 +7,10 @@ date: 2022/09/11
 toc: false
 # image: 
 # image-alt:
-author-title: Presented by
-published-title: Presented on
+author-title: Presenter
+published-title: Date
 ---
-## Presenter
+## Presenter and affiliation
 Jareen K. Meinzen-Derr, PhD, MPH, FACE, Co-Director of Faculty Diversity, Equity, & Inclusion, Co-Director of the Center for Clinical and Translational Science and Training,  Academic Health Center of University of Cincinnati, Cincinnati Children’s Hospital.
 
 <!-- When YouTube recording is ready, add in link. Click, share, embed, then extract link from iframe code -->
