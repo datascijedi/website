@@ -11,6 +11,9 @@ listing:
     - webinars/past
     sort: "date desc"
     type: table
+    fields: [date, title, author]
+    field-display-names: 
+      author: "Presenter(s)"
     sort-ui: true
     filter-ui: true
 page-layout: article
