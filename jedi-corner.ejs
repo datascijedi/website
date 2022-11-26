@@ -1,10 +1,25 @@
 ```{=html}
-<% for (const item of items) { %>
-  <a href="<%- item.href %>"><%= item.title %></a></br>
-  by <%= item.author %>, published <%= item.date %></br>
-  <a href="<%- item.href %>">
-    <img src="<%- item.image %>" width="150" float="left" alt="<%- item.alt %>" class="inline" /></a></br>
-  <%= item.intro %></br>
-</br>
-<% } %>
+<div class="list">
+  <% for (const item of items) { %>
+    <div <%= metadataAttrs(item) %>>
+      <div class="style">
+        <style>
+          img {
+            float: left;
+            margin-top: 5px;
+            margin-right: 15px;
+            margin-bottom: 15px;
+          }
+        </style>
+        <a href="<%- item.href %>">
+          <img src="<%- item.image %>" width="150" alt="<%- item.alt %>" />
+        </a>
+        <a href="<%- item.href %>" class="listing-title"><b><%= item.title %></a></b><br/>
+        <span class="listing-author"> <i>by <%= item.author %></span>, published <%= item.date %></i></br>
+        <%= item.intro %></br>
+      </br>
+      </div>
+    </div>
+  <% } %>
+</div>
 ```
