@@ -14,5 +14,5 @@ published-title: Date
 Jareen K. Meinzen-Derr, PhD, MPH, FACE, Co-Director of Faculty Diversity, Equity, & Inclusion, Co-Director of the Center for Clinical and Translational Science and Training,  Academic Health Center of University of Cincinnati, Cincinnati Children’s Hospital.
 
 <!-- When YouTube recording is ready, add in link. Click, share, embed, then extract link from iframe code -->
-<!-- ## Recording
-{{< video https://www.youtube.com/embed/g-EFGen6j0w >}} -->
+## Recording
+{{< video https://www.youtube.com/embed/hYDFWM4PCr8 >}} 
