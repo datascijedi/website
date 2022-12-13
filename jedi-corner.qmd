@@ -8,6 +8,7 @@ listing:
     filter-ui: true
     page-size: 5
 page-layout: article
+toc: false
 ---
 
 The JEDI Corner is a regular component of [*Amstat News*](https://magazine.amstat.org/) in which statisticians write about and educate our community about JEDI-related matters. If you have an idea or article for the column, email the [JEDI Corner coordinator](mailto:jedicorner@datascijedi.org).
