@@ -1,0 +1,17 @@
+---
+title: "The Power of Representation: My Journey to the Field of Biostatistics (The Journey Continues…) - From Patsie to Annie"
+# description:
+# categories:
+author: Loni Tabb
+date: 2022/04/28
+toc: false
+# image: 
+# image-alt:
+author-title: Presenter
+published-title: Date 
+---
+## Presenter and affiliation
+Dr. Loni Tabb, Associate Professor of Biostatistics in the Department of Epidemiology and Biostatistics at Drexel University’s Dornsife School of Public Health
+
+## Recording
+{{< video https://www.youtube.com/embed/g-EFGen6j0w >}}

@@ -1,0 +1,18 @@
+---
+title: "Writing Fair Letters of Recommendation: Considerations for the Requester and the Writer"
+# description:
+# categories:
+author: Jareen K. Meinzen-Derr
+date: 2022/09/11
+toc: false
+# image: 
+# image-alt:
+author-title: Presenter
+published-title: Date
+---
+## Presenter and affiliation
+Jareen K. Meinzen-Derr, PhD, MPH, FACE, Co-Director of Faculty Diversity, Equity, & Inclusion, Co-Director of the Center for Clinical and Translational Science and Training,  Academic Health Center of University of Cincinnati, Cincinnati Children’s Hospital.
+
+<!-- When YouTube recording is ready, add in link. Click, share, embed, then extract link from iframe code -->
+## Recording
+{{< video https://www.youtube.com/embed/hYDFWM4PCr8 >}} 

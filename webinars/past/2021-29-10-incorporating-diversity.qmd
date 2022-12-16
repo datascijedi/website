@@ -1,0 +1,23 @@
+---
+title: "Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses:
+Two Case Studies"
+# description:
+# categories:
+author: Scarlett Bellamy, Reneé Moore, and Andrea Lane
+date: 10/29/2021
+toc: true
+image: webinars/images/incorporating-diversity.png
+image-alt: Title page of slides for Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses presentation
+author-title: Presenters
+published-title: Date
+---
+## Presenters and affiliations
+* Scarlett Bellamy, Professor of Biostatistics and Associate Dean for Diversity, Inclusion and Faculty Development, Drexel University
+* Reneé Moore, Research Professor of Biostatistics; Director of the Biostatistics Scientific Collaboration Center and Director of Diversity, Equity & Inclusion for the Department of Epidemiology and Biostatistics, Drexel University
+* Andrea Lane, PhD candidate in the Department of Biostatistics and Bioinformatics, Emory University
+
+## Recording
+{{< video https://www.youtube.com/embed/zu95d2gYoTc >}}
+
+## Slides
+[![](/webinars/images/incorporating-diversity.png)](https://drive.google.com/file/d/1mKil-a244bGMPzaV6TcpPY74asFbi6no/view)
