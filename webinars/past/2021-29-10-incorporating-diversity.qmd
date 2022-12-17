@@ -8,6 +8,7 @@ date: 10/29/2021
 toc: true
 image: webinars/images/incorporating-diversity.png
 image-alt: Title page of slides for Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses presentation
+href: /webinars/past/2021-29-10-incorporating-diversity.qmd
 author-title: Presenters
 published-title: Date
 ---
