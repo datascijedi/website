@@ -5,13 +5,14 @@ title: "Title for upcoming webinar"
 author: Name 1, Name 2 and Name 3
 date: 12/25/2022
 toc: false
-# image: 
-# image-alt: 
+image: /webinars/images/incorporating-diversity.png
+# image-alt:
+href: /webinars/upcoming/dummy-webinar-page.qmd 
 author-title: Presenters
 published-title: Date
 ---
 <!-- Add flyer image here -->
-[![](webinars/images/)](add url to registration page here so that flyer is clickable)
+[![](/webinars/images/incorporating-diversity.png)](add url to registration page here so that flyer is clickable)
 
 ## Overview
 Event description here

@@ -1,6 +1,20 @@
 ---
 title: "JEDI Outreach Group"
 toc: false
+listing:
+  - id: jedi-corner
+    template: jedi-corner.ejs
+    contents: jedi-corner.yml
+    page-size: 1
+    sort: "date desc"
+
+  - id: jedi-webinars
+    template: jedi-webinar.ejs
+    contents: 
+      - webinars/upcoming
+      - webinars/past
+    page-size: 1
+    sort: "date desc"
 ---
 
 ::: column-margin
@@ -9,8 +23,49 @@ toc: false
 ```
 :::
 
-![](images/jedi-logo-wide.png){fig-alt="JEDI logo" fig-align="center"}
+```{=html}
+<img src="images/jedi-logo-wide.png" alt="JEDI logo" class="center">
+```
 
-The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people.
+The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group is a community of statisticians and data scientists committed to communication, programming, and professional development to advance and support a society that values all people. JEDI is an outreach group of the [American Statistical Association](https://www.amstat.org/).
 
-JEDI is an outreach group of the [American Statistical Association](https://www.amstat.org/).
+[About JEDI](about.qmd){.button .button1 .center} [JEDI Activities](activities.qmd){.button .button1 .center}
+
+## JEDI Corner
+:::: {.columns}
+
+::: {.column width="50%" #jedi-corner}
+
+:::
+
+::: {.column width="50%"}
+::: {.home-grid}
+The JEDI Corner is a regular component of Amstat News in which statisticians write about and educate our community about JEDI-related matters.
+
+[View the JEDI Corner archives](jedi-corner.qmd){.button .button1 .center-button}
+:::
+:::
+
+::::
+
+## JEDI Webinars
+:::: {.columns}
+
+::: {.column width="50%" #jedi-webinars}
+
+:::
+
+::: {.column width="50%"}
+::: {.home-grid}
+JEDI Committees organize webinars to educate the community on JEDI-related topics and foster discussion among JEDI members.
+
+[View the JEDI Webinar archives](webinars.qmd){.button .button1 .center-button}
+:::
+:::
+
+::::
+
+## Get involved
+Sign-up for your free membership to the JEDI Outreach Group.
+
+[Become a JEDI member](get-involved.qmd.qmd){.button .button1 .center}
