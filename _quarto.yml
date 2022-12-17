@@ -71,6 +71,7 @@ website:
         - text: "Activities"
           file: activities.qmd
         - file: webinars.qmd
+        - file: weekly-newsletter.qmd
 
 format:
   html:
