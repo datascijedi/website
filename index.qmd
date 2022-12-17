@@ -68,4 +68,4 @@ JEDI Committees organize webinars to educate the community on JEDI-related topic
 ## Get involved
 Sign-up for your free membership to the JEDI Outreach Group.
 
-[Become a JEDI member](get-involved.qmd.qmd){.button .button1 .center}
+[Become a JEDI member](get-involved.qmd){.button .button1 .center}
