@@ -58,9 +58,8 @@ website:
       contents:
         - text: "About"
           file: about.qmd
-        - file: welcome.qmd
-        - file: history.qmd
-        - file: mission.qmd
+        # - file: welcome.qmd
+        # - file: history.qmd
 
     - id: activities
       title: "Activities"
