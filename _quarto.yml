@@ -34,6 +34,7 @@ website:
         file: about.qmd
       - text: "Activities"
         file: activities.qmd
+      - jedi-corner.qmd
       - resources.qmd
       - text: "Get involved"
         file: get-involved.qmd
@@ -70,7 +71,6 @@ website:
         - text: "Activities"
           file: activities.qmd
         - file: webinars.qmd
-        - file: jedi-corner.qmd
 
 format:
   html:
