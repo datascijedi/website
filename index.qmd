@@ -5,7 +5,7 @@ listing:
   - id: jedi-corner
     template: jedi-corner.ejs
     contents: jedi-corner.yml
-    page-size: 1
+    max-items: 1
     sort: "date desc"
 
   - id: jedi-webinars
@@ -13,7 +13,7 @@ listing:
     contents: 
       - webinars/upcoming
       - webinars/past
-    page-size: 1
+    max-items: 1
     sort: "date desc"
 ---
 
