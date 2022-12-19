@@ -6,7 +6,7 @@ Our committees are actively working to promote justice, equity, diversity, and i
 
 The **Awards** committee is focused on diversifying nominations for the American Statistical Association’s (ASA) Fellows Award as well as other awards for statisticians within and outside of the ASA.
 
-The **Communications** committee manages the JEDI Outreach Group social media channels and website, coordinates the JEDI Corner in *Amstat News*, and advertises JEDI-related events and opportunities.
+The **Communications** committee manages the JEDI Outreach Group social media channels and website, coordinates the [JEDI Corner](jedi-corner.qmd) in *Amstat News*, and advertises JEDI-related events and opportunities.
 
 The **Liaison** committee collaborates with other organizations within and outside of the ASA to develop and maintain best practices for JEDI in our scientific communities.
 
@@ -16,5 +16,5 @@ The **Program Committee** develops and contributes programming that promotes a j
 
 The **Students and Young Professionals** committee provides an opportunity for students and young professionals (within five years of their highest degree) to gather and convene to discuss their JEDI-related experiences and concerns. This committee can further pass along ideas and collaborate with the other JEDI Outreach Group committees to publicize and address their related concerns and interests.
 
-Want to get involved? Sign up for the JEDI Outreach Group and check out the weekly newsletter for opportunities to contribute to committee activities. 
+Want to get involved? [Sign up for the JEDI Outreach Group](get-involved.qmd) and check out the [weekly newsletter](weekly-newsletter.qmd) for opportunities to contribute to committee activities. 
 
