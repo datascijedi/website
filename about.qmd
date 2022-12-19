@@ -18,6 +18,9 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/datascijedi
+sidebar: false
 ---
 
-The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people.
+In 2021, the American Statistical Association established the **Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group**. JEDI is a community of statisticians and data scientists committed to communication, programming, and professional development to advance a society that values all people. The group considers all dimensions of diversity, including but not limited to race, gender, sexual orientation, age, persons with disabilities, and socioeconomic status. JEDI provides a diverse and inclusive environment that embraces all members and educates our community about JEDI-related matters. The group is further committed to promoting statistical methods to measure and address inequities and injustices in our society.
+
+[Read about the origins of the JEDI Outreach Group in Amstat News.](https://magazine.amstat.org/blog/2021/05/01/the-origins-of-jedi/) 

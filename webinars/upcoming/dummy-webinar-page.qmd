@@ -6,19 +6,28 @@ author: Name 1, Name 2 and Name 3
 date: 12/25/2022
 toc: false
 image: /webinars/images/incorporating-diversity.png
-image-alt: Title page of slides for Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses presentation
+# image-alt:
+href: /webinars/upcoming/dummy-webinar-page.qmd 
 author-title: Presenters
 published-title: Date
 ---
+<!-- Add flyer image here -->
+[![](/webinars/images/incorporating-diversity.png)](add url to registration page here so that flyer is clickable)
+
+## Overview
+Event description here
+
 ## Presenters and affiliations
 * Name 1
 * Name 2
 * Name 3
 
-## Recording
+<!-- Add url to registration page so that button is clickable -->
+[Register now](https://datascijedi.github.io/website/){.button .button1}
+
+<!-- Activate sections below once event becomes a "past webinar" -->
+<!-- ## Recording
 {{< video https://www.youtube.com/embed/zu95d2gYoTc >}}
 
 ## Slides
-[![](/webinars/images/incorporating-diversity.png)](https://drive.google.com/file/d/1mKil-a244bGMPzaV6TcpPY74asFbi6no/view)
----
-
+[![](/webinars/images/incorporating-diversity.png)](https://drive.google.com/file/d/1mKil-a244bGMPzaV6TcpPY74asFbi6no/view) -->

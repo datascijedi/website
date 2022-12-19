@@ -1,11 +1,11 @@
 ---
 title: "Webinars"
 listing:
-  - id: upcoming-webinars
-    contents: 
-    - webinars/upcoming
-    sort: "date desc"
-    type: grid
+  # - id: upcoming-webinars
+  #   contents: 
+  #   - webinars/upcoming
+  #   sort: "date desc"
+  #   type: grid
   - id: past-webinars
     contents: 
     - webinars/past
@@ -21,9 +21,10 @@ toc: false
 categories: false
 ---
 ## Upcoming webinars
+New webinars are coming in 2023! Sign up for our [weekly newsletter](weekly-newsletter.qmd) for the latest news on all JEDI Outreach Group activities.  
 
-::: {#upcoming-webinars}
-:::
+<!-- ::: {#upcoming-webinars}
+::: -->
 
 ## Past webinars
 

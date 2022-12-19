@@ -1,0 +1,19 @@
+```{=html}
+<div class="list">
+  <% for (const item of items) { %>
+    <div <%= metadataAttrs(item) %>>
+      <div class="style">
+        <% if (item.image) { %>
+        <a href="<%- item.href %>">
+          <img src="<%- item.image %>" width="100%" alt="<%- item.alt %>" />
+        </a>
+        <% } %>
+        <a href="<%- item.href %>" class="listing-title"><b><%= item.title %></a></b><br/>
+        <span class="listing-author"> <b>Featuring:</b> <%= item.author %></span><br/>
+        <span class="listing-date"> <b>Date:</b> <%= item.date %></span><br/>
+      </br>
+      </div>
+    </div>
+  <% } %>
+</div>
+```
