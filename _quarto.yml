@@ -4,6 +4,7 @@ project:
     - "*.qmd"
     - "./CODE_OF_CONDUCT.md"
     - "./LICENSE.md"
+    - "./README-gh-pages.md"
     - "!./CONTRIBUTING.md"
 
 website:
