@@ -11,6 +11,7 @@ listing:
   - id: jedi-webinars
     template: jedi-webinar.ejs
     contents: 
+      - webinars/upcoming
       - webinars/past
     max-items: 1
     sort: "date desc"
