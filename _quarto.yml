@@ -1,5 +1,10 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "./CODE_OF_CONDUCT.md"
+    - "./LICENSE.md"
+    - "!./CONTRIBUTING.md"
 
 website:
   title: "DataSci JEDI"
