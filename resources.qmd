@@ -4,18 +4,26 @@ title: "Resources"
 
 Our partners/broader community links:
 
--   Statistics without Borders <https://www.statisticswithoutborders.org/> 
+-   [Statistics without Borders](https://www.statisticswithoutborders.org)
 
--   Caucus for Women in Statistics <https://cwstat.org/> 
+-   [Caucus for Women in Statistics](https://cwstat.org)
 
--   Stats4Good <https://magazine.amstat.org/blog/category/columnnews/stats4good/>
+-   [ASA Committee on Minorities in Statistics](https://community.amstat.org/cmis/home)
 
--   Peace-Work <https://www.peace-work.org/>
+-   [ASA Committee on Statistics and Disability](https://community.amstat.org/committeeonstatisticsanddisability/home)
+
+-   [Stats4Good](https://magazine.amstat.org/blog/category/columnnews/stats4good/)
+
+-   [Peace-Work](https://www.peace-work.org)
 
 Links to resources:
 
--   Anti-racism resources compiled by Mount Sinai Center for Scientific Diversity and JEDI Emma Benn <https://labs.icahn.mssm.edu/bennlab/antiracism-resources/>
+-   [Anti-racism resources compiled by Mount Sinai Center for Scientific Diversity and JEDI Emma Benn](https://icahn.mssm.edu/research/center-scientific-diversity/resources)
 
--   Guide for how to use preferred terms and non-stigmatizing language for select subgroups <https://www.cdc.gov/healthcommunication/Preferred_Terms.html>
+-   [Guide for how to use preferred terms and non-stigmatizing language for select subgroups](https://www.cdc.gov/healthcommunication/Preferred_Terms.html)
+
+-   [Ohio State resource list on issues of policing, the Black Lives matter movement, racial discrimination, health information and issues of educational access](https://guides.osu.edu/africana/blacklivesmatterdata)
+
+-   [Bibliometric analysis of the top 100 cited papers in health care disparities](https://link.springer.com/article/10.1007/s40615-016-0288-y)
 
 -   [Compilation of literature with recommendations on how to use data on race, ethnicity, gender, and sexual orientation is research](https://zzlalo.notion.site/zzlalo/f9d2a242c16845c39a7682c086b60055?v=028f0c9b26ce440dbb147de630b2702c)
