@@ -52,7 +52,7 @@ website:
   sidebar:
     - id: about
       title: "About"
-      style: "docked"
+      style: "floating"
       collapse-level: 2
       align: left
       contents:
