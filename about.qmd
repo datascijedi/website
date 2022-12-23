@@ -17,7 +17,7 @@ about:
       href: https://www.facebook.com/DataSciJEDI/
     - icon: github
       text: GitHub
-      href: https://github.com/datascijedi
+      href: https://github.com/datascijedi/website
 sidebar: false
 ---
 
