@@ -76,7 +76,7 @@ format:
   html:
     theme:
       light: [flatly, style.scss]
-      dark: [darkly, style.scss]
+      dark: [darkly, darkstyle.scss]
     mainfont: Atkinson Hyperlegible
     toc: true
 
