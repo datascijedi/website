@@ -1,7 +1,5 @@
 ---
-format:
-   gfm:
-    output-file: "README"
-    output-ext:  "md"
+title: Website Deployment
 ---
-This branch is the automated deployment target of the `main` branch and should _not_ be edited directly. The files here correspond directly to the live website at https://datascijedi.github.io/website/. 
+
+This is the latest deployment of the JEDI OG website which corresponds to the `main` branch of the website repository. The files here are served at https://datascijedi.github.io/website/. 

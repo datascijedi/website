@@ -1,11 +1,16 @@
 project:
   type: website
+  output-dir: _site
+
   render:
     - "*.qmd"
-    - "./CODE_OF_CONDUCT.md"
-    - "./LICENSE.md"
-    - "./README-gh-pages.md"
-    - "!./CONTRIBUTING.md"
+    - "*.md"
+    - "*.ipynb"
+    - "*.Rmd"
+    - "!CONTRIBUTING.md"
+    - "!README-gh-pages.md"
+
+  post-render: copy_gh_pages_readme.js
 
 website:
   title: "DataSci JEDI"
