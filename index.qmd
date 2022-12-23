@@ -32,38 +32,30 @@ The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group is a communi
 [About JEDI](about.qmd){.button .button1 .center} [JEDI Activities](activities.qmd){.button .button1 .center}
 
 ## JEDI Corner
-:::: {.columns}
+::: {.grid}
 
-::: {.column width="50%" #jedi-corner}
-
+::: {.g-col-lg-6 .g-col-12 #jedi-corner}
 :::
 
-::: {.column width="50%"}
-::: {.home-grid}
+::: {.g-col-lg-6 .g-col-12 .homebox}
 The JEDI Corner is a regular component of Amstat News in which statisticians write about and educate our community about JEDI-related matters.
 
 [View the JEDI Corner archives](jedi-corner.qmd){.button .button1 .center-button}
 :::
 :::
 
-::::
-
 ## JEDI Webinars
-:::: {.columns}
+::: {.grid}
 
-::: {.column width="50%" #jedi-webinars}
-
+::: {.g-col-lg-6 .g-col-12 #jedi-webinars}
 :::
 
-::: {.column width="50%"}
-::: {.home-grid}
+::: {.g-col-lg-6 .g-col-12 .homebox}
 JEDI Committees organize webinars to educate the community on JEDI-related topics and foster discussion among JEDI members.
 
 [View the JEDI Webinar archives](webinars.qmd){.button .button1 .center-button}
 :::
 :::
-
-::::
 
 ## Get involved
 Sign-up for your free membership to the JEDI Outreach Group.
