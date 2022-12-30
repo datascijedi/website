@@ -1,6 +1,8 @@
 project:
   type: website
 
+  post-render: dynamic_github_edit.js
+
 website:
   title: "DataSci JEDI"
   description: "The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people."
@@ -14,13 +16,13 @@ website:
 
   page-footer:
     left: "Copyright 2022 © JEDI"
+    center:
+    - text: "GH-6c622c2fa6a54817" # placeholder text, replaced in post-render script
     right:
     - text: "License"
       href: LICENSE.md
     - text: "Code of Conduct"
       href: CODE_OF_CONDUCT.md
-    - text: "Edit on GitHub"
-      href: "https://github.com/datascijedi/website"
 
   page-navigation: true
 
