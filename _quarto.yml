@@ -10,9 +10,9 @@ project:
     - "!CONTRIBUTING.md"
     - "!README-gh-pages.md"
 
-  post-render: copy_gh_pages_readme.js
-
-  post-render: dynamic_github_edit.js
+  post-render:
+    - copy_gh_pages_readme.js
+    - dynamic_github_edit.js
 
 website:
   title: "DataSci JEDI"
