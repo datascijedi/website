@@ -17,12 +17,15 @@ var dynamic_gh_html_pre = '<div>' +
                           '<p><a href="'
 var dynamic_gh_html_post = '"><div><i class="bi bi-github"></i></div>Edit this page</a></p>' +
                            '</div>'
+var dynamic_gh_html_post_fallback = '"><div><i class="bi bi-github"></i></div>Edit on GitHub</a></p>' +
+                                    '</div>'
 
 // Loop through build files and insert "Edit this page" into HTML files
 let build_files = Deno.readDirSync(build_path);
 const decoder = new TextDecoder("utf-8");
 const encoder = new TextEncoder("utf-8");
 let source_file;
+let fallback = false;
 for (const f of build_files) {
     if (!f.isFile) continue;
     let f_split = f.name.split('.');
@@ -44,12 +47,20 @@ for (const f of build_files) {
     }
     else {
         console.error(`No source file found for HTML build file: ${f}`);
-        continue;
+        fallback = true;
     }
-    if (source_file.charAt(0) == '.') source_file = source_file.slice(1);
-    let dynamic_gh_link = `https://github.com/datascijedi/website/edit/main/${source_file}`
     // Insert the GitHub link
-    let replacement_string = dynamic_gh_html_pre + dynamic_gh_link + dynamic_gh_html_post;
+    let replacement_string;
+    let dynamic_gh_link;
+    if (fallback) {
+        dynamic_gh_link = `https://github.com/datascijedi/website`
+        replacement_string = dynamic_gh_html_pre + dynamic_gh_link + dynamic_gh_html_post_fallback;
+    }
+    else {
+        if (source_file.charAt(0) == '.') source_file = source_file.slice(1);
+        dynamic_gh_link = `https://github.com/datascijedi/website/edit/main/${source_file}`
+        replacement_string = dynamic_gh_html_pre + dynamic_gh_link + dynamic_gh_html_post;
+    }
     let build_file_path = build_path + '/' + f.name;
     let file_bytes_in = Deno.readFileSync(build_file_path);
     let file_string_in = decoder.decode(file_bytes_in)
