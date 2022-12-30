@@ -25,8 +25,6 @@ listing:
 <img src="images/jedi-logo-wide.png" alt="JEDI logo" class="center">
 ```
 
-# JEDI Outreach Group
-
 The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group is a community of statisticians and data scientists committed to communication, programming, and professional development to advance and support a society that values all people. JEDI is an outreach group of the [American Statistical Association](https://www.amstat.org/).
 
 [About JEDI](about.qmd){.button .button1 .center} [JEDI Activities](activities.qmd){.button .button1 .center}
