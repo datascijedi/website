@@ -1,5 +1,16 @@
 project:
   type: website
+  output-dir: _site
+
+  render:
+    - "*.qmd"
+    - "*.md"
+    - "*.ipynb"
+    - "*.Rmd"
+    - "!CONTRIBUTING.md"
+    - "!README-gh-pages.md"
+
+  post-render: copy_gh_pages_readme.js
 
   post-render: dynamic_github_edit.js
 
