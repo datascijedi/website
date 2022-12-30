@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "DataSci JEDI"
+  title: "JEDI Outreach Group"
   description: "The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people."
   favicon: "images/jedi-favicon-32px.ico"
   site-url: "https://datascijedi.github.io/website/"
@@ -23,13 +23,10 @@ website:
   page-navigation: true
 
   navbar:
-    logo: images/jedi-logo.jpg
+    logo: images/jedi-logo-square.png
     align: center
-    title: false
 
     left:
-      - text: "Home"
-        file: index.qmd
       - text: "About"
         file: about.qmd
       - text: "Activities"
