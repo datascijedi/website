@@ -19,6 +19,8 @@ website:
       href: LICENSE.md
     - text: "Code of Conduct"
       href: CODE_OF_CONDUCT.md
+    - text: "Edit on GitHub"
+      href: "https://github.com/datascijedi/website"
 
   page-navigation: true
 
@@ -38,13 +40,20 @@ website:
 
     right:
       - icon: twitter
-        file: https://twitter.com/datascijedi
+        href: https://twitter.com/datascijedi
+        aria-label: Twitter
       - icon: linkedin
-        file: https://www.linkedin.com/showcase/justice-equity-diversity-and-inclusion-organizing-group
+        href: https://www.linkedin.com/showcase/justice-equity-diversity-and-inclusion-organizing-group
+        aria-label: LinkedIn
       - icon: instagram
-        file: https://www.instagram.com/datascijedi/
+        href: https://www.instagram.com/datascijedi/
+        aria-label: Instagram
       - icon: facebook
-        file: https://www.facebook.com/DataSciJEDI/
+        href: https://www.facebook.com/DataSciJEDI/
+        aria-label: Facebook
+      - icon: github
+        href: https://github.com/datascijedi/website
+        aria-label: GitHub
 
   sidebar:
     - id: about
