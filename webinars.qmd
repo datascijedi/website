@@ -16,9 +16,8 @@ listing:
       author: "Presenter(s)"
     sort-ui: true
     filter-ui: true
-page-layout: article
+page-layout: full
 toc: false
-categories: false
 ---
 ## Upcoming webinars
 New webinars are coming in 2023! Sign up for our [weekly newsletter](weekly-newsletter.qmd) for the latest news on all JEDI Outreach Group activities.  

@@ -15,7 +15,7 @@ project:
     - dynamic_github_edit.js
 
 website:
-  title: "DataSci JEDI"
+  title: "JEDI Outreach Group"
   description: "The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people."
   favicon: "images/jedi-favicon-32px.ico"
   site-url: "https://datascijedi.github.io/website/"
@@ -38,13 +38,10 @@ website:
   page-navigation: true
 
   navbar:
-    logo: images/jedi-logo.jpg
+    logo: images/jedi-logo-square.png
     align: center
-    title: false
 
     left:
-      - text: "Home"
-        file: index.qmd
       - text: "About"
         file: about.qmd
       - text: "Activities"
@@ -74,7 +71,7 @@ website:
   sidebar:
     - id: about
       title: "About"
-      style: "docked"
+      style: "floating"
       collapse-level: 2
       align: left
       contents:
@@ -98,7 +95,7 @@ format:
   html:
     theme:
       light: [flatly, style.scss]
-      dark: [darkly, style.scss]
+      dark: [darkly, darkstyle.scss]
     mainfont: Atkinson Hyperlegible
     toc: true
 

@@ -1,5 +1,4 @@
 ---
-title: "JEDI Outreach Group"
 toc: false
 listing:
   - id: jedi-corner
@@ -18,12 +17,17 @@ listing:
 
 ::: column-margin
 ```{=html}
-<a class="twitter-timeline" data-width="350" data-tweet-limit="2" float="right" href="https://twitter.com/DataSciJedi?ref_src=twsrc%5Etfw">Tweets by DataSciJedi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="hide-twitter-timeline">
+  <a class="twitter-timeline" data-width="350" data-tweet-limit="2" float="right" href="https://twitter.com/DataSciJedi?ref_src=twsrc%5Etfw">Tweets by DataSciJedi</a> 
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 ```
 :::
 
 ```{=html}
-<img src="images/jedi-logo-wide.png" alt="JEDI logo" class="center">
+<img src="images/jedi-logo-wide.png" alt="Logo of the Justice, Equity, Diversity, and Inclusion Outreach Group" class="center">
+<p></p>
+<p></p>
 ```
 
 The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group is a community of statisticians and data scientists committed to communication, programming, and professional development to advance and support a society that values all people. JEDI is an outreach group of the [American Statistical Association](https://www.amstat.org/).
@@ -31,40 +35,39 @@ The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group is a communi
 [About JEDI](about.qmd){.button .button1 .center} [JEDI Activities](activities.qmd){.button .button1 .center}
 
 ## JEDI Corner
-:::: {.columns}
+::: {.grid}
 
-::: {.column width="50%" #jedi-corner}
-
+::: {.g-col-lg-6 .g-col-12 #jedi-corner}
 :::
 
-::: {.column width="50%"}
-::: {.home-grid}
-The JEDI Corner is a regular component of Amstat News in which statisticians write about and educate our community about JEDI-related matters.
+::: {.g-col-lg-6 .g-col-12 .homebox}
+JEDI Corner is a regular feature of Amstat News in which statisticians write about and educate our community on JEDI-related matters.
 
 [View the JEDI Corner archives](jedi-corner.qmd){.button .button1 .center-button}
 :::
 :::
 
-::::
-
 ## JEDI Webinars
-:::: {.columns}
+::: {.grid}
 
-::: {.column width="50%" #jedi-webinars}
-
+::: {.g-col-lg-6 .g-col-12 #jedi-webinars}
 :::
 
-::: {.column width="50%"}
-::: {.home-grid}
+::: {.g-col-lg-6 .g-col-12 .homebox}
 JEDI Committees organize webinars to educate the community on JEDI-related topics and foster discussion among JEDI members.
 
 [View the JEDI Webinar archives](webinars.qmd){.button .button1 .center-button}
 :::
 :::
 
-::::
-
 ## Get involved
 Sign-up for your free membership to the JEDI Outreach Group.
 
 [Become a JEDI member](get-involved.qmd){.button .button1 .center}
+
+```{=html}
+<div class="show-twitter-timeline">
+  <a class="twitter-timeline" data-width="350" data-tweet-limit="2" float="center" href="https://twitter.com/DataSciJedi?ref_src=twsrc%5Etfw">Tweets by DataSciJedi</a> 
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+```

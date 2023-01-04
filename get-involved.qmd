@@ -1,5 +1,6 @@
 ---
 title: "Get involved"
+toc: false
 ---
 
 Become a member of the JEDI Outreach Group by filling out the form below.
@@ -8,9 +9,9 @@ Members receive emails from our chair on JEDI-related news, can contribute to th
 If you are interested in learning more about the JEDI Outreach Group, contact us at [admin\@datascijedi.org](mailto:admin@datascijedi.org).
 
 ```{=html}
-<iframe
-    src=https://docs.google.com/forms/d/e/1FAIpQLScIfPpkxu9qcFB1r7-hfI9Ghjo3Ai3TnGXpq6vAUShLHIMzXA/viewform?embedded=true
-    width="800" height="1900" frameborder="0" marginheight="0" align="center"
-    marginwidth="0">Loading…
+<div class="container">
+<iframe class="responsive-iframe"
+    src=https://docs.google.com/forms/d/e/1FAIpQLScIfPpkxu9qcFB1r7-hfI9Ghjo3Ai3TnGXpq6vAUShLHIMzXA/viewform?embedded=true>Loading…
 </iframe>
+</div>
 ```
