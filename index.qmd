@@ -41,7 +41,7 @@ The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group is a communi
 :::
 
 ::: {.g-col-lg-6 .g-col-12 .homebox}
-The JEDI Corner is a regular component of Amstat News in which statisticians write about and educate our community about JEDI-related matters.
+JEDI Corner is a regular feature of Amstat News in which statisticians write about and educate our community on JEDI-related matters.
 
 [View the JEDI Corner archives](jedi-corner.qmd){.button .button1 .center-button}
 :::
@@ -67,7 +67,7 @@ Sign-up for your free membership to the JEDI Outreach Group.
 
 ```{=html}
 <div class="show-twitter-timeline">
-  <a class="twitter-timeline" data-width="350" data-tweet-limit="2" float="right" href="https://twitter.com/DataSciJedi?ref_src=twsrc%5Etfw">Tweets by DataSciJedi</a> 
+  <a class="twitter-timeline" data-width="350" data-tweet-limit="2" float="center" href="https://twitter.com/DataSciJedi?ref_src=twsrc%5Etfw">Tweets by DataSciJedi</a> 
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 ```
