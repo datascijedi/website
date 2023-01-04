@@ -1,5 +1,6 @@
 ---
 title: "Get involved"
+toc: false
 ---
 
 Become a member of the JEDI Outreach Group by filling out the form below.

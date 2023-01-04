@@ -4,6 +4,24 @@
 
 $font-family: "Atkinson Hyperlegible", sans-serif;
 
+.navbar-brand > img {
+  max-height: 36px;
+}
+
+@media screen and (max-width: 767px) {
+  .hide-twitter-timeline {
+    visibility: hidden;
+    display: none;
+  }
+}
+
+@media screen and (min-width: 766px) {
+  .show-twitter-timeline {
+    visibility: hidden;
+    display: none;
+  }
+}
+
 /*-- scss:rules --*/
 
 .button {
@@ -63,15 +81,4 @@ $font-family: "Atkinson Hyperlegible", sans-serif;
   right: 0;
   width: 100%;
   height: 100%;
-}
-
-@media screen and (max-width: 767px) {
-  .hide-twitter-timeline {
-    visibility: hidden;
-    display: none;
-  }
-}
-
-.navbar-brand > img {
-  max-height: 36px;
 }
