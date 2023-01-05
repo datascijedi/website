@@ -1,3 +1,11 @@
+- title: "From Visualization to 'Sensification'"
+  author: Andrew Gelman and Gwynn Sturdevant
+  href: https://magazine.amstat.org/blog/2023/01/02/jedi-corner-sensification/
+  intro: Statisticians and analysts use visualization tools to not just sell their work with pretty pictures, but to find problems with their models and construct new procedures as part of data-analysis workflow. But visualization excludes people with visual impairments, an increasingly important issue as the population gets older. How can statisticians and analysts provide some of the benefits of the dataviz revolution? 
+  date: 01/02/2023
+  image: images/jedi-corner/Gelman.png
+  alt: Photo of Andrew Gelman
+
 - title: "Achieving Diversity in Labor Market Needs JEDI, Advocacy Groups"
   author: Joseph Gastwirth
   href: https://magazine.amstat.org/blog/2022/12/01/labormarket/
