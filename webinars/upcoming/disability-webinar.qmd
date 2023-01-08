@@ -1,0 +1,41 @@
+---
+title: "Transitioning between School and Work with Disabilities"
+# description: Joint webinar with ASA Committee on Statistics and Disabilities and ASA Committee on Career Development
+# categories:
+author: Joint webinar with ASA Committee on Statistics and Disabilities, JEDI Outreach Group, and ASA Committee on Career Development
+date: 01/20/2023
+toc: false
+image: /webinars/images/disability-webinar.png
+# image-alt:
+href: /webinars/upcoming/disability-webinar.qmd 
+author-title: Er
+published-title: Date
+---
+<!-- Add flyer image here -->
+[![](/webinars/images/Transitioning+between+School+and+Work+with+Disabilities.pdf)](https://amstat.zoom.us/webinar/register/WN_i1G1bJGrSjyQj2jbjpg5nQ)
+
+## Overview
+This webinar will provide an overview of resources that help job seekers with disabilities navigate
+transitions between school and work, as well as testimonials. Many statisticians alternate between holding a
+professional position and attending educational programs, often leading to multiple transitions between school
+and work throughout one's career trajectory. This webinar brings together experts on accommodations for
+transitions to work as well as statisticians with disabilities who have experienced transitions between school
+and work during their careers. A Q&A and discussion period will follow the presentations. All are welcome to
+attend the webinar
+
+## Presenters
+* Erin Chapman, Panelist
+* Peter Flom, Panelist
+* Ryan Machtmes, Panelist
+* Alexis Popa, Panelist
+* Anja Zgodic, Moderator
+
+<!-- Add url to registration page so that button is clickable -->
+[Register now](https://amstat.zoom.us/webinar/register/WN_i1G1bJGrSjyQj2jbjpg5nQ){.button .button1}
+
+<!-- Activate sections below once event becomes a "past webinar" -->
+<!-- ## Recording
+{{< video https://www.youtube.com/embed/zu95d2gYoTc >}}
+
+## Slides
+[![](/webinars/images/incorporating-diversity.png)](https://drive.google.com/file/d/1mKil-a244bGMPzaV6TcpPY74asFbi6no/view) -->
