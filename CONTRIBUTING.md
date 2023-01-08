@@ -42,4 +42,5 @@ For adding information on upcoming webinars, use the following stpes:
 2) Copy content of dummy-webinar.qmd from website/webinars
 3) Create new .qmd file in website/webinars/upcoming, paste dummy-webinar content, and edit all available fields.
 4) If necessary, update website/webinars.qmd to replace "Coming soon" message, display upcoming webinars. Use <!-- at the start of Coming soon message and --> at end to supress. Remove #s on listing content to show upcoming webinars (lines 4-8). (Ensure proper spacing, look at past webinars list for example.) Remove <!-- and --> around :::{#upcoming webinars} ::: 
+5) If necessary, updated index.qmd to display upcoming webinars instead of past webinars. To do this, change contenct from webinars/past to webinars/upcoming
  
