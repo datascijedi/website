@@ -1,6 +1,4 @@
----
-title: "Contributing"
----
+# Contributing
 
 We welcome and value contributions from everyone. 
 
