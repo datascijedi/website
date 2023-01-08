@@ -2,7 +2,7 @@
 title: "Transitioning between School and Work with Disabilities"
 # description: Joint webinar with ASA Committee on Statistics and Disabilities and ASA Committee on Career Development
 # categories:
-author: Joint webinar with ASA Committee on Statistics and Disabilities, JEDI Outreach Group, and ASA Committee on Career Development
+author: ASA Committee on Statistics and Disabilities, JEDI Outreach Group, and ASA Committee on Career Development
 date: 01/20/2023
 toc: false
 image: /webinars/images/disability-webinar.png
@@ -12,7 +12,7 @@ author-title: Presenter
 published-title: Date
 ---
 <!-- Add flyer image here -->
-[(/webinars/images/disability-webinar.png)](https://amstat.zoom.us/webinar/register/WN_i1G1bJGrSjyQj2jbjpg5nQ)
+[![](https://github.com/datascijedi/website/webinars/images/disability-webinar.png)](https://amstat.zoom.us/webinar/register/WN_i1G1bJGrSjyQj2jbjpg5nQ)
 
 ## Overview
 This webinar will provide an overview of resources that help job seekers with disabilities navigate
