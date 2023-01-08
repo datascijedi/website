@@ -8,7 +8,7 @@ toc: false
 image: /webinars/images/disability-webinar.png
 # image-alt:
 href: /webinars/upcoming/disability-webinar.qmd 
-author-title: Er
+author-title: Presenter
 published-title: Date
 ---
 <!-- Add flyer image here -->
