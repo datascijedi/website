@@ -38,7 +38,7 @@ There are various ways to develop using Quarto, so feel free to check out the of
 
 For adding information on upcoming webinars, use the following stpes:
 
-1) Add webinar image or flyer to website/webinars/images
+1) Add webinar image or flyer to website/webinars/images. Note, pdf flyers are not ideal; they don't display well. png or jpg are preferred.
 2) Copy content of dummy-webinar.qmd from website/webinars
 3) Create new .qmd file in website/webinars/upcoming, paste dummy-webinar content, and edit all available fields.
 4) If necessary, update website/webinars.qmd to replace "Coming soon" message, display upcoming webinars. Use <!-- at the start of Coming soon message and --> at end to supress. Remove #s on listing content to show upcoming webinars (lines 4-8). (Ensure proper spacing, look at past webinars list for example.) Remove <!-- and --> around :::{#upcoming webinars} ::: 
