@@ -31,3 +31,15 @@ We use the Quarto framework for website development. Below are some steps to get
 3) Navigate to the root of the cloned repository and run `quarto preview`. This should open up a local version of this website in your browser. 
 
 There are various ways to develop using Quarto, so feel free to check out the official [Quarto docs](https://quarto.org/docs/get-started/hello/) for more information. 
+
+## Updating Webinars
+
+### Upcoming webinars
+
+For adding information on upcoming webinars, use the following stpes:
+
+1) Add webinar image or flyer to website/webinars/images
+2) Copy content of dummy-webinar.qmd from website/webinars
+3) Create new .qmd file in website/webinars/upcoming, paste dummy-webinar content, and edit all available fields.
+4) If necessary, update website/webinars.qmd to replace "Coming soon" message, display upcoming webinars. Use <!-- at the start of Coming soon message and --> at end to supress. Remove #s on listing content to show upcoming webinars (lines 4-8). (Ensure proper spacing, look at past webinars list for example.) Remove <!-- and --> around :::{#upcoming webinars} ::: 
+ 
