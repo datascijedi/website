@@ -2,10 +2,10 @@
 title: "Webinars"
 listing:
   - id: upcoming-webinars
-     contents: 
-     - webinars/upcoming
-     sort: "date desc"
-     type: grid
+    contents: 
+    - webinars/upcoming
+    sort: "date desc"
+    type: grid
   - id: past-webinars
     contents: 
     - webinars/past
