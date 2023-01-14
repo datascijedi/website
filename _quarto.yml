@@ -39,6 +39,7 @@ website:
 
   navbar:
     logo: images/jedi-logo-square.png
+    logo-alt: "JEDI logo"
     align: center
 
     left:
@@ -98,6 +99,7 @@ format:
       dark: [darkly, darkstyle.scss]
     mainfont: Atkinson Hyperlegible
     toc: true
+    linkcolor: "#0f7662"
 
 editor: visual
 

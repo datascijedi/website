@@ -6,48 +6,41 @@ author: ASA Committee on Statistics and Disabilities, JEDI Outreach Group, and A
 date: 01/20/2023
 toc: false
 image: /webinars/images/disability-webinar.png
+image-alt: "Logos of ASA Committee on Career Development, JEDI, and ASA Committee on Statistics and Disability. An illustration of diverse group of people with the title 'Transitioning Between School and Work with Disabilities'. Webinar date/time and QR code for Zoom registration."
 # image-alt:
 href: /webinars/upcoming/disability-webinar.qmd 
 author-title: Presenter
 published-title: Date
 ---
-<!-- Add flyer image here -->
-<!-- [![](/webinars/images/Transitioning+between+School+and+Work+with+Disabilities.pdf)](https://amstat.zoom.us/webinar/register/WN_i1G1bJGrSjyQj2jbjpg5nQ) -->
-[![](/webinars/images/disability-webinar.png)](https://amstat.zoom.us/webinar/register/WN_i1G1bJGrSjyQj2jbjpg5nQ)
+
+[![](/webinars/images/disability-webinar.png){fig-alt="Logos of ASA Committee on Career Development, JEDI, and ASA Committee on Statistics and Disability. An illustration of diverse group of people with the title 'Transitioning Between School and Work with Disabilities'. Webinar date/time and QR code for Zoom registration."}](https://amstat.zoom.us/webinar/register/WN_i1G1bJGrSjyQj2jbjpg5nQ)
 
 ## Overview
-This webinar will provide an overview of resources that help job seekers with disabilities navigate
-transitions between school and work, as well as testimonials. Many statisticians alternate between holding a
-professional position and attending educational programs, often leading to multiple transitions between school
-and work throughout one's career trajectory. This webinar brings together experts on accommodations for
-transitions to work as well as statisticians with disabilities who have experienced transitions between school
-and work during their careers. A Q&A and discussion period will follow the presentations. All are welcome to
-attend the webinar
+
+This webinar will provide an overview of resources that help job seekers with disabilities navigate transitions between school and work, as well as testimonials.
+Many statisticians alternate between holding a professional position and attending educational programs, often leading to multiple transitions between school and work throughout one's career trajectory.
+This webinar brings together experts on accommodations for transitions to work as well as statisticians with disabilities who have experienced transitions between school and work during their careers.
+A Q&A and discussion period will follow the presentations.
+All are welcome to attend the webinar
 
 ## Presenters
-* **Erin Chapman**, Panelist. Erin is a mathematician and computer scientist who is very autistic, has ADHD and
-several severe psychological conditions in addition to chronic kidney disease. Erin will talk about the
-decision to disclose, preparing for the accommodations process, things to do to protect yourself, and
-how to handle disclosing to coworkers if they need to be involved in accommodations.
-* **Peter Flom**, Panelist. Peter, retired data analyst and a learning-disabled adult. Peter will talk about “Things we
-wish our bosses knew.”
-* **Ryan Machtmes**, Panelist. Ryan is President and CEO of ThinkingResearch, LLC, a private statistical consulting
-company; he is also a former Presidential Management Fellow and former Fellow of the American
-Federation for the Blind’s Blind Leaders Development Program. Ryan will share insights from his
-experiences as a Blind statistical consultant and Federal employee.
-* **Alexis Popa**, Panelist. Alexis is a Consultant for the Job Accommodation Network (JAN), where she fields
-questions from employees and employers regarding their rights and responsibilities under the
-Americans with Disabilities Act (ADA) and assists in identifying accommodation solutions for employees
-with cognitive and mental health conditions.
-* **Anja Zgodic**, Moderator. Chair of the Committee on Statistics and Disabilities, and PhD candidate in
-Biostatistics at the University of South Carolina.
+
+-   **Erin Chapman**, Panelist. Erin is a mathematician and computer scientist who is very autistic, has ADHD and several severe psychological conditions in addition to chronic kidney disease. Erin will talk about the decision to disclose, preparing for the accommodations process, things to do to protect yourself, and how to handle disclosing to coworkers if they need to be involved in accommodations.
+-   **Peter Flom**, Panelist. Peter, retired data analyst and a learning-disabled adult. Peter will talk about "Things we wish our bosses knew."
+-   **Ryan Machtmes**, Panelist. Ryan is President and CEO of ThinkingResearch, LLC, a private statistical consulting company; he is also a former Presidential Management Fellow and former Fellow of the American Federation for the Blind's Blind Leaders Development Program. Ryan will share insights from his experiences as a Blind statistical consultant and Federal employee.
+-   **Alexis Popa**, Panelist. Alexis is a Consultant for the Job Accommodation Network (JAN), where she fields questions from employees and employers regarding their rights and responsibilities under the Americans with Disabilities Act (ADA) and assists in identifying accommodation solutions for employees with cognitive and mental health conditions.
+-   **Anja Zgodic**, Moderator. Chair of the Committee on Statistics and Disabilities, and PhD candidate in Biostatistics at the University of South Carolina.
 
 <!-- Add url to registration page so that button is clickable -->
+
 [Register now](https://amstat.zoom.us/webinar/register/WN_i1G1bJGrSjyQj2jbjpg5nQ){.button .button1}
 
 <!-- Activate sections below once event becomes a "past webinar" -->
+
+```{=html}
 <!-- ## Recording
 {{< video https://www.youtube.com/embed/zu95d2gYoTc >}}
 
 ## Slides
 [![](/webinars/images/incorporating-diversity.png)](https://drive.google.com/file/d/1mKil-a244bGMPzaV6TcpPY74asFbi6no/view) -->
+```

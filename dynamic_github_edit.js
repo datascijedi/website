@@ -1,6 +1,6 @@
 // This script inserts a page-specific GitHub edit link in the footer of HTML files
-// To Do: Change approach to use recursive search to find all HTML files and apply the nested 
-// paths to find the corresponding source files. 
+// To Do: Change approach to use recursive search to find all HTML files and apply the nested
+// paths to find the corresponding source files.
 
 // Set paths
 var source_path = '.';
@@ -15,11 +15,11 @@ for (const sf of source_files_raw) {
 
 // Prepare for string replacement
 var string_to_replace = 'GH-6c622c2fa6a54817'; // placeholder set in _quarto.yml
-var dynamic_gh_html_pre = '<div>' + 
-                          '<p><a href="';
-var dynamic_gh_html_post = '"><div><i class="bi bi-github"></i></div>Edit this page</a></p>' +
+var dynamic_gh_html_pre = '<div>' +
+                          '<p><a aria-label="Edit this page" href="';
+var dynamic_gh_html_post = '"><div><i class="bi bi-github" aria-hidden="true"></i></div>Edit this page</a></p>' +
                            '</div>';
-var dynamic_gh_html_post_fallback = '"><div><i class="bi bi-github"></i></div>Edit on GitHub</a></p>' +
+var dynamic_gh_html_post_fallback = '"><div><i class="bi bi-github" aria-hidden="true"></i></div>Edit on GitHub</a></p>' +
                                     '</div>';
 
 
@@ -35,13 +35,13 @@ for (const build_path of build_path_list) {
         let f_split = f.name.split('.');
         if (f_split.length < 2) continue;
         if (f_split[1].toLowerCase() != 'html') continue;
-        let f_without_ext = f_split[0];    
+        let f_without_ext = f_split[0];
         // Determine GitHub link based on source file type
         if (source_file_names.includes(f_without_ext + '.qmd')) {
             source_file = source_path + f_without_ext + '.qmd';
         }
         else if (source_file_names.includes(f_without_ext + '.md')) {
-            source_file = source_path + f_without_ext + '.md';   
+            source_file = source_path + f_without_ext + '.md';
         }
         else if (source_file_names.includes(f_without_ext + '.ipynb')) {
             source_file = source_path + f_without_ext + '.ipynb';

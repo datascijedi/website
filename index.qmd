@@ -29,15 +29,15 @@ listing:
 <p></p>
 <p></p>
 ```
-
-The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group is a community of statisticians and data scientists committed to communication, programming, and professional development to advance and support a society that values all people. JEDI is an outreach group of the [American Statistical Association](https://www.amstat.org/).
+The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group is a community of statisticians and data scientists committed to communication, programming, and professional development to advance and support a society that values all people.
+JEDI is an outreach group of the [American Statistical Association](https://www.amstat.org/).
 
 [About JEDI](about.qmd){.button .button1 .center} [JEDI Activities](activities.qmd){.button .button1 .center}
 
 ## JEDI Corner
-::: {.grid}
 
-::: {.g-col-lg-6 .g-col-12 #jedi-corner}
+::: grid
+::: {#jedi-corner .g-col-lg-6 .g-col-12}
 :::
 
 ::: {.g-col-lg-6 .g-col-12 .homebox}
@@ -48,9 +48,9 @@ JEDI Corner is a regular feature of Amstat News in which statisticians write abo
 :::
 
 ## JEDI Webinars
-::: {.grid}
 
-::: {.g-col-lg-6 .g-col-12 #jedi-webinars}
+::: grid
+::: {#jedi-webinars .g-col-lg-6 .g-col-12}
 :::
 
 ::: {.g-col-lg-6 .g-col-12 .homebox}
@@ -61,6 +61,7 @@ JEDI Committees organize webinars to educate the community on JEDI-related topic
 :::
 
 ## Get involved
+
 Sign-up for your free membership to the JEDI Outreach Group.
 
 [Become a JEDI member](get-involved.qmd){.button .button1 .center}
