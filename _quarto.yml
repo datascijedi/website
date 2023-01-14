@@ -98,6 +98,7 @@ format:
       dark: [darkly, darkstyle.scss]
     mainfont: Atkinson Hyperlegible
     toc: true
+    linkcolor: "#0f7662"
 
 editor: visual
 
