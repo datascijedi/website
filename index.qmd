@@ -2,7 +2,7 @@
 toc: false
 listing:
   - id: jedi-corner
-    template: jedi-corner.ejs
+    template: jedi-corner-home.ejs
     contents: jedi-corner.yml
     max-items: 1
     sort: "date desc"
@@ -37,10 +37,10 @@ JEDI is an outreach group of the [American Statistical Association](https://www.
 ## JEDI Corner
 
 ::: grid
-::: {#jedi-corner .g-col-lg-6 .g-col-12}
+::: {#jedi-corner .g-col-home-6 .g-col-12}
 :::
 
-::: {.g-col-lg-6 .g-col-12 .homebox}
+::: {.g-col-home-6 .g-col-12 .homebox}
 JEDI Corner is a regular feature of Amstat News in which statisticians write about and educate our community on JEDI-related matters.
 
 [View the JEDI Corner archives](jedi-corner.qmd){.button .button1 .center-button}
@@ -50,10 +50,10 @@ JEDI Corner is a regular feature of Amstat News in which statisticians write abo
 ## JEDI Webinars
 
 ::: grid
-::: {#jedi-webinars .g-col-lg-6 .g-col-12}
+::: {#jedi-webinars .g-col-home-6 .g-col-12}
 :::
 
-::: {.g-col-lg-6 .g-col-12 .homebox}
+::: {.g-col-home-6 .g-col-12 .homebox}
 JEDI Committees organize webinars to educate the community on JEDI-related topics and foster discussion among JEDI members.
 
 [View the JEDI Webinar archives](webinars.qmd){.button .button1 .center-button}

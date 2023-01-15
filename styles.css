@@ -4,3 +4,11 @@
   max-width: 36px;
   margin-right: 15px;
 }
+
+@media (min-width: 1080px) {
+  .grid .g-col-home-6 {
+    grid-column: auto/span 6;
+    grid-column-start: auto;
+    grid-column-end: span 6;
+  } 
+}
