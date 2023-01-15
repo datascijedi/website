@@ -23,11 +23,9 @@ var dynamic_gh_html_post_fallback = '">Edit on GitHub</a></p>' +
                                     '</div>';
 
 
+// Loop through build files and insert "Edit this page" into HTML files
 for (const build_path of build_path_list) {
-    // Loop through build files and insert "Edit this page" into HTML files
     let build_files = Deno.readDirSync(build_path);
-    const decoder = new TextDecoder("utf-8");
-    const encoder = new TextEncoder("utf-8");
     let source_file;
     let fallback = false;
     for (const f of build_files) {
@@ -66,10 +64,8 @@ for (const build_path of build_path_list) {
             replacement_string = dynamic_gh_html_pre + dynamic_gh_link + dynamic_gh_html_post;
         }
         let build_file_path = build_path + '/' + f.name;
-        let file_bytes_in = Deno.readFileSync(build_file_path);
-        let file_string_in = decoder.decode(file_bytes_in);
+        let file_string_in = Deno.readTextFileSync(build_file_path);
         let file_string_out = file_string_in.replace(string_to_replace, replacement_string);
-        let file_bytes_out = encoder.encode(file_string_out);
-        Deno.writeFileSync(build_file_path, file_bytes_out);
+        Deno.writeTextFileSync(build_file_path, file_string_out);
     }
 }
