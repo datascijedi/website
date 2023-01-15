@@ -3,6 +3,11 @@
   <% for (const item of items) { %>
     <div <%= metadataAttrs(item) %>>
       <div class="style">
+        <style>
+          img {
+            margin-top: 0px;
+          }
+        </style>
         <% if (item.image) { %>
         <a href="<%- item.href %>">
           <img src="<%- item.image %>" width="100%" alt="<%- item.alt %>" />
