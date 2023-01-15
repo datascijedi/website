@@ -6,7 +6,7 @@ author: Name 1, Name 2 and Name 3
 date: 12/25/2022
 toc: false
 image: /webinars/images/incorporating-diversity.png
-# image-alt:
+# alt:
 href: /webinars/upcoming/dummy-webinar-page.qmd 
 author-title: Presenters
 published-title: Date

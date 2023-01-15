@@ -6,7 +6,7 @@ author: Kagba Suaray, Maya Petersen, and Russell Shinohara
 date: 2022/10/24
 toc: false
 # image: 
-# image-alt:
+# alt:
 href: /webinars/past/2022-10-24-graduate-admissions.qmd
 author-title: Presenters
 published-title: Date

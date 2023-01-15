@@ -11,6 +11,6 @@ toc: false
 ---
 
 JEDI Corner is a regular component of [*Amstat News*](https://magazine.amstat.org/) in which statisticians write about and educate our community on JEDI-related matters.
-If you have an idea or article for the column, email the [JEDI Corner coordinator](mailto:jedicorner@datascijedi.org).
+If you have an idea or article for the column, [email the JEDI Corner coordinator](mailto:jedicorner@datascijedi.org).
 
 ## Published articles

@@ -6,14 +6,13 @@ author: ASA Committee on Statistics and Disabilities, JEDI Outreach Group, and A
 date: 01/20/2023
 toc: false
 image: /webinars/images/disability-webinar.png
-image-alt: "Logos of ASA Committee on Career Development, JEDI, and ASA Committee on Statistics and Disability. An illustration of diverse group of people with the title 'Transitioning Between School and Work with Disabilities'. Webinar date/time and QR code for Zoom registration."
-# image-alt:
+alt: "Logos of ASA Committee on Career Development, JEDI, and ASA Committee on Statistics and Disability. An illustration of diverse group of people with the title 'Transitioning Between School and Work with Disabilities'. Webinar date/time and QR code for Zoom registration."
 href: /webinars/upcoming/disability-webinar.qmd 
 author-title: Presenter
 published-title: Date
 ---
 
-[![](/webinars/images/disability-webinar.png){fig-alt="Logos of ASA Committee on Career Development, JEDI, and ASA Committee on Statistics and Disability. An illustration of diverse group of people with the title 'Transitioning Between School and Work with Disabilities'. Webinar date/time and QR code for Zoom registration."}](https://amstat.zoom.us/webinar/register/WN_i1G1bJGrSjyQj2jbjpg5nQ)
+[![](/webinars/images/disability-webinar.png){fig-alt="Logos of ASA Committee on Career Development, JEDI, and ASA Committee on Statistics and Disability. An illustration of diverse group of people with the title 'Transitioning Between School and Work with Disabilities'. Webinar date/time and QR code for Zoom registration."}](https://amstat.zoom.us/webinar/register/WN_i1G1bJGrSjyQj2jbjpg5nQ){aria-label="Register for 'Transitioning Between School and Work with Disabilities' webinar"}
 
 ## Overview
 
@@ -33,7 +32,7 @@ All are welcome to attend the webinar
 
 <!-- Add url to registration page so that button is clickable -->
 
-[Register now](https://amstat.zoom.us/webinar/register/WN_i1G1bJGrSjyQj2jbjpg5nQ){.button .button1}
+[Register now](https://amstat.zoom.us/webinar/register/WN_i1G1bJGrSjyQj2jbjpg5nQ){.button .button1 aria-label="Register for 'Transitioning Between School and Work with Disabilities' webinar"}
 
 <!-- Activate sections below once event becomes a "past webinar" -->
 

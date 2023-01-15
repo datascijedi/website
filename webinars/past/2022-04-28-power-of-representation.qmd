@@ -6,7 +6,7 @@ author: Loni Tabb
 date: 2022/04/28
 toc: false
 # image: 
-# image-alt:
+# alt:
 href: /webinars/past/2022-04-28-power-of-representation.qmd
 author-title: Presenter
 published-title: Date 
