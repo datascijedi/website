@@ -17,9 +17,9 @@ for (const sf of source_files_raw) {
 var string_to_replace = 'GH-6c622c2fa6a54817'; // placeholder set in _quarto.yml
 var dynamic_gh_html_pre = '<div>' +
                           '<p><a aria-label="Edit this page" href="';
-var dynamic_gh_html_post = '"><div><i class="bi bi-github" aria-hidden="true"></i></div>Edit this page</a></p>' +
+var dynamic_gh_html_post = '">Edit this page</a></p>' +
                            '</div>';
-var dynamic_gh_html_post_fallback = '"><div><i class="bi bi-github" aria-hidden="true"></i></div>Edit on GitHub</a></p>' +
+var dynamic_gh_html_post_fallback = '">Edit on GitHub</a></p>' +
                                     '</div>';
 
 
