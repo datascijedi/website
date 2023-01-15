@@ -8,7 +8,7 @@ const build_path_list = ['./_site', './_site/webinars', './_site/webinars/past',
 
 // Prepare list of source file names
 const source_files_raw = Array.from((Deno.readDirSync(source_path)));
-const source_file_names = Array();
+const source_file_names = [];
 for (const sf of source_files_raw) {
     source_file_names.push(sf.name);
 }
