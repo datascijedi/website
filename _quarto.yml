@@ -99,6 +99,7 @@ format:
       light: [flatly, style.scss]
       dark: [darkly, darkstyle.scss]
     mainfont: Atkinson Hyperlegible
+    css: styles.css
     toc: true
     linkcolor: "#0f7662"
 
