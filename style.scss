@@ -50,6 +50,17 @@ $font-family: "Atkinson Hyperlegible", sans-serif;
   background-color: #ecf0f1;
 }
 
+@media screen and (min-width: 320px) {
+  .homebox {
+    max-height: 250px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    background-color: #ecf0f1;
+  }
+}
+
 .center {
   display: block;
   margin-left: auto;
