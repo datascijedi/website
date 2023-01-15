@@ -101,7 +101,6 @@ format:
     mainfont: Atkinson Hyperlegible
     css: styles.css
     toc: true
-    linkcolor: "#0f7662"
 
 editor: visual
 
