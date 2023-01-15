@@ -36,14 +36,13 @@ $font-family: "Atkinson Hyperlegible", sans-serif;
   background-color: #375a7f;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-.center-button {
-  display: block;
-  text-align: center;
+@media screen and (max-width: 365px) {
+  .homebox {
+    max-height: 250px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    background-color: #375a7f;
+  }
 }

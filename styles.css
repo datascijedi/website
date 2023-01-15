@@ -1,8 +1,24 @@
 /*-- css styles --*/
+
 .navbar-brand > img {
   max-height: 36px;
   max-width: 36px;
   margin-right: 15px;
+}
+
+
+@media screen and (max-width: 767px) {
+  .hide-twitter-timeline {
+    visibility: hidden;
+    display: none;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .show-twitter-timeline {
+    visibility: hidden;
+    display: none;
+  }
 }
 
 @media (min-width: 1080px) {
@@ -11,4 +27,33 @@
     grid-column-start: auto;
     grid-column-end: span 6;
   } 
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center-button {
+  display: block;
+  text-align: center;
+}
+
+.container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 237.5%;
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
 }
