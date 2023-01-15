@@ -15,10 +15,9 @@ for (const sf of source_files_raw) {
 
 // Prepare for string replacement
 const string_to_replace = 'GH-6c622c2fa6a54817'; // placeholder set in _quarto.yml
-const dynamic_gh_html_pre = '<div>' +
-                          '<p><a aria-label="Edit this page" href="';
-const dynamic_gh_html_post = '">Edit this page</a></p>' + '</div>';
-const dynamic_gh_html_post_fallback = '">Edit on GitHub</a></p>' + '</div>';
+const dynamic_gh_html_pre = '<a class="nav-link" aria-label="Edit this page" href="';
+const dynamic_gh_html_post = '">Edit this page</a>';
+const dynamic_gh_html_post_fallback = '">Edit on GitHub</a>';
 
 // Loop through build files and insert "Edit this page" into HTML files
 for (const build_path of build_path_list) {
