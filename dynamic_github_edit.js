@@ -3,14 +3,17 @@
 // paths to find the corresponding source files.
 
 // Set paths
-const source_path = '.';
+const source_root_path = '.';
 const build_path_list = ['./_site', './_site/webinars', './_site/webinars/past', './_site/webinars/upcoming'];
+const source_path_list = ['.', './webinars', './webinars/past', './webinars/upcoming'];
 
 // Prepare list of source file names
-const source_files_raw = Array.from((Deno.readDirSync(source_path)));
 const source_file_names = [];
-for (const sf of source_files_raw) {
-    source_file_names.push(sf.name);
+for (const sp of source_path_list) {
+    const source_files_raw = Array.from((Deno.readDirSync(sp)));
+    for (const sf of source_files_raw) {
+        source_file_names.push(sf.name);
+    }
 }
 
 // Prepare for string replacement
@@ -32,16 +35,16 @@ for (const build_path of build_path_list) {
         const f_without_ext = f_split[0];
         // Determine GitHub link based on source file type
         if (source_file_names.includes(f_without_ext + '.qmd')) {
-            source_file = source_path + f_without_ext + '.qmd';
+            source_file = source_root_path + build_path.replace('./_site', '') + '/' + f_without_ext + '.qmd';
         }
         else if (source_file_names.includes(f_without_ext + '.md')) {
-            source_file = source_path + f_without_ext + '.md';
+            source_file = source_root_path + build_path.replace('./_site', '') + '/'  + f_without_ext + '.md';
         }
         else if (source_file_names.includes(f_without_ext + '.ipynb')) {
-            source_file = source_path + f_without_ext + '.ipynb';
+            source_file = source_root_path + build_path.replace('./_site', '') + '/'  + f_without_ext + '.ipynb';
         }
         else if (source_file_names.includes(f_without_ext + '.Rmd')) {
-            source_file = source_path + f_without_ext + '.Rmd';
+            source_file = source_root_path + build_path.replace('./_site', '') + '/'  + f_without_ext + '.Rmd';
         }
         else {
             console.error(`No source file found for HTML build file: ${f.name}. Using fallback.`);
