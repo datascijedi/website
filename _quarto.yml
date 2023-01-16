@@ -96,12 +96,11 @@ website:
 format:
   html:
     theme:
-      light: [flatly, style.scss]
+      light: [flatly, lightstyle.scss]
       dark: [darkly, darkstyle.scss]
     mainfont: Atkinson Hyperlegible
     css: styles.css
     toc: true
-    linkcolor: "#0f7662"
 
 editor: visual
 
