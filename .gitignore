@@ -1,7 +1,9 @@
+# Dev tools
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
-
+/.vscode/
+# Quarto render
 /.quarto/
 /_site/
