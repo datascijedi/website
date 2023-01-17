@@ -2,13 +2,13 @@
 toc: false
 listing:
   - id: jedi-corner
-    template: jedi-corner-home.ejs
+    template: templates/jedi-corner-home.ejs
     contents: jedi-corner.yml
     max-items: 1
     sort: "date desc"
 
   - id: jedi-webinars
-    template: jedi-webinar.ejs
+    template: templates/jedi-webinar.ejs
     contents: 
       - webinars/upcoming
     max-items: 1
