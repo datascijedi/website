@@ -8,11 +8,11 @@ project:
     - "*.ipynb"
     - "*.Rmd"
     - "!CONTRIBUTING.md"
-    - "!README-gh-pages.md"
+    - "!render_scripts/data/README-gh-pages.md"
 
   post-render:
-    - copy_gh_pages_readme.js
-    - dynamic_github_edit.js
+    - render_scripts/copy_gh_pages_readme.js
+    - render_scripts/dynamic_github_edit.js
 
 website:
   title: "JEDI Outreach Group"
