@@ -96,10 +96,10 @@ website:
 format:
   html:
     theme:
-      light: [flatly, lightstyle.scss]
-      dark: [darkly, darkstyle.scss]
+      light: [flatly, css/lightstyle.scss]
+      dark: [darkly, css/darkstyle.scss]
     mainfont: Atkinson Hyperlegible
-    css: styles.css
+    css: css/styles.css
     toc: true
 
 editor: visual
