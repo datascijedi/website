@@ -11,8 +11,8 @@ project:
     - "!README-gh-pages.md"
 
   post-render:
-    - copy_gh_pages_readme.js
-    - dynamic_github_edit.js
+    - render_scripts/copy_gh_pages_readme.js
+    - render_scripts/github_link_insertion.ts
 
 website:
   title: "JEDI Outreach Group"
