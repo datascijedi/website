@@ -1,14 +1,16 @@
+name: Quarto Publish
 on:
   workflow_dispatch:
   push:
-    branches: main
+    branches: 
+      - main
+      - netlify-deploy-prep
   pull_request:
-    branches: main
-
-name: Quarto Publish
-
+    branches: 
+      - main
 jobs:
   build-deploy:
+    if: ${{ github.event_name == 'push' && github.ref_name == 'main' }}
     runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
@@ -17,16 +19,27 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
-
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
-
       - name: Deploy 🚀
-        if: github.event_name != 'pull_request'
+        if: ${{ github.event_name == 'push' && github.ref_name == 'main' }}
         uses: JamesIves/github-pages-deploy-action@4.1.7
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: _site # The folder the action should deploy.
+  netlify-deploy:
+    if: ${{ github.event_name == 'push' && github.ref_name == 'netlify-deploy-prep' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+      - name: Render and Publish
+        if: ${{ github.event_name == 'push' && github.ref_name == 'netlify-deploy-prep' }}
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: netlify
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN_TEST_RM }}
