@@ -1,4 +1,4 @@
-name: Quarto Publish
+name: New Website Deploy Test
 on:
   workflow_dispatch:
   push:
