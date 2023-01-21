@@ -24,7 +24,6 @@ jobs:
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
       - name: Deploy 🚀
-        if: ${{ github.event_name == 'push' && github.ref_name == 'main' }}
         uses: JamesIves/github-pages-deploy-action@4.1.7
         with:
           branch: gh-pages # The branch the action should deploy to.
@@ -38,7 +37,6 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
       - name: Render and Publish
-        if: ${{ github.event_name == 'push' && github.ref_name == 'netlify-deploy-prep' }}
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: netlify
