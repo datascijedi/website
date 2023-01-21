@@ -62,9 +62,8 @@ jobs:
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID_TEST_RM }}
         timeout-minutes: 1
       - name: Deploy to Branch `netlify-deploy-prep-build` # to view build files on GitHub
-        uses: ad-m/github-push-action@master
+        uses: JamesIves/github-pages-deploy-action@4.1.7
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          directory: '_site'
-          branch: netlify-deploy-prep-build
+          folder: _site # The folder the action should deploy.
+          branch: netlify-deploy-prep-build # The branch the action should deploy to.
         timeout-minutes: 1
