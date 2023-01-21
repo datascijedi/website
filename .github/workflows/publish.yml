@@ -3,23 +3,18 @@ on:
   workflow_dispatch:
   push:
     branches: 
-      - main
       - netlify-deploy-prep
   pull_request:
     branches: 
-      - main
+      - netlify-deploy-prep
     type:
       - opened
       - synchronize
 jobs:
-  gh-pages-deploy:
-    name: GitHub Pages Deploy
-    if: |
-      ${{ github.event_name == 'push' && github.ref_name == 'main' 
-       || github.event_name == 'workflow_dispatch' && github.ref_name == 'main' }}
+  netlify-deploy-preview:
+    name: Netlify Deploy Preview
+    if: ${{ github.event_name == 'pull_request' && github.ref_name == 'netlify-deploy-prep' }}
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
@@ -27,22 +22,49 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.7
+      - name: Deploy to Netlify
+        uses: nwtgck/actions-netlify@v1.2
         with:
-          folder: .        # The folder the action should deploy.
-          branch: gh-pages # The branch the action should deploy to.
+          publish-dir: '_site'
+          production-deploy: false
+          deploy-message: "Deploy Preview from GitHub Actions"
+          enable-pull-request-comment: false
+          enable-commit-comment: false
+          overwrites-pull-request-comment: false
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN_TEST_RM }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID_TEST_RM }}
         timeout-minutes: 1
-  netlify-deploy:
-    if: ${{ github.event_name == 'push' && github.ref_name == 'netlify-deploy-prep' }}
+  netlify-production-deploy:
+    name: Netlify Production Deploy
+    if: |
+      ${{ (github.event_name == 'push' && github.ref_name == 'netlify-deploy-prep')
+       || (github.event_name == 'workflow_dispatch' && github.ref_name == 'netlify-deploy-prep') }}
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-      - name: Render and Publish
-        uses: quarto-dev/quarto-actions/publish@v2
+      - name: Render Quarto Project
+        uses: quarto-dev/quarto-actions/render@v2
+      - name: Deploy to Netlify
+        uses: nwtgck/actions-netlify@v1.2
         with:
-          target: netlify
+          publish-dir: '_site'
+          production-deploy: true
+          deploy-message: "Production Deploy from GitHub Actions"
+          enable-pull-request-comment: false
+          enable-commit-comment: false
+          overwrites-pull-request-comment: false
+        env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN_TEST_RM }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID_TEST_RM }}
+        timeout-minutes: 1
+      - name: Deploy to Branch `netlify-deploy-prep-build` # to view build files on GitHub
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          directory: '_site'
+          branch: netlify-deploy-prep-build
+        timeout-minutes: 1
