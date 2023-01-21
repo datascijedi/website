@@ -1,4 +1,0 @@
-- source: project
-  netlify:
-    - id: '78775d90-776f-46d6-a6ed-92c71895babc'
-      url: 'https://jedi-new-website-test-deploy.netlify.app/'
