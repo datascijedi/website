@@ -11,9 +11,8 @@ on:
       - opened
       - synchronize
 jobs:
-  netlify-deploy-preview:
-    name: Netlify Deploy Preview
-    if: github.event_name == 'pull_request' && github.ref_name == 'netlify-deploy-prep'
+  debug:
+    name: Debug job
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -21,6 +20,13 @@ jobs:
       - name: Debug
         run: echo ${{ github.ref_name }}
         run: echo ${{ github.head_name }}
+  netlify-deploy-preview:
+    name: Netlify Deploy Preview
+    if: github.event_name == 'pull_request' && github.ref_name == 'netlify-deploy-prep'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
       - name: Check out repository
         uses: actions/checkout@v3
       - name: Set up Quarto
