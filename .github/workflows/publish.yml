@@ -18,6 +18,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Debug
+        run: echo ${{ github.ref_name }}
+        run: echo ${{ github.head_name }}
       - name: Check out repository
         uses: actions/checkout@v3
       - name: Set up Quarto
