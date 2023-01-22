@@ -22,7 +22,7 @@ jobs:
         run: echo ${{ github.head_name }}
   netlify-deploy-preview:
     name: Netlify Deploy Preview
-    if: github.event_name == 'pull_request' && github.ref_name == 'netlify-deploy-prep'
+    if: github.event_name == 'pull_request' # && github.ref_name == 'netlify-deploy-prep'
     runs-on: ubuntu-latest
     permissions:
       contents: write
