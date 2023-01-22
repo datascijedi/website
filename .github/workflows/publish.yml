@@ -17,8 +17,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Debug
+      - name: debug 1
         run: echo ${{ github.ref_name }}
+      - name: debug 2
         run: echo ${{ github.head_name }}
   netlify-deploy-preview:
     name: Netlify Deploy Preview
