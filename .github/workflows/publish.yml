@@ -21,6 +21,8 @@ jobs:
         run: echo ${{ github.ref_name }}
       - name: debug 2
         run: echo ${{ github.head_name }}
+      - name: debug 3
+        run: echo ${{ github.base_ref }}
   netlify-deploy-preview:
     name: Netlify Deploy Preview
     if: github.event_name == 'pull_request' # && github.ref_name == 'netlify-deploy-prep'
@@ -28,6 +30,12 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: debug 1
+        run: echo ${{ github.ref_name }}
+      - name: debug 2
+        run: echo ${{ github.head_name }}
+      - name: debug 3
+        run: echo ${{ github.base_ref }}
       - name: Check out repository
         uses: actions/checkout@v3
       - name: Set up Quarto
