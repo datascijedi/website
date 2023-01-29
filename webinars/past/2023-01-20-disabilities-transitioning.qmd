@@ -27,8 +27,9 @@ All are welcome to attend the webinar
 -   **Alexis Popa**, Panelist. Alexis is a Consultant for the Job Accommodation Network (JAN), where she fields questions from employees and employers regarding their rights and responsibilities under the Americans with Disabilities Act (ADA) and assists in identifying accommodation solutions for employees with cognitive and mental health conditions.
 -   **Anja Zgodic**, Moderator. Chair of the Committee on Statistics and Disabilities, and PhD candidate in Biostatistics at the University of South Carolina.
 
-<!-- ## Recording
-{{< video https://www.youtube.com/embed/zu95d2gYoTc >}} -->
+## Recording
+<!-- {{< video https://www.youtube.com/embed/zu95d2gYoTc >}} -->
+Recording coming soon. Sign up for our [weekly newsletter](weekly-newsletter.qmd) to be notified when recording is available. 
 
 <!-- ## Slides
 [![](/webinars/images/incorporating-diversity.png){fig-alt="Title page from slide deck for the webinar, 'Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses: Two Case Studies'"}](https://drive.google.com/file/d/1mKil-a244bGMPzaV6TcpPY74asFbi6no/view){aria-label="Download the slides from the webinar, 'Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses: Two Case Studies'"} -->
