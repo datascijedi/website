@@ -28,3 +28,5 @@ toc: false
 -   [Bibliometric analysis of the top 100 cited papers in health care disparities](https://link.springer.com/article/10.1007/s40615-016-0288-y)
 
 -   [Compilation of literature with recommendations on how to use data on race, ethnicity, gender, and sexual orientation is research](https://zzlalo.notion.site/zzlalo/f9d2a242c16845c39a7682c086b60055?v=028f0c9b26ce440dbb147de630b2702c)
+
+-   [Resources for inclusive teaching, compiled by Emily Griffith and Jordan Duggins](https://statistics.sciences.ncsu.edu/resources/faculty/dei-teaching-resources/)
