@@ -30,6 +30,12 @@ We use the Quarto framework for website development. Below are some steps to get
 
 There are various ways to develop using Quarto, so feel free to check out the official [Quarto docs](https://quarto.org/docs/get-started/hello/) for more information. 
 
+## Adding links
+When inserting links anywhere on the site, use clear label describing the purpose of the link. This makes the website more accessible for viewers using screen readers (among other accecsibility benefits). [Read more about Accesible Rich Interner Applications at this link.](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA8#:~:text=The%20aria%2Dlabel%20attribute%20provides,used%20instead%20of%20aria%2Dlabel%20)
+
+## Updating Resources
+For adding links to Resources tab, open the resources.qmd file (in the "main" folder). Click the pencil icon to edit the file. Copy the formatting for other links, that is putting the text description within brackets and website within parentheses. Leave a vertical space between each bullet point resource. Commit changes to save. 
+
 ## Updating Webinars
 
 ### Upcoming webinars
@@ -42,5 +48,3 @@ For adding information on upcoming webinars, use the following stpes:
 4) If necessary, update website/webinars.qmd to replace "Coming soon" message, display upcoming webinars. Use <!-- at the start of Coming soon message and --> at end to supress. Remove #s on listing content to show upcoming webinars (lines 4-8). (Ensure proper spacing, look at past webinars list for example.) Remove <!-- and --> around :::{#upcoming webinars} ::: 
 5) If necessary, updated index.qmd to display upcoming webinars instead of past webinars. To do this, change content from webinars/past to webinars/upcoming
  
-## Adding links
-When inserting links, use clear label describing the purpose of the link. This makes the website more accessible for viewers using screen readers (among other accecsibility benefits). [Read more about Accesible Rich Interner Applications at this link.](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA8#:~:text=The%20aria%2Dlabel%20attribute%20provides,used%20instead%20of%20aria%2Dlabel%20)
