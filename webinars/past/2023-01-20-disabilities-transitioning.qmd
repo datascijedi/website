@@ -7,7 +7,7 @@ date: 01/20/2023
 toc: true
 image: /webinars/images/disability-webinar.png
 alt: "Logos of ASA Committee on Career Development, JEDI, and ASA Committee on Statistics and Disability. An illustration of diverse group of people with the title 'Transitioning Between School and Work with Disabilities'. Webinar date/time and QR code for Zoom registration."
-href: /webinars/past/2023-01-20-disabilities-transition.qmd
+href: /webinars/past/2023-01-20-disabilities-transitioning.qmd
 author-title: Presenters
 published-title: Date
 ---
