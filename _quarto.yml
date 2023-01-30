@@ -11,7 +11,7 @@ project:
     - "!render_scripts/data/README-gh-pages.md"
 
   post-render:
-    - render_scripts/copy_gh_pages_readme.js
+    - render_scripts/copy_gh_pages_readme.ts
     - render_scripts/github_link_insertion.ts
 
 website:
