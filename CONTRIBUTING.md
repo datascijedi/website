@@ -16,9 +16,11 @@ Below are some ways in which you can help.
 
 For code contributions, please submit a PR using the following steps:
 
-1) Fork the [datascijedi/website](https://github.com/datascijedi/website) repository. 
+1) Clone (or fork, for new contributors) the [datascijedi/website](https://github.com/datascijedi/website) repository. 
 2) Create a branch using a descriptive name (e.g. `my-awesome-feature`) and make your additions there. 
-3) Create a pull request from `my-awesome-branch` in your forked repository to the `main` branch of the [datascijedi/website](https://github.com/datascijedi/website) repository. 
+3) Create a pull request from `my-awesome-branch` in your cloned (or forked) repository to the `main` branch of the [datascijedi/website](https://github.com/datascijedi/website) repository. 
+
+In addition, consider creating a relevant GiHub issue so other contributors are aware and can comment on your proposed work, especially if your work is a larger effort that may take some time to complete. 
 
 ## Local Dev Setup
 
