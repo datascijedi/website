@@ -1,19 +1,16 @@
 ---
 title: "Transitioning between School and Work with Disabilities"
-# description: Joint webinar with ASA Committee on Statistics and Disabilities and ASA Committee on Career Development
+# description:
 # categories:
 author: ASA Committee on Statistics and Disabilities, JEDI Outreach Group, and ASA Committee on Career Development
 date: 01/20/2023
-toc: false
+toc: true
 image: /webinars/images/disability-webinar.png
 alt: "Logos of ASA Committee on Career Development, JEDI, and ASA Committee on Statistics and Disability. An illustration of diverse group of people with the title 'Transitioning Between School and Work with Disabilities'. Webinar date/time and QR code for Zoom registration."
-href: /webinars/upcoming/disability-webinar.qmd 
-author-title: Presenter
+href: /webinars/past/2023-01-20-disabilities-transitioning.qmd
+author-title: Presenters
 published-title: Date
 ---
-
-[![](/webinars/images/disability-webinar.png){fig-alt="Logos of ASA Committee on Career Development, JEDI, and ASA Committee on Statistics and Disability. An illustration of diverse group of people with the title 'Transitioning Between School and Work with Disabilities'. Webinar date/time and QR code for Zoom registration."}](https://amstat.zoom.us/webinar/register/WN_i1G1bJGrSjyQj2jbjpg5nQ){aria-label="Register for 'Transitioning Between School and Work with Disabilities' webinar"}
-
 ## Overview
 
 This webinar will provide an overview of resources that help job seekers with disabilities navigate transitions between school and work, as well as testimonials.
@@ -30,16 +27,10 @@ All are welcome to attend the webinar
 -   **Alexis Popa**, Panelist. Alexis is a Consultant for the Job Accommodation Network (JAN), where she fields questions from employees and employers regarding their rights and responsibilities under the Americans with Disabilities Act (ADA) and assists in identifying accommodation solutions for employees with cognitive and mental health conditions.
 -   **Anja Zgodic**, Moderator. Chair of the Committee on Statistics and Disabilities, and PhD candidate in Biostatistics at the University of South Carolina.
 
-<!-- Add url to registration page so that button is clickable -->
+## Recording
 
-[Register now](https://amstat.zoom.us/webinar/register/WN_i1G1bJGrSjyQj2jbjpg5nQ){.button .button1 aria-label="Register for 'Transitioning Between School and Work with Disabilities' webinar"}
+<!-- {{< video https://www.youtube.com/embed/zu95d2gYoTc >}} -->
+Recording coming soon. Sign up for our [weekly newsletter](weekly-newsletter.qmd) to be notified when recording is available. 
 
-<!-- Activate sections below once event becomes a "past webinar" -->
-
-```{=html}
-<!-- ## Recording
-{{< video https://www.youtube.com/embed/zu95d2gYoTc >}}
-
-## Slides
-[![](/webinars/images/incorporating-diversity.png)](https://drive.google.com/file/d/1mKil-a244bGMPzaV6TcpPY74asFbi6no/view) -->
-```
+<!-- ## Slides
+[![](/webinars/images/incorporating-diversity.png){fig-alt="Title page from slide deck for the webinar, 'Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses: Two Case Studies'"}](https://drive.google.com/file/d/1mKil-a244bGMPzaV6TcpPY74asFbi6no/view){aria-label="Download the slides from the webinar, 'Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses: Two Case Studies'"} -->
