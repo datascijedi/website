@@ -17,9 +17,7 @@ toc: false
 
 -   [Peace-Work](https://www.peace-work.org)
 
--    One more resource
-
--    And another one
+-   One more resource and another
 
 ## Links to resources:
 
