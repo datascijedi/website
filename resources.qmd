@@ -19,6 +19,8 @@ toc: false
 
 -    One more resource
 
+-    And another one
+
 ## Links to resources:
 
 -   [Anti-racism resources compiled by Mount Sinai Center for Scientific Diversity and JEDI Emma Benn](https://icahn.mssm.edu/research/center-scientific-diversity/resources)
