@@ -67,3 +67,9 @@ For adding information on upcoming webinars, use the following stpes:
  9) IF THERE ARE NO UPCOMING WEBINARS, update index.qmd to display past webinars instead of upcoming. To do this, change content from webinars/past to webinars/upcoming. (Home page may look the same since this webinar will still be featured, but check that link goes to past webinar page instead of page.) 
  10) Delete page from website/webinars/upcoming.
 
+## JEDI Corners
+
+Each month, update website with new JEDI corner article.
+
+1) Save photo of author or article image to images/jedi-corner  
+2) In jedi-corner.yml, copy entry from previous month. Edit article information, Committ changes.
