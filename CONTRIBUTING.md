@@ -20,6 +20,8 @@ For code contributions, please submit a PR using the following steps:
 2) Create a branch using a descriptive name (e.g. `my-awesome-feature`) and make your additions there. 
 3) Create a pull request from `my-awesome-branch` in your cloned (or forked) repository to the `main` branch of the [datascijedi/website](https://github.com/datascijedi/website) repository. 
 
+See [this recording from a Communications Committee meeting that demostrates two approaches to starting a pull request and requesting a merge](https://drive.google.com/file/d/1tYgy2J9Yne-YX4c1JdHnQLGTgK3G2wAc/view?usp=sharing). 
+
 In addition, consider creating a relevant GiHub issue so that other contributors are aware and can comment on your proposed work, especially if your work is a larger effort that may take some time to complete. 
 
 ## Local Dev Setup
