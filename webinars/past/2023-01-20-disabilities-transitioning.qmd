@@ -30,7 +30,7 @@ All are welcome to attend the webinar
 ## Recording
 
 <!-- {{< video https://www.youtube.com/embed/zu95d2gYoTc >}} -->
-Recording coming soon. Sign up for our [weekly newsletter](weekly-newsletter.qmd) to be notified when recording is available. 
+Recording coming soon. Sign up for our [weekly newsletter](../../weekly-newsletter.qmd) to be notified when recording is available. 
 
 <!-- ## Slides
 [![](/webinars/images/incorporating-diversity.png){fig-alt="Title page from slide deck for the webinar, 'Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses: Two Case Studies'"}](https://drive.google.com/file/d/1mKil-a244bGMPzaV6TcpPY74asFbi6no/view){aria-label="Download the slides from the webinar, 'Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses: Two Case Studies'"} -->

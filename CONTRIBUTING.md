@@ -20,6 +20,8 @@ For code contributions, please submit a PR using the following steps:
 2) Create a branch using a descriptive name (e.g. `my-awesome-feature`) and make your additions there. 
 3) Create a pull request from `my-awesome-branch` in your cloned (or forked) repository to the `main` branch of the [datascijedi/website](https://github.com/datascijedi/website) repository. 
 
+See [this recording from a Communications Committee meeting that demostrates two approaches to starting a pull request and requesting a merge](https://drive.google.com/file/d/1tYgy2J9Yne-YX4c1JdHnQLGTgK3G2wAc/view?usp=sharing). 
+
 In addition, consider creating a relevant GiHub issue so that other contributors are aware and can comment on your proposed work, especially if your work is a larger effort that may take some time to complete. 
 
 ## Local Dev Setup
@@ -65,3 +67,9 @@ For adding information on upcoming webinars, use the following stpes:
  9) IF THERE ARE NO UPCOMING WEBINARS, update index.qmd to display past webinars instead of upcoming. To do this, change content from webinars/past to webinars/upcoming. (Home page may look the same since this webinar will still be featured, but check that link goes to past webinar page instead of page.) 
  10) Delete page from website/webinars/upcoming.
 
+## JEDI Corners
+
+Each month, update website with new JEDI corner article.
+
+1) Save photo of author or article image to images/jedi-corner  
+2) In jedi-corner.yml, copy entry from previous month. Edit article information, Committ changes.
