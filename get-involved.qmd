@@ -9,6 +9,5 @@ Members receive emails from our chair on JEDI-related news, can contribute to th
 If you are interested in learning more about the JEDI Outreach Group, contact us at [admin\@datascijedi.org](mailto:admin@datascijedi.org).
 
 ```{=html}
-<script type="text/javascript" src="https://form.jotform.com/jsform/230192987790064">
-</script>
+<script type="text/javascript" src="https://form.jotform.com/jsform/230192987790064"></script>
 ```
