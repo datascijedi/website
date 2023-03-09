@@ -4,4 +4,4 @@ This repository holds the source files for our live website at https://datascije
 
 If you'd like to contribute content or code to the website, please check out our [contributor documentation](https://github.com/datascijedi/website/blob/main/CONTRIBUTING.md). 
 
-If you are interested in getting involved in other ways, you can become a member of the JEDI Outreach Group using our [sign up form](https://datascijedi.netlify.appget-involved.html). 
+If you are interested in getting involved in other ways, you can become a member of the JEDI Outreach Group using our [sign up form](https://datascijedi.netlify.app/get-involved.html). 
