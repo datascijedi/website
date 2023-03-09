@@ -23,7 +23,7 @@ Event description here
 * Name 3
 
 <!-- Add url to registration page so that button is clickable -->
-[Register now](https://datascijedi.github.io/website/){.button .button1}
+[Register now](https://datascijedi.netlify.app/website/){.button .button1}
 
 <!-- Activate sections below once event becomes a "past webinar" -->
 <!-- ## Recording
