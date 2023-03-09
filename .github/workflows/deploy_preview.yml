@@ -3,14 +3,14 @@ on:
   workflow_dispatch:
   pull_request:
     branches: 
-      - netlify-deploy-prep
+      - main
     type:
       - opened
       - synchronize
 jobs:
   netlify-deploy-preview:
     name: Netlify Deploy Preview
-    if: github.event_name == 'pull_request' && github.base_ref == 'netlify-deploy-prep'
+    if: github.event_name == 'pull_request' && github.base_ref == 'main'
     runs-on: ubuntu-latest
     permissions:
       contents: write
