@@ -1,1 +1,1 @@
-Sitemap: https://datascijedi.netlify.app/website/sitemap.xml
+Sitemap: https://datascijedi.netlify.app/sitemap.xml
