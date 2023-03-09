@@ -33,8 +33,8 @@ jobs:
           enable-commit-comment: false
           overwrites-pull-request-comment: false
         env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN_TEST_RM }}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID_TEST_RM }}
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN_PROD }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID_PROD }}
         timeout-minutes: 1
       - name: Add deploy preview link to PR comments
         uses: thollander/actions-comment-pull-request@v2
