@@ -9,6 +9,7 @@ project:
     - "*.Rmd"
     - "!CONTRIBUTING.md"
     - "!render_scripts/data/README-gh-pages.md"
+    - "!webinars/dummy-webinar-page.qmd"
 
   post-render:
     - render_scripts/copy_gh_pages_readme.ts
