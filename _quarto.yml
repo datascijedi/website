@@ -50,7 +50,7 @@ website:
         file: activities.qmd
       - jedi-corner.qmd
       - resources.qmd
-      - text: "Get involved"
+      - text: "Get Involved"
         file: get-involved.qmd
 
     right:

@@ -1,4 +1,5 @@
 ---
+pagetitle: "JEDI Outreach Group - About"
 about:
   template: trestles
   image: "images/jedi-logo-square.png"
