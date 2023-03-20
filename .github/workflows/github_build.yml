@@ -1,0 +1,30 @@
+# The website deployment is handled on the Netlify side. 
+# This workflow is just to make the latest website build easily viewable on GitHub. 
+name: GitHub Build
+on:
+  workflow_dispatch:
+  push:
+    branches: 
+      - main
+jobs:
+  main-build-deploy:
+    name: Push Build to Branch `main-build`
+    if: |
+      (github.event_name == 'push' && github.ref_name == 'main')
+      || (github.event_name == 'workflow_dispatch' && github.ref_name == 'main')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+      - name: Render Quarto Project
+        uses: quarto-dev/quarto-actions/render@v2
+      - name: Push to Branch `main-build`
+        uses: JamesIves/github-pages-deploy-action@4.1.7
+        with:
+          folder: _site       # Source files to build. 
+          branch: main-build  # The branch the action should deploy to.
+        timeout-minutes: 1
