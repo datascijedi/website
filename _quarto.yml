@@ -70,29 +70,6 @@ website:
         href: https://github.com/datascijedi/website
         aria-label: GitHub
 
-  sidebar:
-    - id: about
-      title: "About"
-      style: "floating"
-      collapse-level: 2
-      align: left
-      contents:
-        - text: "About"
-          file: about.qmd
-        # - file: welcome.qmd
-        # - file: history.qmd
-
-    - id: activities
-      title: "Activities"
-      style: "floating"
-      collapse-level: 2
-      align: left
-      contents:
-        - text: "Activities"
-          file: activities.qmd
-        - file: webinars.qmd
-        - file: weekly-newsletter.qmd
-
 format:
   html:
     theme:
