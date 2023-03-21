@@ -14,6 +14,20 @@ project:
     - render_scripts/copy_gh_pages_readme.ts
     - render_scripts/github_link_insertion.ts
 
+format:
+  html:
+    theme:
+      light: [flatly, css/lightstyle.scss]
+      dark: [darkly, css/darkstyle.scss]
+    mainfont: Atkinson Hyperlegible
+    css: css/styles.css
+    toc: true
+
+editor: visual
+
+execute:
+  freeze: auto
+
 website:
   title: "JEDI Outreach Group"
   description: "The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people."
@@ -25,16 +39,6 @@ website:
   twitter-card:
     creator: "@datascijedi"
     image: "images/jedi-logo-square.png"
-
-  page-footer:
-    left: "Copyright 2023 © JEDI"
-    center:
-    - text: "GH-6c622c2fa6a54817" # placeholder text, replaced in post-render script
-    right:
-    - text: "License"
-      href: LICENSE.md
-    - text: "Code of Conduct"
-      href: CODE_OF_CONDUCT.md
 
   page-navigation: true
 
@@ -70,16 +74,12 @@ website:
         href: https://github.com/datascijedi/website
         aria-label: GitHub
 
-format:
-  html:
-    theme:
-      light: [flatly, css/lightstyle.scss]
-      dark: [darkly, css/darkstyle.scss]
-    mainfont: Atkinson Hyperlegible
-    css: css/styles.css
-    toc: true
-
-editor: visual
-
-execute:
-  freeze: auto
+  page-footer:
+    left: "Copyright 2023 © JEDI"
+    center:
+    - text: "GH-6c622c2fa6a54817" # placeholder text, replaced in post-render script
+    right:
+    - text: "License"
+      href: LICENSE.md
+    - text: "Code of Conduct"
+      href: CODE_OF_CONDUCT.md
