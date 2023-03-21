@@ -27,7 +27,7 @@ website:
     image: "images/jedi-logo-square.png"
 
   page-footer:
-    left: "Copyright 2022 © JEDI"
+    left: "Copyright 2023 © JEDI"
     center:
     - text: "GH-6c622c2fa6a54817" # placeholder text, replaced in post-render script
     right:
