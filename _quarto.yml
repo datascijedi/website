@@ -74,6 +74,18 @@ website:
         href: https://github.com/datascijedi/website
         aria-label: GitHub
 
+  sidebar:
+    - id: activities
+      title: "Activities"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - text: "Activities"
+          file: activities.qmd
+        - file: webinars.qmd
+        - file: weekly-newsletter.qmd
+
   page-footer:
     left: "Copyright 2023 © JEDI"
     center:
