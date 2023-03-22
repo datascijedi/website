@@ -1,5 +1,6 @@
 ---
 toc: false
+sidebar: false
 listing:
   - id: jedi-corner
     template: templates/jedi-corner-home.ejs
