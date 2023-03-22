@@ -75,16 +75,19 @@ website:
         aria-label: GitHub
 
   sidebar:
-    - id: activities
-      title: "Activities"
+    # We use a dummy sidebar so that pages without a sidebar don't inherit an actual sidebar
+    - id: dummy-sidebar
+    - title: "Activities"
       style: "floating"
       collapse-level: 2
       align: left
       contents:
         - text: "Activities"
           file: activities.qmd
-        - file: webinars.qmd
-        - file: weekly-newsletter.qmd
+        - text: "Webinars"
+          file: webinars.qmd
+        - text: "Weekly Newsletter"
+          file: weekly-newsletter.qmd
 
   page-footer:
     left: "Copyright 2023 © JEDI"
