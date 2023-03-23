@@ -19,10 +19,6 @@ To contribute code or content, just submit a pull request against the `main` bra
 
 For non-technical and R-based GitHub work flows, check out [this recording](https://drive.google.com/file/d/1tYgy2J9Yne-YX4c1JdHnQLGTgK3G2wAc/view?usp=sharing) from a Communications Committee meeting that demostrates two approaches to starting a pull request and requesting a merge. 
 
-### Deploy Previews
-
-One of the benefits of being a member of the GitHub JEDI organization is that you can take advantage of deploy previews: when you submit a pull request against the main branch, a website build will be triggered and a URL for the new website version will be created automatically. If you're an external collaborator interested in larger or longer term contributions, we can look into adding you as a team member as well to take advantage of this collaboration feature. 
-
 ## Developer Setup
 
 For website code contributions, you'll probably want to get a local development setup going. 
