@@ -6,7 +6,6 @@
   margin-right: 15px;
 }
 
-
 @media screen and (max-width: 767px) {
   .hide-twitter-timeline {
     visibility: hidden;
@@ -56,4 +55,13 @@
   right: 0;
   width: 100%;
   height: 100%;
+}
+
+/*
+Using a floating `sidebar` in Quarto sets the `floating` class on the `body` element, which in turn
+causes bootstrap to not apply `border-top` to `nav-footer`, so we use this work around to
+make the footer border always appear.
+*/
+body .nav-footer {
+  border-top: 1px solid #dee2e6;
 }
