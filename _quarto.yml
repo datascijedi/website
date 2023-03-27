@@ -80,6 +80,7 @@ website:
   sidebar:
     # We use a dummy sidebar so that pages without a sidebar don't inherit an actual sidebar
     - id: dummy-sidebar
+      border: true # Causes the separator to appear for the "Activities" sidebar
     - title: "Activities"
       style: "floating"
       collapse-level: 2
