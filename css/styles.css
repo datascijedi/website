@@ -57,6 +57,7 @@
   height: 100%;
 }
 
+/* Addresses an issue where the JEDI Corner page nav height appeared larger than on other pages. */
 @media screen and (min-width: 992px) {
   nav.navbar {
     height: 84px;
