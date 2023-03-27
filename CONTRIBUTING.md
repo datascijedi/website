@@ -62,7 +62,7 @@ For adding information on upcoming webinars, use the following stpes:
  3) Name file used date and topic and .qmd file type (e.g., 2023-01-20-disabilities-transitioning.qmd)
  4) Paste copied template
  5) Edit template with webinar specific information. (Can open github in a separate tab to copy information.)
- 6) When/if webinar video and slides are available, add links under Recording and SLides. If not available, use "<!--" to suppress these lines of code. Can leave note: "Recording coming soon. Sign up for our [weekly newsletter](https://datascijedi.netlify.app/weekly-newsletter.html) to be notified when recording is available." 
+ 6) When/if webinar video and slides are available, add links under Recording and SLides. If not available, use "<!--" to suppress these lines of code. Can leave note: "Recording coming soon. Sign up for our [weekly newsletter](https://datascijedi.org/weekly-newsletter.html) to be notified when recording is available." 
  7) Commit new file
  8) IF THERE ARE NO UPCOMING WEBINARS, update website/webinars.qmd. with the follow: comment out upcoming webinars on the listing (from - id: upcoming webinars to type:default); use "<!-- ... -->" to suppress upcoming-webinars and remove these from around "New webinars are coming" message. 
  9) IF THERE ARE NO UPCOMING WEBINARS, update index.qmd to display past webinars instead of upcoming. To do this, change content from webinars/past to webinars/upcoming. (Home page may look the same since this webinar will still be featured, but check that link goes to past webinar page instead of page.) 
@@ -79,8 +79,8 @@ Each month, update website with a new JEDI corner article.
 
 Consider becoming a general member of the JEDI Outreach Group member to stay in the loop, make suggestions, and plenty more:
 
-https://datascijedi.netlify.app/get-involved.html
+https://datascijedi.org/get-involved.html
 
 If you're reading this and want to help out, but are still not sure how, consider joining one of our committees. The committees conduct various volunteer-driven activities that keep this group going, which are detailed here:
 
-https://datascijedi.netlify.app/activities.html
+https://datascijedi.org/activities.html

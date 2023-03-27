@@ -6,7 +6,7 @@ const htmlUrlRegex = new RegExp('https://.*\.html', 'ig');
 const htmlUrlList = sitemapString.matchAll(htmlUrlRegex);
 // Loop through and insert GitHub links
 for (const url of htmlUrlList) {
-  const outputHtmlPath = url[0].replace('https://datascijedi.netlify.app', '_site');
+  const outputHtmlPath = url[0].replace('https://datascijedi.org', '_site');
   // Link to source file whenever possible
   const qmdPath = outputHtmlPath.replace('_site', '.').replace('.html', '.qmd');
   const qmdExists = checkSourceExistence(qmdPath);
