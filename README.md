@@ -1,6 +1,6 @@
 <p align="center"><img src="./images/jedi-logo-wide.png" alt="jedi-logo-wide" width="300"/></p>
 
-This repository holds the source files for our live website at https://datascijedi.org, and will eventually be made live at http://www.datascijedi.org/ as well. 
+This repository holds the source files for our live website at https://datascijedi.org. 
 
 If you'd like to contribute content or code to the website, please check out our [contributor documentation](https://github.com/datascijedi/website/blob/main/CONTRIBUTING.md). 
 
