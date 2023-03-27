@@ -1,3 +1,5 @@
+# Bogus comment for testing Netlify build fail
+
 project:
   type: website
   output-dir: _site
