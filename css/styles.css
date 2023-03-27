@@ -58,6 +58,8 @@
   height: 100%;
 }
 
-nav.navbar {
-  height: 84px;
+@media screen and (min-width: 992px) {
+  nav.navbar {
+    height: 84px;
+  }
 }
