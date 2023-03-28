@@ -1,0 +1,34 @@
+# A backup option for using GitHub Actions to manually trigger a build on GitHub and production
+# deploy to Netlify, which may be useful e.g. if a Netlify production deploy fails.
+name: Manual Deploy
+on:
+  workflow_dispatch:
+    branches:
+      - main
+jobs:
+  netlify-production-deploy:
+    name: Netlify Production Deploy
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+      - name: Render Quarto Project
+        uses: quarto-dev/quarto-actions/render@v2
+      - name: Deploy to Netlify
+        uses: nwtgck/actions-netlify@v1.2
+        with:
+          publish-dir: '_site'
+          production-deploy: true
+          deploy-message: "Production Deploy from GitHub Actions"
+          enable-pull-request-comment: false
+          enable-commit-comment: false
+          overwrites-pull-request-comment: false
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN_PROD }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID_PROD }}
+        timeout-minutes: 1
