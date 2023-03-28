@@ -7,3 +7,6 @@
 # Quarto render
 /.quarto/
 /_site/
+
+# Local Netlify folder
+.netlify
