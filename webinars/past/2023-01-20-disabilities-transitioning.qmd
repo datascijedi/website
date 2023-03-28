@@ -29,7 +29,7 @@ All are welcome to attend the webinar
 
 ## Recording
 
-{{< video https://www.youtube.com/watch?v=Z5o0SEdTBsk >}}
+{{< video https://www.youtube.com/embed/Z5o0SEdTBsk >>}}
 <!-- Recording coming soon. Sign up for our [weekly newsletter](../../weekly-newsletter.qmd) to be notified when recording is available.  -->
 
 <!-- ## Slides
