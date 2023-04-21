@@ -1,5 +1,5 @@
 ---
-title: "JEDI Outreach Group Committees"
+title: "Committees"
 ---
 
 Our committees are actively working to promote justice, equity, diversity, and inclusion (JEDI) principles in statistics and data science. 
