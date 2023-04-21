@@ -30,8 +30,7 @@ All are welcome to attend the webinar
 ## Recording
 
 <!-- When YouTube recording is ready, add in link. Click, share, embed, then extract link from iframe code -->
-The recording is available on YouTube:
-[https://www.youtube.com/watch?v=Z5o0SEdTBsk](https://www.youtube.com/watch?v=Z5o0SEdTBsk){aria-label="Webinar Video Link"}
+{{< video https://www.youtube.com/embed/Z5o0SEdTBsk >}}
 
 <!-- ## Slides
 [![](/webinars/images/incorporating-diversity.png){fig-alt="Title page from slide deck for the webinar, 'Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses: Two Case Studies'"}](https://drive.google.com/file/d/1mKil-a244bGMPzaV6TcpPY74asFbi6no/view){aria-label="Download the slides from the webinar, 'Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses: Two Case Studies'"} -->
