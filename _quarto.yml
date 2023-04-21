@@ -89,7 +89,7 @@ website:
       collapse-level: 2
       align: left
       contents:
-        - text: "Activities"
+        - text: "Committees"
           file: activities.qmd
         - text: "Webinars"
           file: webinars.qmd
