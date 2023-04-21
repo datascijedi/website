@@ -90,7 +90,7 @@ website:
           file: activities.qmd
         - text: "Webinars"
           file: webinars.qmd
-        - text: "Weekly Newsletter"
+        - text: "Newsletter"
           file: weekly-newsletter.qmd
 
   page-footer:
