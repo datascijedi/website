@@ -82,7 +82,7 @@ Below are steps to get set up when using Quarto via the command line.
 
 The website is deployed with Netlify via [netlify_deploy.sh](https://github.com/datascijedi/website/blob/main/netlify_deploy.sh) and [netlify.toml](https://github.com/datascijedi/website/blob/main/netlify.toml). 
 
-To update the Quarto version used for Netlify production deployments and deploy previews, [find the link](https://github.com/quarto-dev/quarto-cli/releases) to the tarball (it should with "linux-amd64.tar.gz") and update `QUARTO_TARBALL_URL` in [netlify_deploy.sh](https://github.com/datascijedi/website/blob/main/netlify_deploy.sh) with this link.
+To update the Quarto version used for Netlify production deployments and deploy previews, [find the link](https://github.com/quarto-dev/quarto-cli/releases) to the tarball (it should end with "linux-amd64.tar.gz") and update `QUARTO_TARBALL_URL` in [netlify_deploy.sh](https://github.com/datascijedi/website/blob/main/netlify_deploy.sh) with this link.
 
 ## JEDI Membership
 
