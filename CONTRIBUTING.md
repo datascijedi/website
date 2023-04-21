@@ -4,7 +4,7 @@ We welcome and value contributions from everyone. Contributions can include addi
 
 ## Table of Contents
 
-- [Workflow](#workflow)
+- [Introduction](#introduction)
 - [Content](#content)
   - [Adding Links](#adding-links)
   - [Updating Resources](#updating-resources)
@@ -15,7 +15,7 @@ We welcome and value contributions from everyone. Contributions can include addi
   - [Deployment](#deployment)
 - [JEDI Membership](#jedi-membership)
 
-## Workflow
+## Introduction
 
 To contribute code or content, just submit a pull request against the `main` branch! If you are embarking on a larger effort or just want to let us know of an issue, consider creating a GiHub issue as well. 
 
