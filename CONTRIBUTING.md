@@ -90,6 +90,6 @@ Consider becoming a member of the JEDI Outreach Group to stay in the loop, make 
 
 https://datascijedi.org/get-involved.html
 
-As a member, you can also get involved with one of our committees to help out with various volunteer-driven activities:
+As a member, you can also join one of our committees to help out with various volunteer-driven activities:
 
 https://datascijedi.org/activities.html
