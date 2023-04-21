@@ -1,7 +1,7 @@
 ---
 title: "Weekly Newsletter"
 ---
-JEDI members stay connected via a weekly update email sent by the Chair. The content of these emails changes weekly, but includes items like:
+JEDI members stay connected via regular email updates sent by the Chair. The content of these emails varies but includes items like:
 
 * Information on upcoming [JEDI webinars](webinars.qmd)
 * Links to the latest [JEDI Corner](jedi-corner.qmd)
