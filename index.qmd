@@ -1,4 +1,5 @@
 ---
+pagetitle: "JEDI Outreach Group"
 toc: false
 sidebar: false
 listing:

@@ -42,7 +42,6 @@ website:
   twitter-card:
     card-style: summary
     site: "@datascijedi"
-    title: "JEDI Outreach Group"
     description: "The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people."
     image: "images/jedi-logo-square.png"
 
