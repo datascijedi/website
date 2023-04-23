@@ -1,9 +1,0 @@
----
-title: "Welcome from the chair"
----
-
-::: callout-note
-**TO DO:** Add welcome note from the chair.
-
-We could incorporate some of our goals for the website here if we want to make it like a "welcome to this website" note, including what we hope people will learn/be able to do at the site
-:::

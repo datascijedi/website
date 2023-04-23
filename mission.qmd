@@ -1,9 +1,0 @@
----
-title: "Mission, vision, values"
----
-
-The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people.
-
-::: callout-note
-**TO DO:** More to add here so it's not just repeating the short mission from homepage and about?
-:::
