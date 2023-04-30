@@ -9,4 +9,4 @@ Help build our community by sharing these resources within your personal and pro
 
 **In talks and presentations:**\
 ![](files/JEDI-info-slide-template_Page_1.png){fig-alt="Image of slide for inclusion in presentations. Text reads: Join Jedi at DataSciJedi.org or follow the QR code" width="600px"}\
-Five different designs available. Download: [PDF](files/JEDI-info-slide-template.pdf), [PowerPoint](files/JEDI-info-slide-template.pptx).
+Four different designs available. Download: [PDF](files/JEDI-info-slide-template-1.pdf), [PowerPoint](files/JEDI-info-slide-template.pptx).
