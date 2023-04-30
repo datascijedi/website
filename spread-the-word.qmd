@@ -1,0 +1,12 @@
+---
+title: "Spread the Word"
+toc: false
+---
+Help build our community by sharing these resources within your personal and professional networks.
+
+**On social media:**\
+[![](files/jedi-social.png){width="400px"}](files/jedi-social.png)
+
+**In talks and presentations:**\
+![](files/JEDI-info-slide-template_Page_1.png){width="600px"}\
+Five different designs available. Download: [PDF](files/JEDI-info-slide-template.pdf), [PowerPoint](files/JEDI-info-slide-template.pptx).
