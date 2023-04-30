@@ -53,6 +53,8 @@ website:
     align: center
 
     left:
+      - text: "#JEDIatJSM"
+        file: jedi-at-jsm.qmd
       - text: "About"
         file: about.qmd
       - text: "Activities"
