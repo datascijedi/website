@@ -94,6 +94,15 @@ website:
           file: webinars.qmd
         - text: "Newsletter"
           file: weekly-newsletter.qmd
+    - title: "Get Involved"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - text: "Get Involved"
+          file: get-involved.qmd
+        - text: "Spread the Word"
+          file: spread-the-word.qmd
 
   page-footer:
     left: "Copyright 2023 © JEDI"
