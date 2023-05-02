@@ -2,7 +2,7 @@
 title: "Sociocultural and analytical considerations for engaging LGBTQIA+ Communities"
 # description:
 # categories:
-author: ASA LGBTQ+ Advocacy Committee
+author: Nicole Dennis-Benn, Ilan H. Meyer, Miles Ott
 date: 03/29/2023
 toc: true
 image: /webinars/images/engaging_lgbtq_webinar_screenshot.jpg
