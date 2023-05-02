@@ -7,7 +7,7 @@ date: 03/29/2023
 toc: true
 image: /webinars/images/engaging_lgbtq_webinar_screenshot.jpg
 alt: "Rainbow colored flyer advertising webinar titled 'Sociocultural and analytical considerations for engaging LGBTQIA+ Communities' with photos of speakers. Flyer includes webinar date/time and QR code for Zoom registration."
-href: /webinars/past/2023-03-29-engaging-lgbtq.qmd
+href: /webinars/past/2023-03-29-engaging-lgbtq-webinar.qmd
 author-title: Presenters
 published-title: Date
 ---
