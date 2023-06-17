@@ -2,7 +2,7 @@
 title: "Transitioning between School and Work with Disabilities"
 # description:
 # categories:
-author: ASA Committee on Statistics and Disabilities, JEDI Outreach Group, and ASA Committee on Career Development
+author: Erin Chapman, Peter Flom, Ryan Machtmes, Alexis Popa, Ana Zgodic
 date: 01/20/2023
 toc: true
 image: /webinars/images/disability-webinar.png
@@ -18,6 +18,7 @@ Many statisticians alternate between holding a professional position and attendi
 This webinar brings together experts on accommodations for transitions to work as well as statisticians with disabilities who have experienced transitions between school and work during their careers.
 A Q&A and discussion period will follow the presentations.
 All are welcome to attend the webinar
+Webinar co-sponsored by ASA Committee on Statistics and Disabilities, JEDI Outreach Group, and ASA Committee on Career Development.
 
 ## Presenters
 

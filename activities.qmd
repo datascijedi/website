@@ -4,17 +4,19 @@ title: "Committees"
 
 Our committees are actively working to promote justice, equity, diversity, and inclusion (JEDI) principles in statistics and data science. 
 
-* The **Awards Committee** is focused on diversifying nominations for the American Statistical Association’s (ASA) Fellows Award as well as other awards for statisticians within and outside of the ASA.
+* The **Communications Committee** manages the JEDI Outreach Group social media channels and website, advertises JEDI-related events and opportunities, and coordinates the JEDI Corner in *Amstat News* [(Link to JEDI Corner archives)](jedi-corner.qmd). Chair: R. Yates Coley [(Link to Yates Coley webpage)](https://www.kpwashingtonresearch.org/our-research/our-scientists/Coley-Yates)
 
-* The **Communications Committee** manages the JEDI Outreach Group social media channels and website, advertises JEDI-related events and opportunities, and coordinates the JEDI Corner in *Amstat News* [(Link to JEDI Corner archives)](jedi-corner.qmd).
+* The **Professional Development Committee** provides opportunities for members to learn about JEDI-related issues and how to develop communities that are just, equitable, diverse and inclusive. Chair: Eric J. Daza [(Link to EJ Daza webpage)](https://www.ericjdaza.com/)
 
-* The **Liaison Committee** collaborates with other organizations within and outside of the ASA to develop and maintain best practices for JEDI in our scientific communities.
+* The **Program Committee** develops and contributes programming that promotes a just, equitable, diverse and inclusive statistics community and addresses areas of statistical study that face JEDI-related implications. This committee will work to incorporate and/or sponsor JEDI-related programming in statistical conferences. Chair: Christina Knudson [(Link to Christina Knudson webpage)](https://cknudson.com/). Chair-Elect: Therri Usher [(Link to Therri Usher webpage)](https://www.linkedin.com/in/therriusher/) 
 
-* The **Professional Development Committee** provides opportunities for members to learn about JEDI-related issues and how to develop communities that are just, equitable, diverse and inclusive.
+* The **Students and Young Professionals Committee** provides an opportunity for students and young professionals (within five years of their highest degree) to gather and convene to discuss their JEDI-related experiences and concerns. This committee can further pass along ideas and collaborate with the other JEDI Outreach Group committees to publicize and address their related concerns and interests. Chair: Anarina Murillo [(Link to Anarina Murillo webpage)](https://vivo.brown.edu/display/amurill1)
 
-* The **Program Committee** develops and contributes programming that promotes a just, equitable, diverse and inclusive statistics community and addresses areas of statistical study that face JEDI-related implications. This committee will work to incorporate and/or sponsor JEDI-related programming in statistical conferences.
-
-* The **Students and Young Professionals Committee** provides an opportunity for students and young professionals (within five years of their highest degree) to gather and convene to discuss their JEDI-related experiences and concerns. This committee can further pass along ideas and collaborate with the other JEDI Outreach Group committees to publicize and address their related concerns and interests.
+* Other executive committee members:
+  + Chair: Wendy Martinez [(Link to Wendy Martinez webpage)](https://www.linkedin.com/in/martinez-wendy-483b0112/)
+  + Chair-Elect: Melody Goodman [(Link to Melody Goodman webpage)](https://publichealth.nyu.edu/faculty/melody-goodman)
+  + Past-Chair: Kimberly F. Sellers [(Link to Kimberly Sellers webpage)](https://www.kimflaggsellers.com/)
+  + Secretary/Treasurer: Amanda Luby [(Link to Amanda Luby webpage)](https://aluby.domains.swarthmore.edu/)
 
 Want to get involved? [Sign up for here for the JEDI Outreach Group](get-involved.qmd) and [check out our newsletter](weekly-newsletter.qmd) for opportunities to contribute to committee activities. 
 
