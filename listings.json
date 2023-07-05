@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/jedi-corner.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/webinars/past/2023-03-29-engaging-lgbtq-webinar.html",
@@ -9,10 +13,6 @@
       "/webinars/past/2022-04-28-power-of-representation.html",
       "/webinars/past/2021-29-10-incorporating-diversity.html"
     ]
-  },
-  {
-    "listing": "/jedi-corner.html",
-    "items": []
   },
   {
     "listing": "/webinars.html",
