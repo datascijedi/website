@@ -17,14 +17,16 @@ listing:
     sort: "date desc"
 ---
 
-::: column-margin
+<!-- Temporarily removing the embedded Twitter feed, see discussion here: 
+https://twittercommunity.com/t/again-list-widget-says-nothing-to-see-here-yet-if-logged-out/198782/111 -->
+<!-- ::: column-margin
 ```{=html}
 <div class="hide-twitter-timeline">
   <a class="twitter-timeline" data-width="350" data-tweet-limit="2" float="right" href="https://twitter.com/DataSciJedi?ref_src=twsrc%5Etfw">Tweets by DataSciJedi</a> 
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 ```
-:::
+::: -->
 
 ```{=html}
 <img src="images/jedi-logo-wide.png" alt="Logo of the Justice, Equity, Diversity, and Inclusion Outreach Group" class="center">
@@ -68,15 +70,14 @@ Sign-up for your free membership to the JEDI Outreach Group.
 
 [Become a JEDI member](get-involved.qmd){.button .button1 .center}
 
-::: {.show-twitter-timeline}
-
+<!-- Temporarily removing the embedded Twitter feed, see discussion here: 
+https://twittercommunity.com/t/again-list-widget-says-nothing-to-see-here-yet-if-logged-out/198782/111 -->
+<!-- ::: {.show-twitter-timeline}
 ## Twitter Feed
-
 ```{=html}
 <center>
   <a class="twitter-timeline" data-width="350" data-tweet-limit="2" float="center" href="https://twitter.com/DataSciJedi?ref_src=twsrc%5Etfw">Tweets by DataSciJedi</a> 
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 ```
-
-:::
+::: -->
