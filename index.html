@@ -141,7 +141,7 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:image-width" content="400">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -220,20 +220,27 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    </div>
+    
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 
 
+<!-- Temporarily removing the embedded Twitter feed, see discussion here: 
+https://twittercommunity.com/t/again-list-widget-says-nothing-to-see-here-yet-if-logged-out/198782/111 -->
+<!-- ::: column-margin
 
-<div class="no-row-height column-margin column-container"><div class="">
+
+```{=html}
 <div class="hide-twitter-timeline">
   <a class="twitter-timeline" data-width="350" data-tweet-limit="2" float="right" href="https://twitter.com/DataSciJedi?ref_src=twsrc%5Etfw">Tweets by DataSciJedi</a> 
-  <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-</div></div><img src="images/jedi-logo-wide.png" alt="Logo of the Justice, Equity, Diversity, and Inclusion Outreach Group" class="center">
+```
+
+
+::: -->
+<img src="images/jedi-logo-wide.png" alt="Logo of the Justice, Equity, Diversity, and Inclusion Outreach Group" class="center">
 <p></p>
 <p></p>
 <p>The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group is a community of statisticians and data scientists committed to communication, programming, and professional development to advance and support a society that values all people. JEDI is an outreach group of the <a href="https://www.amstat.org/">American Statistical Association</a>.</p>
@@ -244,9 +251,9 @@ ul.task-list li input[type="checkbox"] {
 <div id="listing-jedi-corner" class="g-col-home-6 g-col-12 quarto-listing quarto-listing-container-custom">
 <div class="list">
     <div data-index="0" data-listing-date-sort="1688169600000">
-      <div class="style">
+      <div class="jedi-list-item">
         <style>
-          img {
+          .jedi-list-item img {
             float: left;
             margin-top: 6px;
             margin-right: 15px;
@@ -277,7 +284,7 @@ No matching items
 <div class="grid">
 <div id="listing-jedi-webinars" class="g-col-home-6 g-col-12 quarto-listing quarto-listing-container-custom">
 <div class="list">
-    <div data-index="0" data-listing-date-sort="1680048000000" data-listing-file-modified-sort="1688520577356" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+    <div data-index="0" data-listing-date-sort="1680048000000" data-listing-file-modified-sort="1689456442165" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
       <div class="style">
         <style>
           img {
@@ -307,17 +314,25 @@ No matching items
 <h2 class="anchored" data-anchor-id="get-involved">Get Involved</h2>
 <p>Sign-up for your free membership to the JEDI Outreach Group.</p>
 <p><a href="./get-involved.html" class="button button1 center">Become a JEDI member</a></p>
-</section>
-<section id="twitter-feed" class="level2 show-twitter-timeline">
-<h2 class="anchored" data-anchor-id="twitter-feed">Twitter Feed</h2>
+<!-- Temporarily removing the embedded Twitter feed, see discussion here: 
+https://twittercommunity.com/t/again-list-widget-says-nothing-to-see-here-yet-if-logged-out/198782/111 -->
+<!-- ::: {.show-twitter-timeline}
+## Twitter Feed
+
+
+```{=html}
 <center>
   <a class="twitter-timeline" data-width="350" data-tweet-limit="2" float="center" href="https://twitter.com/DataSciJedi?ref_src=twsrc%5Etfw">Tweets by DataSciJedi</a> 
-  <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
+```
+
+
+::: -->
+
+
+
 </section>
-
-
-
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
