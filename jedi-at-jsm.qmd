@@ -11,6 +11,12 @@ If you're a social media user, tag **#JEDIatJSM** when discussing these sessions
 
 ### 2023 sessions
 
+```{=html}
+<img src="images/jedi-at-jsm/schedule-no0069Or1614Sessions.png" alt="Schedule overvivew of JEDI co-sponsored sessions at JSM 2023" class="center">
+<p></p>
+<p></p>
+```
+
 ::::grid
 :::{.g-col-12 .g-col-lg-6}
 [![](images/jedi-at-jsm/1451_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1132)
