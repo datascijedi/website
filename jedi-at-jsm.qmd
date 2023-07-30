@@ -13,59 +13,47 @@ If you're a social media user, tag **#JEDIatJSM** when discussing these sessions
 
 ::::grid
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/JSM22_220851_v1_IG.png){fig-alt="image text to go here"}](https://ww2.amstat.org/meetings/jsm/2023/program.cfm)
+[![](images/jedi-at-jsm/1451_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1132)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/JSM22_221883_v1_IG.png){fig-alt="image text to go here"}](https://ww2.amstat.org/meetings/jsm/2023/program.cfm)
+[![](images/jedi-at-jsm/1891_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2380)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/JSM22_221906_v1_IG.png){fig-alt="image text to go here"}](https://ww2.amstat.org/meetings/jsm/2023/program.cfm)
+[![](images/jedi-at-jsm/1457_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1126)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/JSM22_221935_v1_IG 1.png){fig-alt="image text to go here"}](https://ww2.amstat.org/meetings/jsm/2023/program.cfm)
+[![](images/jedi-at-jsm/1281_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1479)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/JSM22_222046_v1_IG 1.png){fig-alt="image text to go here"}](https://ww2.amstat.org/meetings/jsm/2023/program.cfm)
+[![](images/jedi-at-jsm/1326_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1854)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/JSM22_223226_v1_IG.png){fig-alt="image text to go here"}](https://ww2.amstat.org/meetings/jsm/2023/program.cfm)
+[![](images/jedi-at-jsm/1446_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1146)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/JSM22_220851_v1_IG.png){fig-alt="image text to go here"}](https://ww2.amstat.org/meetings/jsm/2023/program.cfm)
+[![](images/jedi-at-jsm/1384_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1272)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/JSM22_221883_v1_IG.png){fig-alt="image text to go here"}](https://ww2.amstat.org/meetings/jsm/2023/program.cfm)
+[![](images/jedi-at-jsm/1177_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1657)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/JSM22_221906_v1_IG.png){fig-alt="image text to go here"}](https://ww2.amstat.org/meetings/jsm/2023/program.cfm)
+[![](images/jedi-at-jsm/1284_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1470)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/JSM22_221935_v1_IG 1.png){fig-alt="image text to go here"}](https://ww2.amstat.org/meetings/jsm/2023/program.cfm)
+[![](images/jedi-at-jsm/1732_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2304)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/JSM22_222046_v1_IG 1.png){fig-alt="image text to go here"}](https://ww2.amstat.org/meetings/jsm/2023/program.cfm)
-:::
-
-:::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/JSM22_223226_v1_IG.png){fig-alt="image text to go here"}](https://ww2.amstat.org/meetings/jsm/2023/program.cfm)
-:::
-
-:::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/JSM22_220851_v1_IG.png){fig-alt="image text to go here"}](https://ww2.amstat.org/meetings/jsm/2023/program.cfm)
-:::
-
-:::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/JSM22_221883_v1_IG.png){fig-alt="image text to go here"}](https://ww2.amstat.org/meetings/jsm/2023/program.cfm)
+[![](images/jedi-at-jsm/1264_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1507)
 :::
 
 ::::
