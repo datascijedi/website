@@ -1,7 +1,7 @@
 ---
 title: "#JEDIatJSM"
 page-layout: full
-toc: false
+toc: true
 ---
 The JEDI Outreach Group is sponsoring or co-sponsoring 14 sessions at this year's [Joint Statistical Meetings (JSM) in Toronto, Canada](https://ww2.amstat.org/meetings/jsm/2023/). 
 
@@ -9,13 +9,11 @@ Click the preview images below to visit each session's page within the [JSM prog
 
 If you're a social media user, tag **#JEDIatJSM** when discussing these sessions on social media and help keep the conversation going!
 
-### 2023 sessions
+### 2023 overview
 
-```{=html}
-<img src="images/jedi-at-jsm/schedule-no0069Or1614Sessions.png" alt="Schedule overvivew of JEDI co-sponsored sessions at JSM 2023" class="center">
-<p></p>
-<p></p>
-```
+[![](images/jedi-at-jsm/schedule-no0069Or1614Sessions.png){fig-alt="Schedule overview of JEDI co-sponsored sessions at JSM 2023" align="center"}](images/jedi-at-jsm/schedule-no0069Or1614Sessions.png)
+
+### 2023 sessions
 
 ::::grid
 :::{.g-col-12 .g-col-lg-6}
