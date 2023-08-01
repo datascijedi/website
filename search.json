@@ -126,27 +126,6 @@
     "text": "Published articles"
   },
   {
-    "objectID": "get-involved.html",
-    "href": "get-involved.html",
-    "title": "Get Involved",
-    "section": "",
-    "text": "Become a member of the JEDI Outreach Group by filling out the form below. Members receive emails from our chair on JEDI-related news, can contribute to the community by joining one of our committees, vote for future committee board members, and more.\nIf you are interested in learning more about the JEDI Outreach Group, contact us at admin@datascijedi.org."
-  },
-  {
-    "objectID": "activities.html",
-    "href": "activities.html",
-    "title": "Committees",
-    "section": "",
-    "text": "Our committees are actively working to promote justice, equity, diversity, and inclusion (JEDI) principles in statistics and data science.\n\nThe Communications Committee manages the JEDI Outreach Group social media channels and website, advertises JEDI-related events and opportunities, and coordinates the JEDI Corner in Amstat News (Link to JEDI Corner archives). Chair: R. Yates Coley (Link to Yates Coley webpage)\nThe Professional Development Committee provides opportunities for members to learn about JEDI-related issues and how to develop communities that are just, equitable, diverse and inclusive. Chair: Eric J. Daza (Link to EJ Daza webpage)\nThe Program Committee develops and contributes programming that promotes a just, equitable, diverse and inclusive statistics community and addresses areas of statistical study that face JEDI-related implications. This committee will work to incorporate and/or sponsor JEDI-related programming in statistical conferences. Chair: Christina Knudson (Link to Christina Knudson webpage). Chair-Elect: Therri Usher (Link to Therri Usher webpage)\nThe Students and Young Professionals Committee provides an opportunity for students and young professionals (within five years of their highest degree) to gather and convene to discuss their JEDI-related experiences and concerns. This committee can further pass along ideas and collaborate with the other JEDI Outreach Group committees to publicize and address their related concerns and interests. Chair: Anarina Murillo (Link to Anarina Murillo webpage)\nOther executive committee members:\n\nChair: Wendy Martinez (Link to Wendy Martinez webpage)\nChair-Elect: Melody Goodman (Link to Melody Goodman webpage)\nPast-Chair: Kimberly F. Sellers (Link to Kimberly Sellers webpage)\nSecretary/Treasurer: Amanda Luby (Link to Amanda Luby webpage)\n\n\nWant to get involved? Sign up for here for the JEDI Outreach Group and check out our newsletter for opportunities to contribute to committee activities."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "JEDI Outreach Group",
-    "section": "",
-    "text": "In 2021, the American Statistical Association established the Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group. JEDI is a community of statisticians and data scientists committed to communication, programming, and professional development to advance a society that values all people. The group considers all dimensions of diversity, including but not limited to race, gender, sexual orientation, age, persons with disabilities, and socioeconomic status. JEDI provides a diverse and inclusive environment that embraces all members and educates our community about JEDI-related matters. The group is further committed to promoting statistical methods to measure and address inequities and injustices in our society.\nRead about the origins of the JEDI Outreach Group in Amstat News."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "JEDI Outreach Group",
@@ -173,6 +152,34 @@
     "title": "JEDI Outreach Group",
     "section": "Get Involved",
     "text": "Get Involved\nSign-up for your free membership to the JEDI Outreach Group.\nBecome a JEDI member"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "JEDI Outreach Group",
+    "section": "",
+    "text": "In 2021, the American Statistical Association established the Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group. JEDI is a community of statisticians and data scientists committed to communication, programming, and professional development to advance a society that values all people. The group considers all dimensions of diversity, including but not limited to race, gender, sexual orientation, age, persons with disabilities, and socioeconomic status. JEDI provides a diverse and inclusive environment that embraces all members and educates our community about JEDI-related matters. The group is further committed to promoting statistical methods to measure and address inequities and injustices in our society.\nRead about the origins of the JEDI Outreach Group in Amstat News."
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Committees",
+    "section": "",
+    "text": "Our committees are actively working to promote justice, equity, diversity, and inclusion (JEDI) principles in statistics and data science.\n\nThe Communications Committee manages the JEDI Outreach Group social media channels and website, advertises JEDI-related events and opportunities, and coordinates the JEDI Corner in Amstat News (Link to JEDI Corner archives). Chair: R. Yates Coley (Link to Yates Coley webpage)\nThe Professional Development Committee provides opportunities for members to learn about JEDI-related issues and how to develop communities that are just, equitable, diverse and inclusive. Chair: Eric J. Daza (Link to EJ Daza webpage)\nThe Program Committee develops and contributes programming that promotes a just, equitable, diverse and inclusive statistics community and addresses areas of statistical study that face JEDI-related implications. This committee will work to incorporate and/or sponsor JEDI-related programming in statistical conferences. Chair: Christina Knudson (Link to Christina Knudson webpage). Chair-Elect: Therri Usher (Link to Therri Usher webpage)\nThe Students and Young Professionals Committee provides an opportunity for students and young professionals (within five years of their highest degree) to gather and convene to discuss their JEDI-related experiences and concerns. This committee can further pass along ideas and collaborate with the other JEDI Outreach Group committees to publicize and address their related concerns and interests. Chair: Anarina Murillo (Link to Anarina Murillo webpage)\nOther executive committee members:\n\nChair: Wendy Martinez (Link to Wendy Martinez webpage)\nChair-Elect: Melody Goodman (Link to Melody Goodman webpage)\nPast-Chair: Kimberly F. Sellers (Link to Kimberly Sellers webpage)\nSecretary/Treasurer: Amanda Luby (Link to Amanda Luby webpage)\n\n\nWant to get involved? Sign up for here for the JEDI Outreach Group and check out our newsletter for opportunities to contribute to committee activities."
+  },
+  {
+    "objectID": "get-involved.html",
+    "href": "get-involved.html",
+    "title": "Get Involved",
+    "section": "",
+    "text": "Become a member of the JEDI Outreach Group by filling out the form below. Members receive emails from our chair on JEDI-related news, can contribute to the community by joining one of our committees, vote for future committee board members, and more.\nIf you are interested in learning more about the JEDI Outreach Group, contact us at admin@datascijedi.org."
+  },
+  {
+    "objectID": "jedi-at-jsm.html",
+    "href": "jedi-at-jsm.html",
+    "title": "#JEDIatJSM",
+    "section": "",
+    "text": "The JEDI Outreach Group is sponsoring or co-sponsoring 14 sessions at this year’s Joint Statistical Meetings (JSM) in Toronto, Canada.\nClick the preview images below to visit each session’s page within the JSM program and add them to your personalised schedule.\nIf you’re a social media user, tag #JEDIatJSM when discussing these sessions on social media and help keep the conversation going!\n\n2023 overview\n\n\n\n\n\n\n\n2023 sessions"
   },
   {
     "objectID": "resources.html",
