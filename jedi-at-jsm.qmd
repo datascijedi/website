@@ -3,7 +3,7 @@ title: "#JEDIatJSM"
 page-layout: full
 toc: true
 ---
-The JEDI Outreach Group is sponsoring or co-sponsoring 14 sessions at this year's [Joint Statistical Meetings (JSM) in Toronto, Canada](https://ww2.amstat.org/meetings/jsm/2023/). 
+The JEDI Outreach Group is sponsoring or co-sponsoring 1r sessions at this year's [Joint Statistical Meetings (JSM) in Toronto, Canada](https://ww2.amstat.org/meetings/jsm/2023/). 
 
 Click the preview images below to visit each session's page within the [JSM program](https://ww2.amstat.org/meetings/jsm/2023/program.cfm) and add them to your personalised schedule.
 
@@ -11,53 +11,65 @@ If you're a social media user, tag **#JEDIatJSM** when discussing these sessions
 
 ### 2023 overview
 
-[![](images/jedi-at-jsm/schedule-no0069Or1614Sessions.png){fig-alt="Schedule overview of JEDI co-sponsored sessions at JSM 2023" align="center"}](images/jedi-at-jsm/schedule-no0069Or1614Sessions.png)
+[![](images/jedi-at-jsm/schedule-no0069Or1614Sessions.png){fig-alt="A schedule graphic with the title "#JEDIatJSM 2023" aligned to the left with the JEDI and JSM 2023 logos to the right. Underneath, in alternating navy blue and mint green boxes, are listed the sessions and events affiliated with JEDI occurring during JSM 2023.
+
+On Sunday (August 6) there are 2 sessions. The session "Metrics and Statistical Analyses of JEDI-related Data" is 2-3:30p and the session "Measures & Applications for Relating Historical Structural Racism with Contemporary Health Outcomes" is from 4-5:50p.
+
+On Monday (August 7) there are 4 sessions and 1 event. The session "Biostatistics or Data Science: Choosing the Right Path" is from 8:30-10:20a. The session "Teaching with Datasets that Recognize the Intersectional Perspectives of Studnets" is from 10:30a-12:20p. The sessions "Contributed Poster Presentations: Justice Equitity Diversity and Inclusion Outreach Group" and "Statistical Scientists of the Math Alliance: A Focus on Diversity & Recent Graduates" are both from 2-3:30p. From 6-7p there will be the "Accessibility Town Hall".
+
+On Tuesday (August 8) there will be 2 sessions and 1 event. The session "Critical Race Theory for Statisticians: Incorporating CRT into statistical analyses" is from 10:30a-12.20p. The JEDI OG networking event will be from 10:30a-noon. The session "Imposter Syndrom and the Hidden Curriculum manifestation within and between sectors" is from 2-3:30p.
+
+On Wednesday (August 9) there will be 3 sessions. The session "Power in the Classroom: From Helping Students Play the Game to Helping Students Change the Game" will be from 8:30-10:20a. The session "Statisticially Significant: Equity Concerns in Algorithmic Bias, Privacy, and Survey Representation" will be from 10:30a-12:20p. THe session "New statistical advances in forensic sciences" will be from 2-3:30p.
+
+On Thursday (August 10) there will be 1 session, "Strengthening Out Community through Impactful Multi-Sector Collaborations" from 10:30a-12:20p." align="center"}](images/jedi-at-jsm/schedule-no0069Or1614Sessions.png)
 
 ### 2023 sessions
 
 ::::grid
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/1451_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1132)
+[![](images/jedi-at-jsm/1451_1_histo.png){fig-alt="A graphic on a blue-gray background with the JSM 2023 logo in the bottom left corner and the talk date (Sunday, August 6 @ 2p) and location (CC-801A) in a box in the bottom right corner. The image is topped with the text "JEDI-sponsored session" above the bold blue title "Metrics and Statistical Analyses of JEDI-related Data". Four photos of the session participants (Brisa Sanchez [Drexel University], David Corliss [GM OnStar Insurance], Kimberly Sellers [Georgetown University], Wendy Martinez [US Census Bureau]) are displayed below."}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1132)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/1891_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2380)
+[![](images/jedi-at-jsm/1891_1_histo.png){fig-alt="A graphic on a blue-gray background with the JSM 2023 logo in the bottom left corner and the talk date (Sunday August 6 @ 4pm) and location (CC-206F) in a box in the bottom right corner. The image is topped with the text "JEDI-sponsored session" above the bold blue title "Measures & Applications for Relating Historical Structural Racism with Contemporary Health Outcomes". Four photos of the session participants (Ruby Bayliss [Drexel University], Loni Tabb [Drexel University], Philimon Gona [University of Massachusetts], Melody Goodman [New York University]) are displayed below."}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2380)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/1457_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1126)
+[![](images/jedi-at-jsm/1457_1_histo.png){fig-alt="A graphic on a blue-gray background with the JSM 2023 logo in the bottom left corner and the talk date (Monday August 7 @ 8.30am) and location (CC-714B) in a box in the bottom right corner. The image is topped with the text "JEDI-sponsored session" above the bold blue title "Biostatistics or Data Science: Choosing the Right Path". NUMBER photos of the session participants (Brian Millen [Biogen], Sourav Santra [Sarepta Therapeutics], Peng Wei [University of Texas, MD Anderson Cancer Center], Federico Ferrari [Merck]) are displayed below."}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1126)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/1281_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1479)
+[![](images/jedi-at-jsm/1281_1_histo.png){fig-alt="A graphic on a blue-gray background with the JSM 2023 logo in the bottom left corner and the talk date (Monday August 7 @ 10.30am) and location (CC-715A) in a box in the bottom right corner. The image is topped with the text "JEDI-sponsored session" above the bold blue title "Teaching with Datasets that Recognize the Intersectional Perspectives of Students". Five photos of the session participants (Johanna Hardin [Pomona College], Reneé Moore [Drexel University], Ciaran Evans [Wake Forest University], Prince Afriyie [University of Virginia], Barbara Means [Digital Promise]) are displayed below."}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1479)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/1326_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1854)
+[![](images/jedi-at-jsm/1326_1_histo.png){fig-alt="A graphic on a blue-gray background with the JSM 2023 logo in the bottom left corner and the talk date (Monday August 7 @ 2pm) and location (CC-205D) in a box in the bottom right corner. The image is topped with the text "JEDI-sponsored session" above the bold blue title "Statistical Scientists of the Math Alliance: A Focus on Diversity & Recent Graduates". Four photos of the session participants (Natalie Gasca [University of Washington], Immanuel Williams [California Polytechnic State University], Kyle Duke [Amazon.com], Javier Flores [Pacific Northwest National Laboratory]) are displayed below."}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1854)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/1446_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1146)
+[![](images/jedi-at-jsm/1446_1_histo.png){fig-alt="A graphic on a blue-gray background with the JSM 2023 logo in the bottom left corner and the talk date (Tuesday August 8 @ 10.30am) and location (CC-701B) in a box in the bottom right corner. The image is topped with the text "JEDI-sponsored session" above the bold blue title "Critical Race Theory for Statisticians: incorporating
+CRT into statistical analyses". Five photos of the session participants (Melody Goodman [New York University], Stephanie Cook [New York University], Scarlett Bellamy [Boston University], Sarah Warner [Office On Trafficking In Persons, US Dept of Health and Human Services], Rebecca Andridge [The Ohio State University]) are displayed below."}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1146)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/1384_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1272)
+[![](images/jedi-at-jsm/1384_1_histo.png){fig-alt="A graphic on a blue-gray background with the JSM 2023 logo in the bottom left corner and the talk date (Tuesday August 8 @ 2pm) and location (CC-204) in a box in the bottom right corner. The image is topped with the text "JEDI-sponsored session" above the bold blue title "Imposter Syndrome and the Hidden Curriculum manifestation within and between sectors". Four photos of the session participants (Brittney Bailey [Amherst College], Jesse Canchola [Roche Diagnostics Solutions], Michael Jadoo [Bureau of Labor Statistics], Monica Vasquez [Roche Diagnostics Solutions]) are displayed below."}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1272)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/1177_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1657)
+[![](images/jedi-at-jsm/1177_1_histo.png){fig-alt="A graphic on a blue-gray background with the JSM 2023 logo in the bottom left corner and the talk date (Wednesday August 9 @ 8.30am) and location (CC-205D) in a box in the bottom right corner. The image is topped with the text "JEDI-sponsored session" above the bold blue title "Power in the Classroom: From Helping Students Play the Game to Helping Students Change the Game". Five photos of the session participants (Leslie Myint [Macalester College], Kelsey Grinde [Macalester College], Felicia Simpson [Winston-Salem State University], Allison Theobold [Cal Poly], Johanna Hardin [Pomona College]) are displayed below."}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1657)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/1284_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1470)
+[![](images/jedi-at-jsm/1284_1_histo.png){fig-alt="A graphic on a blue-gray background with the JSM 2023 logo in the bottom left corner and the talk date (Wednesday August 9 @ 10.30am) and location (CC-801B) in a box in the bottom right corner. The image is topped with the text "JEDI-sponsored session" above the bold blue title "Statistically Significant: Equity Concerns in Algorithmic Bias, Privacy, and Survey Representation". Four photos of the session participants (Raphael Nishimura [University of Michigan], Claire McKay Bowen [Urban Institute], Amanda Coston [Carnegie Mellon University], Susan Gregurick [National Institutes of Health]) are displayed below."}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1470)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/1732_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2304)
+[![](images/jedi-at-jsm/1732_1_histo.png){fig-alt="A graphic on a blue-gray background with the JSM 2023 logo in the bottom left corner and the talk date (Wednesday August 9 @ 2pm) and location (CC-810) in a box in the bottom right corner. The image is topped with the text "JEDI-sponsored session" above the bold blue title "New statistical advances in forensic sciences". Five photos of the session participants (Maria Cuellar [University of Pennsylvania], Kori Khan [Iowa State University], Amanda Luby [Swarthmore College], Cami Fuglsby [South Dakota State University], Michael Rosenblum [Johns Hopkins University]) are displayed below."}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2304)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/1264_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1507)
+[![](images/jedi-at-jsm/1264_1_histo.png){fig-alt="A graphic on a blue-gray background with the JSM 2023 logo in the bottom left corner and the talk date (Thursday August 10 @ 10.30am) and location (CC-201F) in a box in the bottom right corner. The image is topped with the text "JEDI-sponsored session" above the bold blue title "Strengthening Our Community through Impactful Multi-Sector
+Data-Driven Collaborations". Five photos of the session participants (Muhammed Semakula [Rwanda Biomedical Centre, Ministry of Health], Renee Ellis [US Census Bureau], Madhumita Ghosh Dastidar [RAND Corporation], Isabel Fulcher [Harvard Medical School], Stephen Ruberg [Analytix Thinking, LLC]) are displayed below."}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1507)
 :::
 
 ::::
