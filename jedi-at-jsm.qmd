@@ -1,0 +1,63 @@
+---
+title: "#JEDIatJSM"
+page-layout: full
+toc: true
+---
+The JEDI Outreach Group is sponsoring or co-sponsoring 14 sessions at this year's [Joint Statistical Meetings (JSM) in Toronto, Canada](https://ww2.amstat.org/meetings/jsm/2023/). 
+
+Click the preview images below to visit each session's page within the [JSM program](https://ww2.amstat.org/meetings/jsm/2023/program.cfm) and add them to your personalised schedule.
+
+If you're a social media user, tag **#JEDIatJSM** when discussing these sessions on social media and help keep the conversation going!
+
+### 2023 overview
+
+[![](images/jedi-at-jsm/schedule-no0069Or1614Sessions.png){fig-alt="Schedule overview of JEDI co-sponsored sessions at JSM 2023" align="center"}](images/jedi-at-jsm/schedule-no0069Or1614Sessions.png)
+
+### 2023 sessions
+
+::::grid
+:::{.g-col-12 .g-col-lg-6}
+[![](images/jedi-at-jsm/1451_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1132)
+:::
+
+:::{.g-col-12 .g-col-lg-6}
+[![](images/jedi-at-jsm/1891_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2380)
+:::
+
+:::{.g-col-12 .g-col-lg-6}
+[![](images/jedi-at-jsm/1457_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1126)
+:::
+
+:::{.g-col-12 .g-col-lg-6}
+[![](images/jedi-at-jsm/1281_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1479)
+:::
+
+:::{.g-col-12 .g-col-lg-6}
+[![](images/jedi-at-jsm/1326_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1854)
+:::
+
+:::{.g-col-12 .g-col-lg-6}
+[![](images/jedi-at-jsm/1446_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1146)
+:::
+
+:::{.g-col-12 .g-col-lg-6}
+[![](images/jedi-at-jsm/1384_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1272)
+:::
+
+:::{.g-col-12 .g-col-lg-6}
+[![](images/jedi-at-jsm/1177_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1657)
+:::
+
+:::{.g-col-12 .g-col-lg-6}
+[![](images/jedi-at-jsm/1284_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1470)
+:::
+
+:::{.g-col-12 .g-col-lg-6}
+[![](images/jedi-at-jsm/1732_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2304)
+:::
+
+:::{.g-col-12 .g-col-lg-6}
+[![](images/jedi-at-jsm/1264_1_histo.png){fig-alt="image text to go here"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1507)
+:::
+
+::::
