@@ -5,7 +5,7 @@ title: "WNAR 2023 Invited Session: Considerations and best practices for using r
 author: Mariah Tso, Miguel Marino, Betzaida Maldonado, Audrey Hendricks, Maricela Cruz
 date: 06/21/2023
 toc: true
-image: /webinars/images/engaging_lgbtq_webinar_screenshot.jpg
+image: /webinars/images/wnar_race_ethnicity_webinar.jpg
 alt: "Rainbow colored flyer advertising webinar titled 'Sociocultural and analytical considerations for engaging LGBTQIA+ Communities' with photos of speakers. Flyer includes webinar date/time and QR code for Zoom registration."
 href: /webinars/past/wnar_race_ethnicity_webinar.qmd
 author-title: Presenters
