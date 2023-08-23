@@ -7,7 +7,7 @@ date: 06/21/2023
 toc: true
 image: /webinars/images/wnar_race_ethnicity_webinar.jpg
 alt: "Rainbow colored flyer advertising webinar titled 'Sociocultural and analytical considerations for engaging LGBTQIA+ Communities' with photos of speakers. Flyer includes webinar date/time and QR code for Zoom registration."
-href: /webinars/past/wnar_race_ethnicity_webinar.qmd
+href: /webinars/past/2023-06-21-wnar-race-ethnicity-ancestry.qmd
 author-title: Presenters
 published-title: Date
 ---
