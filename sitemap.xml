@@ -2,78 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://datascijedi.org/LICENSE.html</loc>
-    <lastmod>2023-08-02T14:47:39.405Z</lastmod>
+    <lastmod>2023-08-23T01:31:20.611Z</lastmod>
   </url>
   <url>
     <loc>https://datascijedi.org/weekly-newsletter.html</loc>
-    <lastmod>2023-08-02T14:47:37.805Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.org/webinars/past/2023-01-20-disabilities-transitioning.html</loc>
-    <lastmod>2023-08-02T14:47:36.917Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.org/webinars/past/2022-09-11-letters-of-recommendation.html</loc>
-    <lastmod>2023-08-02T14:47:35.941Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.org/webinars/past/2021-29-10-incorporating-diversity.html</loc>
-    <lastmod>2023-08-02T14:47:35.033Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.org/spread-the-word.html</loc>
-    <lastmod>2023-08-02T14:47:33.965Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.org/jedi-corner.html</loc>
-    <lastmod>2023-08-02T14:47:33.101Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.org/index.html</loc>
-    <lastmod>2023-08-02T14:47:31.957Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.org/contact.html</loc>
-    <lastmod>2023-08-02T14:47:30.881Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.org/about.html</loc>
-    <lastmod>2023-08-02T14:47:28.053Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.org/activities.html</loc>
-    <lastmod>2023-08-02T14:47:30.457Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.org/get-involved.html</loc>
-    <lastmod>2023-08-02T14:47:31.293Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.org/jedi-at-jsm.html</loc>
-    <lastmod>2023-08-02T14:47:32.609Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.org/resources.html</loc>
-    <lastmod>2023-08-02T14:47:33.553Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.org/webinars.html</loc>
-    <lastmod>2023-08-02T14:47:34.565Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.org/webinars/past/2022-04-28-power-of-representation.html</loc>
-    <lastmod>2023-08-02T14:47:35.505Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.org/webinars/past/2022-10-24-graduate-admissions.html</loc>
-    <lastmod>2023-08-02T14:47:36.397Z</lastmod>
+    <lastmod>2023-08-23T01:31:19.351Z</lastmod>
   </url>
   <url>
     <loc>https://datascijedi.org/webinars/past/2023-03-29-engaging-lgbtq-webinar.html</loc>
-    <lastmod>2023-08-02T14:47:37.369Z</lastmod>
+    <lastmod>2023-08-23T01:31:18.615Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.org/webinars/past/2022-10-24-graduate-admissions.html</loc>
+    <lastmod>2023-08-23T01:31:17.815Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.org/webinars/past/2022-04-28-power-of-representation.html</loc>
+    <lastmod>2023-08-23T01:31:17.123Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.org/webinars.html</loc>
+    <lastmod>2023-08-23T01:31:16.383Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.org/resources.html</loc>
+    <lastmod>2023-08-23T01:31:15.579Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.org/jedi-at-jsm.html</loc>
+    <lastmod>2023-08-23T01:31:14.807Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.org/get-involved.html</loc>
+    <lastmod>2023-08-23T01:31:13.807Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.org/activities.html</loc>
+    <lastmod>2023-08-23T01:31:13.143Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.org/about.html</loc>
+    <lastmod>2023-08-23T01:31:11.063Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.org/contact.html</loc>
+    <lastmod>2023-08-23T01:31:13.475Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.org/index.html</loc>
+    <lastmod>2023-08-23T01:31:14.327Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.org/jedi-corner.html</loc>
+    <lastmod>2023-08-23T01:31:15.211Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.org/spread-the-word.html</loc>
+    <lastmod>2023-08-23T01:31:15.915Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.org/webinars/past/2021-29-10-incorporating-diversity.html</loc>
+    <lastmod>2023-08-23T01:31:16.751Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.org/webinars/past/2022-09-11-letters-of-recommendation.html</loc>
+    <lastmod>2023-08-23T01:31:17.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.org/webinars/past/2023-01-20-disabilities-transitioning.html</loc>
+    <lastmod>2023-08-23T01:31:18.235Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.org/webinars/past/2023-06-21-wnar-race-ethnicity-ancestry.html</loc>
+    <lastmod>2023-08-23T01:31:18.995Z</lastmod>
   </url>
   <url>
     <loc>https://datascijedi.org/CODE_OF_CONDUCT.html</loc>
-    <lastmod>2023-08-02T14:47:38.401Z</lastmod>
+    <lastmod>2023-08-23T01:31:19.815Z</lastmod>
   </url>
 </urlset>
