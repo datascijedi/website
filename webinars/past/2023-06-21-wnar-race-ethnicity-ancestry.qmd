@@ -1,0 +1,32 @@
+---
+title: "WNAR 2023 Invited Session: Considerations and best practices for using race, ethnicity, ancestry in different areas of statistics and data science"
+# description:
+# categories:
+author: Mariah Tso, Miguel Marino, Betzaida Maldonado, Audrey Hendricks, Maricela Cruz
+date: 06/21/2023
+toc: true
+image: /webinars/images/wnar_race_ethnicity_webinar.jpg
+alt: "Rainbow colored flyer advertising webinar titled 'Sociocultural and analytical considerations for engaging LGBTQIA+ Communities' with photos of speakers. Flyer includes webinar date/time and QR code for Zoom registration."
+href: /webinars/past/2023-06-21-wnar-race-ethnicity-ancestry.qmd
+author-title: Presenters
+published-title: Date
+---
+## Overview
+
+This invited speaker session at the 2023 meeting of the Western North American Region (WNAR) of the International Biometrics Society in Anchorage, Alaska featured three presentations discussing how to incorporate data on race, ethnicity, and ancestry into research in such a way as to advance justice, equity, diversity, and inclusion. JEDI Outreach Group did not organize or host this session. The conference recording has been made available by WNAR to further disseminate this excellent content.
+
+## Presenters
+
+-   **Mariah Tso**, *Decoding Race*, University of California Los Angeles
+-   **Miguel Marino, PhD**, *Opportunities and challenges for disaggregation of race and ethnicity data using electronic health records*, Oregon Health and Science University 
+-   **Betzaida Maldonado**, *Challenges and considerations of using race, ethnicity, and ancestry labels in genomics research*, University of Colorado Anschutz Medical Campus
+-   **Audrey Hendricks, PhD**, *Oraganizer*, University of Colorado Anschutz Medical Campus
+-   **Maricela Cruz, PhD**, *Organizer*, Kaiser Permanente Washington Health Research Institute
+
+## Recording
+
+<!-- When YouTube recording is ready, add in link. Click, share, embed, then extract link from iframe code -->
+{{< video https://www.youtube.com/embed/4z56aKt2iZE >}}
+
+<!-- ## Slides
+[![](/webinars/images/incorporating-diversity.png){fig-alt="Title page from slide deck for the webinar, 'Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses: Two Case Studies'"}](https://drive.google.com/file/d/1mKil-a244bGMPzaV6TcpPY74asFbi6no/view){aria-label="Download the slides from the webinar, 'Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses: Two Case Studies'"} -->
