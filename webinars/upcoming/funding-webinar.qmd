@@ -1,0 +1,36 @@
+---
+title: "Funding Justice, Equity, Diversity, and Inclusion Activities in Statistics, Biostatistics, and Data Science"
+# description:
+# categories:
+author: ASA Committee on Funded Research and JEDI Outreach Gorup
+date: 09/20/2023
+toc: false
+image: /webinars/images/pol-cfr-jedi-sept20.jpg
+# alt:
+href: /webinars/upcoming/funding-webinar.qmd 
+author-title: Presenters
+published-title: Date
+---
+<!-- Add flyer image here -->
+[![](/webinars/images/pol-cfr-jedi-sept20.jpg)](add url to registration page here so that flyer is clickable)
+
+## Overview
+The goals of this webinar are to:
+* increase awareness about opportunities to fund justice, equity, diversity, and inclusion initiatives within the ASA community
+* encourage successful partnerships among institutions that can hekp make these initiatives more successful. 
+
+## Presenters and affiliations
+* Abel Rodriguez, University of Washington
+* Kyle Frantz, Georgia State University
+* Michael Ludkovski, University of California, Santa Barbara
+* Leslie McClure, Drexel University
+
+<!-- Add url to registration page so that button is clickable -->
+[Register now](https://amstat.zoom.us/webinar/register/WN_Apx9yKsBQN-YbiWJm9V1Cg#/registration){.button .button1}
+
+<!-- Activate sections below once event becomes a "past webinar" -->
+<!-- ## Recording
+{{< video https://www.youtube.com/embed/zu95d2gYoTc >}}
+
+## Slides
+[![](/webinars/images/incorporating-diversity.png)](https://drive.google.com/file/d/1mKil-a244bGMPzaV6TcpPY74asFbi6no/view) -->
