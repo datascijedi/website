@@ -6,6 +6,14 @@ $font-family: "Atkinson Hyperlegible", sans-serif;
 
 $link-color: #0B5B4B;
 
+// Update contrast for accessiblity
+$pagination-bg: #4dd9bd;
+$pagination-color: #0b0b0b;
+$pagination-active-bg: #07eec0;
+$pagination-active-color: #0b0b0b;
+
+// $pagination-active-border-color: #2d9782;
+
 /*-- scss:rules --*/
 
 .button {
