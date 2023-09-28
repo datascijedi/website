@@ -10,6 +10,7 @@ We welcome and value contributions from everyone. Contributions can include addi
   - [Updating Resources](#updating-resources)
   - [Updating Webinars](#updating-webinars)
   - [JEDI Corner](#jedi-corner)
+  - [Accessibility Tips](#accessibility-tips)
 - [Development](#development)
   - [Setup](#setup)
   - [Deployment](#deployment)
@@ -64,6 +65,41 @@ Each month, update website with a new JEDI corner article.
 
 1) Save photo of author or article image to images/jedi-corner  
 2) In jedi-corner.yml, copy entry from previous month. Edit article information, Committ changes.
+
+### Accessibility Tips
+
+Accessibility is too large a topic to be completely covered here, but below are a few tips and examples for content editors to use. In particular, try to use `alt`, `aria-label`, or similar tags appropriately when adding images or links to the website. 
+
+#### Example 1
+
+When inserting an image with HTML, the `alt` tag can help convey the image's contents to screen reader users. 
+
+`<img src="images/jedi-logo-wide.png" alt="Logo of the Justice, Equity, Diversity, and Inclusion Outreach Group">`
+
+#### Example 2
+
+When inserting images with Quarto markdown syntax, the `fig-alt` attribute can be used for adding alt text. 
+
+`![](images/jedi-at-jsm/schedule-no0069Or1614Sessions.png){fig-alt="A schedule graphic depicting..."}`
+
+This also applies if your image is wrapped further in a markdown hyperlink. 
+
+`[![](images/jedi-at-jsm/schedule-no0069Or1614Sessions.png){fig-alt="A schedule graphic depicting..."}](images/jedi-at-jsm/schedule-no0069Or1614Sessions.png)`
+
+#### Example 3
+
+An `aria-label` can help make a link's purpose clearer to screen reader users. 
+
+`<a class="nav-link" aria-label="Edit this Page on GitHub" href="https://github.com/datascijedi">Edit on GitHub</a>;`
+
+#### Additional Resources
+
+Here are a few resources you can use to learn more about accessibility:
+
+- [Berkeley Web Accessibility Tips](https://webaccess.berkeley.edu/resources/tips/web-accessibility)
+- [Firefox - Accessibliity Inspector](https://firefox-source-docs.mozilla.org/devtools-user/accessibility_inspector/)
+- [Axe Dev Tools](https://www.deque.com/axe/devtools/)
+- [Thorough Reference on Accessibility](https://www.section508.gov/content/guide-accessible-web-design-development/)
 
 ## Development
 
