@@ -29,6 +29,9 @@ https://twittercommunity.com/t/again-list-widget-says-nothing-to-see-here-yet-if
 ::: -->
 
 ```{=html}
+<h1 class='jedi-hidden-and-focusable'>
+  JEDI Outreach Group
+</h1>
 <img src="images/jedi-logo-wide.png" alt="Logo of the Justice, Equity, Diversity, and Inclusion Outreach Group" class="center">
 <p></p>
 <p></p>

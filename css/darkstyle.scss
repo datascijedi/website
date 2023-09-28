@@ -6,6 +6,12 @@ $font-family: "Atkinson Hyperlegible", sans-serif;
 
 $link-color: #4fd1b8;
 
+// Update contrast for accessiblity
+$pagination-bg: #4dd9bd;
+$pagination-color: #0b0b0b;
+$pagination-active-bg: #07eec0;
+$pagination-active-color: #0b0b0b;
+
 /*-- scss:rules --*/
 
 .button {
@@ -47,4 +53,10 @@ $link-color: #4fd1b8;
     padding-bottom: 5px;
     background-color: #375a7f;
   }
+}
+
+// The override with $pagination-active-color is not working for the active link on dark theme,
+// so we manually override it here
+ul.pagination li.active a {
+  color: #0b0b0b;
 }

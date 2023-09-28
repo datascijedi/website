@@ -65,3 +65,16 @@ make the footer border always appear.
 body .nav-footer {
   border-top: 1px solid #dee2e6;
 }
+
+/* Make an element invisible but focusable, e.g. for screen reader keyboard navigation */
+.jedi-hidden-and-focusable {
+  position: absolute !important;
+  width: 0px !important;
+  height: 0px !important;
+  padding: 0 !important;
+  margin: 0px !important;
+  border: 0 !important;
+  clip-path: inset(0px 0px) !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+}
