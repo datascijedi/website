@@ -78,3 +78,14 @@ body .nav-footer {
   white-space: nowrap !important;
   overflow: hidden !important;
 }
+
+.jedi-list-item {
+  clear: both;
+}
+
+.jedi-list-item img {
+  float: left;
+  margin-top: 6px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
