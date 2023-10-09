@@ -8,9 +8,9 @@
           <img src="<%- item.image %>" width="150" alt="<%- item.alt %>" />
         </a>
         <% } %>
-        <a href="<%- item.href %>" class="listing-title"><b><%= item.title %></a></b><br/>
-        <span class="listing-author"> <i>By <%= item.author %></span>, published <%= item.date %></i></br>
-        <%= item.intro %></br>
+        <a href="<%- item.href %>" class="listing-title"><b><%= item.title %></a></b><br>
+        <span class="listing-author"> <i>By <%= item.author %></span>, published <%= item.date %></i><br>
+        <%= item.intro %><br>
       </div>
     </div>
   <% } %>
