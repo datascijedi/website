@@ -1,5 +1,5 @@
 ---
-title: "Building succesful mentor/mentee relationships in the hybrid work era"
+title: "Building successful mentor/mentee relationships in the hybrid work era"
 # description:
 # categories:
 author: JEDI Outreach Group
