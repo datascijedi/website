@@ -1,18 +1,9 @@
 [
   {
-    "listing": "/jedi-corner.html",
-    "items": []
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/webinars/upcoming/funding-webinar.html"
-    ]
-  },
-  {
     "listing": "/webinars.html",
     "items": [
-      "/webinars/upcoming/funding-webinar.html",
+      "/webinars/upcoming/mentoring.html",
+      "/webinars/past/2023-09-20-funding.html",
       "/webinars/past/2023-06-21-wnar-race-ethnicity-ancestry.html",
       "/webinars/past/2023-03-29-engaging-lgbtq-webinar.html",
       "/webinars/past/2023-01-20-disabilities-transitioning.html",
@@ -21,5 +12,15 @@
       "/webinars/past/2022-04-28-power-of-representation.html",
       "/webinars/past/2021-29-10-incorporating-diversity.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/webinars/upcoming/mentoring.html"
+    ]
+  },
+  {
+    "listing": "/jedi-corner.html",
+    "items": []
   }
 ]
