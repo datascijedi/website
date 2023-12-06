@@ -3,6 +3,13 @@ title: "#JEDIatJSM"
 page-layout: full
 toc: true
 ---
+
+We had a blast at JSM 2023! Watch this space for more details on #JEDIatJSM at [this year's conference in Portland, Oregon](https://ww2.amstat.org/meetings/jsm/2024/). 
+
+Want to be on the program? There is still time to [submit your JEDI-related work for this year's meeting](https://ww2.amstat.org/meetings/jsm/2024/beontheprogram.cfm). Need ideas? Read [David Corliss's AmStat News JEDI Corner about #JEDIatJSM](https://magazine.amstat.org/blog/2023/12/01/jedijsm2023/) to get inspired. 
+
+## #JEDIatJSM2023
+
 The JEDI Outreach Group is sponsoring or co-sponsoring 14 sessions at this year's [Joint Statistical Meetings (JSM) in Toronto, Canada](https://ww2.amstat.org/meetings/jsm/2023/). 
 
 Click the preview images below to visit each session's page within the [JSM program](https://ww2.amstat.org/meetings/jsm/2023/program.cfm) and add them to your personalised schedule.
