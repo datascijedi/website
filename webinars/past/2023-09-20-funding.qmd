@@ -22,7 +22,7 @@ The goals of this webinar are to increase awareness about opportunities to fund 
 * Michael Ludkovski, University of California, Santa Barbara
 * Leslie McClure, Drexel University
 
-## Recording
+<!-- ## Recording -->
 
 <!-- ## When YouTube recording is ready, add in link. Click, share, embed, then extract link from iframe code -->
 <!-- {{< video https://www.youtube.com/embed/4z56aKt2iZE >}} -->
