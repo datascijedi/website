@@ -1,0 +1,12 @@
+---
+title: "Share Announcements"
+toc: false
+---
+
+Have an opportunity, event, or initiative that is relevant to the larger JEDI community? 
+
+Let us help you promote the announcement! Just let us know the details using the form below. 
+
+```{=html}
+<script type="text/javascript" src="https://form.jotform.com/jsform/230625164644151"></script>
+```

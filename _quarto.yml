@@ -105,6 +105,8 @@ website:
           file: get-involved.qmd
         - text: "Spread the Word"
           file: spread-the-word.qmd
+        - text: "Share Announcements"
+          file: share-announcements.qmd
 
   page-footer:
     left: "Copyright 2023 © JEDI"
