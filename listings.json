@@ -14,6 +14,10 @@
     ]
   },
   {
+    "listing": "/jedi-corner.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/webinars/past/2023-10-16-mentoring.html",
@@ -26,9 +30,5 @@
       "/webinars/past/2022-04-28-power-of-representation.html",
       "/webinars/past/2021-29-10-incorporating-diversity.html"
     ]
-  },
-  {
-    "listing": "/jedi-corner.html",
-    "items": []
   }
 ]
