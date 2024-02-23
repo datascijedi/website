@@ -4,19 +4,19 @@ title: "Committees"
 
 Our committees are actively working to promote justice, equity, diversity, and inclusion (JEDI) principles in statistics and data science. 
 
-* The **Communications Committee** manages the JEDI Outreach Group social media channels and website, advertises JEDI-related events and opportunities, and coordinates the JEDI Corner in *Amstat News* [(Link to JEDI Corner archives)](jedi-corner.qmd). Chair: R. Yates Coley [(Link to Yates Coley webpage)](https://www.kpwashingtonresearch.org/our-research/our-scientists/Coley-Yates)
+* The **Communications Committee** manages the JEDI Outreach Group social media channels and website, advertises JEDI-related events and opportunities, and coordinates the JEDI Corner in *Amstat News* [(Link to JEDI Corner archives)](jedi-corner.qmd). Chair: David Corliss [(Link to David Corliss webpage)](https://www.peace-work.org/)
 
-* The **Professional Development Committee** provides opportunities for members to learn about JEDI-related issues and how to develop communities that are just, equitable, diverse and inclusive. Chair: Eric J. Daza [(Link to EJ Daza webpage)](https://www.ericjdaza.com/)
+* The **Professional Development Committee** provides opportunities for members to learn about JEDI-related issues and how to develop communities that are just, equitable, diverse and inclusive. Chair: Amanda L. Golbeck [(Link to Amanda Golbeck webpage)](https://en.wikipedia.org/wiki/Amanda_L._Golbeck)
 
-* The **Program Committee** develops and contributes programming that promotes a just, equitable, diverse and inclusive statistics community and addresses areas of statistical study that face JEDI-related implications. This committee will work to incorporate and/or sponsor JEDI-related programming in statistical conferences. Chair: Christina Knudson [(Link to Christina Knudson webpage)](https://cknudson.com/). Chair-Elect: Therri Usher [(Link to Therri Usher webpage)](https://www.linkedin.com/in/therriusher/) 
+* The **Program Committee** develops and contributes programming that promotes a just, equitable, diverse and inclusive statistics community and addresses areas of statistical study that face JEDI-related implications. This committee will work to incorporate and/or sponsor JEDI-related programming in statistical conferences. Chair: Therri Usher [(Link to Therri Usher webpage)](https://www.linkedin.com/in/therriusher/). Chair-Elect: Amanda Koepke [(Link to Amanda Koepke webpage)](https://www.nist.gov/people/amanda-koepke)
 
-* The **Students and Young Professionals Committee** provides an opportunity for students and young professionals (within five years of their highest degree) to gather and convene to discuss their JEDI-related experiences and concerns. This committee can further pass along ideas and collaborate with the other JEDI Outreach Group committees to publicize and address their related concerns and interests. Chair: Anarina Murillo [(Link to Anarina Murillo webpage)](https://vivo.brown.edu/display/amurill1)
+* The **Students and Young Professionals Committee** provides an opportunity for students and young professionals (within five years of their highest degree) to gather and convene to discuss their JEDI-related experiences and concerns. This committee can further pass along ideas and collaborate with the other JEDI Outreach Group committees to publicize and address their related concerns and interests. Co-Chairs: Tiffany Kollah and Mary M. Ryan [(Link to Mary Ryan webpage)](https://maryryan.netlify.app/)
 
 * Other executive committee members:
-  + Chair: Wendy Martinez [(Link to Wendy Martinez webpage)](https://www.linkedin.com/in/martinez-wendy-483b0112/)
-  + Chair-Elect: Melody Goodman [(Link to Melody Goodman webpage)](https://publichealth.nyu.edu/faculty/melody-goodman)
-  + Past-Chair: Kimberly F. Sellers [(Link to Kimberly Sellers webpage)](https://www.kimflaggsellers.com/)
-  + Secretary/Treasurer: Amanda Luby [(Link to Amanda Luby webpage)](https://aluby.domains.swarthmore.edu/)
+  + Chair: Melody Goodman [(Link to Melody Goodman webpage)](https://publichealth.nyu.edu/faculty/melody-goodman)
+  + Chair-Elect: Eric J. Daza [(Link to EJ Daza webpage)](https://www.ericjdaza.com/)
+  + Past Chairs: Wendy Martinez [(Link to Wendy Martinez webpage)](https://www.linkedin.com/in/martinez-wendy-483b0112/), Kimberly F. Sellers [(Link to Kimberly Sellers webpage)](https://www.kimflaggsellers.com/about)
+  + Secretary/Treasurer: Namratha Sathish [(Link to Namratha Sathish webpage)](https://www.linkedin.com/in/namrathasathish)
 
 Want to get involved? [Sign up for here for the JEDI Outreach Group](get-involved.qmd) and [check out our newsletter](weekly-newsletter.qmd) for opportunities to contribute to committee activities. 
 
