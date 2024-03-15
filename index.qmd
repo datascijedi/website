@@ -8,6 +8,7 @@ listing:
     contents: jedi-corner.yml
     max-items: 1
     sort: "date desc"
+    page-size: 0
 
   - id: jedi-webinars
     template: templates/jedi-webinar.ejs
