@@ -10,4 +10,14 @@ If you are interested in learning more about the JEDI Outreach Group, contact us
 
 ```{=html}
 <script type="text/javascript" src="https://form.jotform.com/jsform/230192987790064"></script>
+
+<!-- fix to address embedded jotform submit button being cut off -->
+<script type="text/javascript">
+  document.body.onload = () => {
+    let getInvolvedFormElement = document.getElementById("230192987790064");
+    setTimeout(() => {
+      getInvolvedFormElement.style.height = (Number(getInvolvedFormElement.style.height.slice(0, 4)) + 44) + 'px';
+    }, 950);
+  }
+</script>
 ```
