@@ -66,6 +66,19 @@ body .nav-footer {
   border-top: 1px solid #dee2e6;
 }
 
+/* 
+Unlike in Quarto v1.3.298, in Quarto v1.4.555 the footer elements are not vertically center aligned. 
+Below is a fix. 
+*/
+
+body .nav-footer {
+    align-items: center;
+}
+
+body .nav-footer-center {
+    min-height: 0px;
+}
+
 /* Make an element invisible but focusable, e.g. for screen reader keyboard navigation */
 .jedi-hidden-and-focusable {
   position: absolute !important;
