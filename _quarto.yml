@@ -108,6 +108,7 @@ website:
           file: share-announcements.qmd
 
   page-footer:
+    border: true
     left: "Copyright 2023 © JEDI"
     center:
     - text: "GH-6c622c2fa6a54817" # placeholder text, replaced in post-render script
