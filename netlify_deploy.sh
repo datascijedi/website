@@ -2,7 +2,7 @@
 
 # Set this URL to change the Quarto version for deploys
 # Quarto releases can be found here: https://github.com/quarto-dev/quarto-cli/releases/
-QUARTO_TARBALL_URL='https://github.com/quarto-dev/quarto-cli/releases/download/v1.3.298/quarto-1.3.298-linux-amd64.tar.gz'
+QUARTO_TARBALL_URL='https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.555/quarto-1.4.555-linux-amd64.tar.gz'
 # The directory to render to. Should match specification in `netlify.toml`
 QUARTO_OUTPUT_DIR='_site'
 

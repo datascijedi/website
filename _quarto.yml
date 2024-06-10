@@ -82,13 +82,11 @@ website:
         aria-label: GitHub
 
   sidebar:
-    # We use a dummy sidebar so that pages without a sidebar don't inherit an actual sidebar
-    - id: dummy-sidebar
-      border: true # Causes the separator to appear for the "Activities" sidebar
     - title: "Activities"
       style: "floating"
       collapse-level: 2
       align: left
+      border: true
       contents:
         - text: "Committees"
           file: activities.qmd
@@ -100,6 +98,7 @@ website:
       style: "floating"
       collapse-level: 2
       align: left
+      border: true
       contents:
         - text: "Get Involved"
           file: get-involved.qmd
@@ -109,6 +108,7 @@ website:
           file: share-announcements.qmd
 
   page-footer:
+    border: true
     left: "Copyright 2023 © JEDI"
     center:
     - text: "GH-6c622c2fa6a54817" # placeholder text, replaced in post-render script

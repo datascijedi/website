@@ -54,9 +54,3 @@ $pagination-active-color: #0b0b0b;
     background-color: #375a7f;
   }
 }
-
-// The override with $pagination-active-color is not working for the active link on dark theme,
-// so we manually override it here
-ul.pagination li.active a {
-  color: #0b0b0b;
-}
