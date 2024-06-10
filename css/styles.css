@@ -57,13 +57,17 @@
   height: 100%;
 }
 
-/*
-Using a floating `sidebar` in Quarto sets the `floating` class on the `body` element, which in turn
-causes bootstrap to not apply `border-top` to `nav-footer`, so we use this work around to
-make the footer border always appear.
+/* 
+Unlike in Quarto v1.3.298, in Quarto v1.4.555 the footer elements are not vertically center aligned. 
+Below is a fix. 
 */
+
 body .nav-footer {
-  border-top: 1px solid #dee2e6;
+    align-items: center;
+}
+
+body .nav-footer-center {
+    min-height: 0px;
 }
 
 /* Make an element invisible but focusable, e.g. for screen reader keyboard navigation */
