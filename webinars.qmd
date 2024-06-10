@@ -20,6 +20,16 @@ page-layout: full
 toc: false
 ---
 
+```{=html}
+<style>
+/* Don't wrap date text in table column */
+
+tbody > tr > td:nth-of-type(1) {
+  white-space: nowrap;
+}
+</style>
+```
+
 ## Upcoming webinars
 
 New webinars are coming in 2024! Sign up for our [newsletter](weekly-newsletter.qmd) for the latest news on all JEDI Outreach Group activities. 
