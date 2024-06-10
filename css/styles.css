@@ -93,3 +93,9 @@ body .nav-footer-center {
   margin-right: 15px;
   margin-bottom: 15px;
 }
+
+/* Don't wrap date text in table column */
+
+tbody > tr > td:nth-of-type(1) {
+  white-space: nowrap;
+}
