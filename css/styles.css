@@ -67,7 +67,7 @@ body .nav-footer {
 }
 
 body .nav-footer-center {
-    min-height: 0px;
+    min-height: unset;
 }
 
 /* Make an element invisible but focusable, e.g. for screen reader keyboard navigation */
