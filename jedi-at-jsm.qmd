@@ -4,9 +4,19 @@ page-layout: full
 toc: true
 ---
 
-We had a blast at JSM 2023! Watch this space for more details on #JEDIatJSM at [this year's conference in Portland, Oregon](https://ww2.amstat.org/meetings/jsm/2024/). 
+## #JEDIatJSM2024
 
-Want to be on the program? There is still time to [submit your JEDI-related work for this year's meeting](https://ww2.amstat.org/meetings/jsm/2024/beontheprogram.cfm). Need ideas? Read [David Corliss's AmStat News JEDI Corner about #JEDIatJSM](https://magazine.amstat.org/blog/2023/12/01/jedijsm2023/) to get inspired. 
+The JEDI Outreach Group is sponsoring or co-sponsoring 11 sessions at this year's [Joint Statistical Meetings (JSM) in Portland, Oregon](https://ww2.amstat.org/meetings/jsm/2024/). There are also several "friends of JEDI" sessions that may be of interest. 
+
+Click the preview images below to visit each session's page within the [JSM program](https://ww2.amstat.org/meetings/jsm/2024/program.cfm) and add them to your personalised schedule.
+
+If you're a social media user, tag **#JEDIatJSM** when discussing these sessions on social media and help keep the conversation going!
+
+### Timetable
+
+[![](images/jedi-at-jsm/JEDIatJSM24-overall-online.png){fig-alt="A schedule graphic with the title 'JEDIatJSM 2024' aligned to the left with the JEDI and JSM 2024 logos to the right. Underneath, in alternating navy blue and mint green boxes, are listed the sessions and events affiliated with JEDI occurring during JSM 2024. On Sunday (August 5) there are 3 sessions, all from 2-3:50p: 'The Impact for Statistics and Data Science of the 2023 SCOTUS Decision on Affirmative Action', 'Building a More Diverse Statistical Future: Recent Graduates from the Math Alliance', and 'From Statistician to Institutional Leader: The Risks and Rewards of Making the Leap'. On Monday (August 6) there are 2 sessions and 1 event. The sessions 'Reducing Barriers to Teaching Novice Learners How to Code' and 'Unchartered Methods In Health Equity Research' are 10:30a - 12:20p. From 3-4p JEDI will host a joint reception with CoWiS, CMRR, CSD, LGBTQ+ Advocacy Committee, and the ASA Book Club. On Tuesday (August 6), there are 3 sessions. The session 'Data Science Ethics: Bridging Teaching and Practice' is from 8:30 - 10:20a. The sessions 'Infusing Data Equity Principles into Health Research: Training Initiatives and
+Implementation in Practice' and 'Missingness, Marginalization, and Misinformation: How data issues perpetuate cultural biases and impede scientific research for underrepresented communities' are from 2 - 3:50p. On Wednesday (August 7) there will be 5 sessions. The sessions 'Considerations and Best Practices for Use of Race, Ethnicity, and Ancestry in
+Data Science Research' and 'Synthesis of Ingram Olkin Forum on Statistical Challenges in the Analysis of Police Use of Force' are from 8:30 - 10:20a. The session 'Statistical Analyses and Applications for Studying Intersectionality and Disability Inclusion' is from 10:30a - 12:20p. Also from 10:30a - 12:20p will be the contributed poster presentations for the Caucus for Women in Statistics, as well as the International Chinese, Indian, & Korean Statistical Associations. The session 'Empowering Educators: Supporting Equitable Teaching of Statistics and Data Science Across Grades K-16' will be from 2 - 3:50p." fig-align="center"}](images/JEDIatJSM24-overall-online.png)
 
 ## #JEDIatJSM2023
 
