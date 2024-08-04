@@ -18,6 +18,34 @@ If you're a social media user, tag **#JEDIatJSM** when discussing these sessions
 Implementation in Practice' and 'Missingness, Marginalization, and Misinformation: How data issues perpetuate cultural biases and impede scientific research for underrepresented communities' are from 2 - 3:50p. On Wednesday (August 7) there will be 5 sessions. The sessions 'Considerations and Best Practices for Use of Race, Ethnicity, and Ancestry in
 Data Science Research' and 'Synthesis of Ingram Olkin Forum on Statistical Challenges in the Analysis of Police Use of Force' are from 8:30 - 10:20a. The session 'Statistical Analyses and Applications for Studying Intersectionality and Disability Inclusion' is from 10:30a - 12:20p. Also from 10:30a - 12:20p will be the contributed poster presentations for the Caucus for Women in Statistics, as well as the International Chinese, Indian, & Korean Statistical Associations. The session 'Empowering Educators: Supporting Equitable Teaching of Statistics and Data Science Across Grades K-16' will be from 2 - 3:50p." fig-align="center"}](images/JEDIatJSM24-overall-online.png)
 
+### Session details
+
+::::grid
+:::{.g-col-12 .g-col-lg-6}
+[![](images/jedi-at-jsm/JSM24_1368.png){fig-alt="a graphic on a blue-gray background with the invited panel title ("The Impact for Statistics and Data Science of the 2023 SCOTUS Decision on Affirmative Action") at the top; this is a JEDI-sponsored session. In the center of the graphic is the rainbow Sigma JEDI logo surrounded by the speaker names and their affiliations (Mary Gray [American University]; Brynne Hovde [Nova Collective]; Lisa Lupinacci [Merck & Co, inc]). Along the bottom is the #JEDIatJSM tag, the JSM 2024 logo, and the talk's time and location (Sunday, Aug. 4 at 2pm; Room CC-F150"}](http://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1132)
+:::
+
+:::{.g-col-12 .g-col-lg-6}
+[![](images/jedi-at-jsm/JSM24_1526.png){fig-alt="a graphic on a blue-gray background with the topic-contributed session title ("Building a More Diverse Statistical Future: Recent Graduates from the Math Alliance") at the top; this is a JEDI-sponsored session. In the center of the graphic is the rainbow Sigma JEDI logo surrounded by the speaker names, their affiliations, and their presentations titles (Israel Almodovar-Rivera [University of Puerto Rico At Mayaguez] presenting “Software Development for Analysis of LiDAR Pulsed Laser Measurements at the Savannah River Site”; Keyla Pagan-Rivera [IDA] presenting “DEI or DEIO? The Impact of Outreach in my Academic Path”; Erica Dawson [Centers for Disease Control and Prevention] presenting “So You Have a PhD, What's Next?”; Felix Pabon-Rodriguez [Indiana University School of Medicine] presenting “My Boricua Path: How Mentoring Programs Have Shaped My Academic and Professional Careers"). Along the bottom is the #JEDIatJSM tag, the JSM 2024 logo, and the talk's time and location (Sunday, Aug. 4 at 2pm; Room CC-B118).}](https://ww3.aievolution.com/JSMAnnual2024/Events/viewEv?ev=1852)
+:::
+
+:::{.g-col-12 .g-col-lg-6}
+[![](images/jedi-at-jsm/JSM24_1069.png){fig-alt="a graphic on a blue-gray background with the invited panel title ("From Statistician to Institutional Leader: The Risks and Rewards of Making the Leap") at the top. In the center of the graphic is the rainbow Sigma JEDI logo surrounded by the speaker names and their affiliations (F. DuBois Bowman [University of Michigan, School of Public Health]; Amanda Golbeck [UAMS - Fay W. Boozman College of Public Health]; Daniel Jeske [University of California, Riverside]; Linda Young [USDA NASS]; Susan Paddock [NORC at The University of Chicago]). Along the bottom is the #JEDIatJSM tag, the JSM 2024 logo, and the talk's time and location (Sunday, Aug. 4 at 2pm; Room CC-E145).}](https://ww3.aievolution.com/JSMAnnual2024/Events/viewEv?ev=1103)
+:::
+
+
+::::
+
+### JEDI OG Networking Event
+
+Joint reception for CoWiS, CMRR, CSD, JEDI, LGBTQ+ Advocacy Committee, and the ASA book club
+
+**Date and time:** Monday, August 5: 3PM--4PM\
+**Location:** Hyatt Regency Portland, Room H-Columbia 2
+
+[Add to personalised schedule](https://ww3.aievolution.com/JSMAnnual2024/Events/viewEv?ev=2985)
+
+
 ## #JEDIatJSM2023
 
 The JEDI Outreach Group is sponsoring or co-sponsoring 14 sessions at this year's [Joint Statistical Meetings (JSM) in Toronto, Canada](https://ww2.amstat.org/meetings/jsm/2023/). 
