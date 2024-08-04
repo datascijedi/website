@@ -38,7 +38,7 @@ Data Science Research' and 'Synthesis of Ingram Olkin Forum on Statistical Chall
 :::
 
 :::{.g-col-12 .g-col-lg-6}
-[![](images/jedi-at-jsm/JSM24-1039.png){fig-alt="a graphic on a blue-gray background with the invited panel title ('Reducing Barriers to Teaching Novice Learners How to Code') at the top; this is a JEDI-sponsored session. In the center of the graphic is the rainbow Sigma JEDI logo surrounded by the speaker names and their affiliations (Mine Çetinkaya-Rundel [Duke University + Posit]; Todd Iverson [no affiliation provided]; Karen Word [no affiliation provided]; Kelly Bodwin [California Polytechnic State University]). Along the bottom is the #JEDIatJSM tag, the JSM 2024 logo, and the talk's time and location (Monday, Aug. 5 at 10:30am; Room CC-G131)."}](https://ww3.aievolution.com/JSMAnnual2024/Events/viewEv?ev=1051)
+[![](images/jedi-at-jsm/JSM24_1039.png){fig-alt="a graphic on a blue-gray background with the invited panel title ('Reducing Barriers to Teaching Novice Learners How to Code') at the top; this is a JEDI-sponsored session. In the center of the graphic is the rainbow Sigma JEDI logo surrounded by the speaker names and their affiliations (Mine Çetinkaya-Rundel [Duke University + Posit]; Todd Iverson [no affiliation provided]; Karen Word [no affiliation provided]; Kelly Bodwin [California Polytechnic State University]). Along the bottom is the #JEDIatJSM tag, the JSM 2024 logo, and the talk's time and location (Monday, Aug. 5 at 10:30am; Room CC-G131)."}](https://ww3.aievolution.com/JSMAnnual2024/Events/viewEv?ev=1051)
 :::
 
 :::{.g-col-12 .g-col-lg-6}
