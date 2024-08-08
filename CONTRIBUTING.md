@@ -13,14 +13,18 @@ We welcome and value contributions from everyone. Contributions can include addi
   - [Accessibility Tips](#accessibility-tips)
 - [Development](#development)
   - [Setup](#setup)
-  - [Deployment](#deployment)
+    - [Codespaces](#codespaces)
+    - [Local Development](#local-development)
+  - [Quarto Version and Deployment](#quarto_version_and_deployment)
 - [JEDI Membership](#jedi-membership)
 
 ## Introduction
 
 To contribute code or content, just submit a pull request against the `main` branch! If you are embarking on a larger effort or just want to let us know of an issue, consider creating a GiHub issue as well. 
 
-If you're using R Studio or prefer a non-technical approach, check out [this recording](https://drive.google.com/file/d/1tYgy2J9Yne-YX4c1JdHnQLGTgK3G2wAc/view?usp=sharing) from a Communications Committee meeting that demostrates two approaches to starting a pull request and requesting a merge. 
+If you're using R Studio or prefer a GUI-based approach, check out [this recording](https://drive.google.com/file/d/1tYgy2J9Yne-YX4c1JdHnQLGTgK3G2wAc/view?usp=sharing) from a Communications Committee meeting that demostrates two approaches to starting a pull request and requesting a merge. 
+
+If you want to start developing without installing anything locally, you can use GitHub Codespaces. Once the Codespace is started, just use `quarto preview` to launch a development version of the website that will update with your changes. More information on [setting up Codespaces](#codespaces) is below. 
 
 ## Content
 
@@ -105,20 +109,29 @@ Here are a few resources you can use to learn more about accessibility:
 
 ### Setup
 
-For website code contributions, you'll probably want to get a local development setup going. We use [Quarto](https://quarto.org/) for website development which can be run from the command line, R, or Python. 
+We use [Quarto](https://quarto.org/) for website development, which can be run from the command line, R, or Python. 
 
-Below are steps to get set up when using Quarto via the command line. 
+#### Codespaces
 
-1) Check which version of Quarto we are currently using. Look for this in the [deploy script](https://github.com/datascijedi/website/blob/main/netlify_deploy.sh), where it will be in the variable `QUARTO_TARBALL_URL`.
+Codespaces provides a way to make website contributions without needing to install any additional software locally. Just [navigate to the repository](https://github.com/datascijedi/website), click the Code button, and create or open a Codespace from there. Once your Codespace is set up, you can use the editor and terminal similar to how you would in a local VS Code setup. 
+
+For more documentation on commiting and pushing changes with Codespaces, check out:
+https://docs.github.com/en/codespaces/getting-started/quickstart
+
+#### Local Development
+
+For a local develop environment:
+
+1) Find the current Quarto version being used in the [deploy script](https://github.com/datascijedi/website/blob/main/netlify_deploy.sh), where it will be in the variable `QUARTO_TARBALL_URL`.
 2) Download the correct version from [Quarto's releases](https://github.com/quarto-dev/quarto-cli/releases) and install.
-3) Fork and/or clone this repository. 
-4) From the root of the repository, run `quarto preview` and a local version of this website should open up in your browser.
+3) Fork and/or clone this repository.
+4) From the root of the repository, run `quarto preview` in your terminal and a local version of this website should open up in your browser.
 
-### Deployment
+### Quarto Version and Deployment
 
 The website is deployed with Netlify via [netlify_deploy.sh](https://github.com/datascijedi/website/blob/main/netlify_deploy.sh) and [netlify.toml](https://github.com/datascijedi/website/blob/main/netlify.toml). 
 
-To update the Quarto version used for Netlify production deployments and deploy previews, [find the link](https://github.com/quarto-dev/quarto-cli/releases) to the tarball (it should end with "linux-amd64.tar.gz") and update `QUARTO_TARBALL_URL` in [netlify_deploy.sh](https://github.com/datascijedi/website/blob/main/netlify_deploy.sh) with this link.
+To update the Quarto version used for Netlify production deployments and deploy previews, [find the link](https://github.com/quarto-dev/quarto-cli/releases) to the tarball (it should end with "linux-amd64.tar.gz") and update `QUARTO_TARBALL_URL` in [netlify_deploy.sh](https://github.com/datascijedi/website/blob/main/netlify_deploy.sh) with this link. Also, update the Quarto version specified in the `.devcontainer/devcontainer.json` file, so that Codespaces uses the same version.
 
 ## JEDI Membership
 
