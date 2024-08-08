@@ -1,6 +1,11 @@
 {
   "name": "JEDI Outreach Group",
   "image": "ghcr.io/quarto-dev/quarto:1.4.555",
+  "features": {
+      "ghcr.io/devcontainers/features/common-utils:2": {
+        "version": "latest"
+      }
+  },  
   "customizations": {
     "vscode": {
       "extensions": ["quarto.quarto", "denoland.vscode-deno"]
@@ -9,5 +14,6 @@
       "openFiles": ["CONTRIBUTING.md"]
     }
   },
-  "forwardPorts": [4200]
+  "forwardPorts": [4200],
+  "onCreateCommand": "apt update && apt install -y git && git config --global --add safe.directory /workspaces/website"
 }
