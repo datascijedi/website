@@ -1,0 +1,31 @@
+{
+  "name": "JEDI Outreach Group",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:2": {
+      "installZsh": "true",
+      "username": "node",
+      "upgradePackages": "true"
+    },
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "none"
+    },
+    "ghcr.io/devcontainers/features/git:1": {
+      "version": "latest",
+      "ppa": "false"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": ["quarto.quarto", "denoland.vscode-deno"]
+    },
+    "codespaces": {
+      "openFiles": ["CONTRIBUTING.md"]
+    }
+  },
+  "forwardPorts": [4200],
+  "postCreateCommand": "quarto preview",
+  "remoteUser": "node"
+}
