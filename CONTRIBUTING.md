@@ -113,7 +113,15 @@ We use [Quarto](https://quarto.org/) for website development, which can be run f
 
 #### Codespaces
 
-Codespaces provides a way to make website contributions without needing to install any additional software locally. Just [navigate to the repository](https://github.com/datascijedi/website), click the Code button, and create or open a Codespace from there. Once your Codespace is set up, you can use the editor and terminal similar to how you would in a local VS Code setup. 
+Codespaces provides a way to make website contributions without needing to install any additional software locally. And as of this writing, there are 60 hours of free usage each month provided by GitHub.
+
+Steps:
+
+1) [Navigate to the repository](https://github.com/datascijedi/website).
+2) Click the Code button, and create or open a Codespace from there. 
+3) Once your Codespace appears, run `quarto preview` in the terminal to start up the Quarto dev server. 
+
+At this point, you should be presented with a button to view the development version of the website. Any changes you make should be reflected in the development version of the website. And, you can use the editor and terminal similar to how you would in a local setup. Your git configuration should be set up, so that you pull/push changes as usual, create new branches, and so on. 
 
 For more documentation on commiting and pushing changes with Codespaces, check out:
 https://docs.github.com/en/codespaces/getting-started/quickstart
