@@ -31,4 +31,6 @@ toc: false
 
 -   [Resources for inclusive teaching, compiled by Emily Griffith and Jordan Duggins](https://statistics.sciences.ncsu.edu/resources/faculty/dei-teaching-resources/)
 
+-   [Resources for JEDI-informed statistics pedagogy compiled by the Consortium for the Advancement of Undergraduate Statistics Education (CAUSE)](https://causeweb.org/jedi/)
+
 -   [Repository for fellowships, awards, and conference opportunities for students and early career statisticians, compiled by JEDI OG Students and Young Professionals Committee](https://community.amstat.org/jedioutreachgroupresourcerepository/home)
