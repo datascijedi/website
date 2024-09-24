@@ -107,33 +107,37 @@ Here are a few resources you can use to learn more about accessibility:
 
 ## Development
 
-### Setup
+Unless making edits right on the GitHub website serves your needs, [Quarto](https://quarto.org/) is the main dependency required for making updates to the website. Below we provide steps to get started in various development environments, some of which will take care of the Quarto setup for you.
 
-We use [Quarto](https://quarto.org/) for website development, which can be run from the command line, R, or Python. 
+### Codespaces
 
-#### Codespaces
+Codespaces is a browser-based IDE that currently provides 60 hours of usage free per month.
 
-Codespaces provides a way to make website contributions without needing to install any additional software locally. And as of this writing, there are 60 hours of free usage each month provided by GitHub.
-
-Steps:
-
-1) [Navigate to the repository](https://github.com/datascijedi/website).
+1) [Navigate to the repository](https://github.com/datascijedi/website) on GitHub.
 2) Click the Code button, and create or open a Codespace from there. 
-3) Once your Codespace appears, run `quarto preview` in the terminal to start up the Quarto dev server. 
+3) If needed, open up the integrated terminal, then run `quarto preview` to start up the Quarto dev server.
+4) At this point, you should be presented with a button to open up a development version of the website in your browser, which should reflect any changes you make. 
 
-At this point, you should be presented with a button to view the development version of the website. Any changes you make should be reflected in the development version of the website. And, you can use the editor and terminal similar to how you would in a local setup. Your git configuration should be set up, so that you pull/push changes as usual, create new branches, and so on. 
-
-For more documentation on commiting and pushing changes with Codespaces, check out:
+For more on Codespaces, check out:
 https://docs.github.com/en/codespaces/getting-started/quickstart
 
-#### Local Development
-
-For a local develop environment:
+### Local Development
 
 1) Find the current Quarto version being used in the [deploy script](https://github.com/datascijedi/website/blob/main/netlify_deploy.sh), where it will be in the variable `QUARTO_TARBALL_URL`.
 2) Download the correct version from [Quarto's releases](https://github.com/quarto-dev/quarto-cli/releases) and install.
-3) Fork and/or clone this repository.
-4) From the root of the repository, run `quarto preview` in your terminal and a local version of this website should open up in your browser.
+3) Clone this repository (or fork and clone, e.g. if you don't currently have direct access).
+4) From the root of the repository, run `quarto preview` in your terminal and a local version of this website should be available in your browser. The default port is currently 4200.
+
+### Project IDX
+
+Project IDX is a browser-based IDE which is currently in beta and available to use for free.
+
+1) Go to https://idx.dev/. Click on "Get Started" in the top right, creating an account as necessary. If you are already a Google/Gmail user and currently logged in, the default behavior might be to sign you in with the same account.
+2) Click on "Import a repo" on the right hand side, enter in the GitHub URL (https://github.com/datascijedi/website), and then click the "Import" button which will open up the IDE.
+3) Open up the integrated terminal _(Horizontal Striped Menu -> View -> Terminal)_ and run `quarto preview` to start up the Quarto dev server.
+4) Click on the "Project IDX" button on the left side of the window (the bottom button, it looks like an arrow facing right), expand "BACKEND PORTS" at the bottom of the opened side panel, and click the button to open the preview URL which should reflect any changes you make.
+
+For more about Project IDX, check out: https://developers.google.com/idx/guides
 
 ### Quarto Version and Deployment
 
