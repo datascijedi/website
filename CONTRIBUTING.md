@@ -22,13 +22,13 @@ We welcome and value contributions from everyone. Contributions can include addi
 
 To contribute code or content, just submit a pull request against the `main` branch! If you are embarking on a larger effort or just want to let us know of an issue, consider creating a GiHub issue as well. 
 
-If you're using R Studio or prefer a GUI-based approach, check out [this recording](https://drive.google.com/file/d/1tYgy2J9Yne-YX4c1JdHnQLGTgK3G2wAc/view?usp=sharing) from a Communications Committee meeting that demostrates two approaches to starting a pull request and requesting a merge. Otherwise, head over to the "Development Setup" section of this guide for various other options.
+If you're using R Studio or prefer a GUI-based approach, check out [this recording](https://drive.google.com/file/d/1tYgy2J9Yne-YX4c1JdHnQLGTgK3G2wAc/view?usp=sharing) from a Communications Committee meeting that demonstrates two approaches to starting a pull request and requesting a merge. Otherwise, head over to the "Development Setup" section of this guide for various other options.
 
 ## Content Edits
 
 ### Adding Links
 
-When inserting links anywhere on the site, use a clear label describing the purpose of the link. This makes the website more accessible for viewers using screen readers (among other accecsibility benefits). [Read more about Accesible Rich Interner Applications at this link.](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA8#:~:text=The%20aria%2Dlabel%20attribute%20provides,used%20instead%20of%20aria%2Dlabel%20)
+When inserting links anywhere on the site, use a clear label describing the purpose of the link. This makes the website more accessible for viewers using screen readers (among other accessibility benefits). [Read more about Accessible Rich Internet Applications at this link.](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA8#:~:text=The%20aria%2Dlabel%20attribute%20provides,used%20instead%20of%20aria%2Dlabel%20)
 
 ### Updating Resources
 
@@ -38,12 +38,12 @@ For adding links to Resources tab, open the resources.qmd file (in the "main" fo
 
 #### Upcoming webinars
 
-For adding information on upcoming webinars, use the following stpes:
+For adding information on upcoming webinars, use the following steps:
 
 1) Add webinar image or flyer to website/webinars/images. Note, pdf flyers are not ideal; they don't display well. png or jpg are preferred.
 2) Copy content of dummy-webinar.qmd from website/webinars
 3) Create new .qmd file in website/webinars/upcoming, paste dummy-webinar content, and edit all available fields.
-4) If necessary, update website/webinars.qmd to replace "Coming soon" message, display upcoming webinars. Use <!-- at the start of Coming soon message and --> at end to supress. Remove #s on listing content to show upcoming webinars (lines 4-8). (Ensure proper spacing, look at past webinars list for example.) Remove <!-- and --> around :::{#upcoming webinars} ::: 
+4) If necessary, update website/webinars.qmd to replace "Coming soon" message, display upcoming webinars. Use <!-- at the start of Coming soon message and --> at end to suppress. Remove #s on listing content to show upcoming webinars (lines 4-8). (Ensure proper spacing, look at past webinars list for example.) Remove <!-- and --> around :::{#upcoming webinars} ::: 
 5) If necessary, update index.qmd to display upcoming webinars instead of past webinars. To do this, change content from webinars/past to webinars/upcoming
 
 #### Past webinars
@@ -66,7 +66,7 @@ When a webinar has occurred, use the following steps to move it to past webinar 
 Each month, update website with a new JEDI corner article.
 
 1) Save photo of author or article image to images/jedi-corner  
-2) In jedi-corner.yml, copy entry from previous month. Edit article information, Committ changes.
+2) In jedi-corner.yml, copy entry from previous month. Edit article information, Commit changes.
 
 ### Accessibility Tips
 
