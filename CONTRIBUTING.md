@@ -5,28 +5,26 @@ We welcome and value contributions from everyone. Contributions can include addi
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Content](#content)
+- [Content Edits](#content-edits)
   - [Adding Links](#adding-links)
   - [Updating Resources](#updating-resources)
   - [Updating Webinars](#updating-webinars)
   - [JEDI Corner](#jedi-corner)
   - [Accessibility Tips](#accessibility-tips)
-- [Development](#development)
-  - [Setup](#setup)
-    - [Codespaces](#codespaces)
-    - [Local Development](#local-development)
-  - [Quarto Version and Deployment](#quarto_version_and_deployment)
+- [Development Setup](#development-setup)
+  - [Codespaces](#codespaces)
+  - [Local Development](#local-development)
+  - [Project IDX](#project-idx)
+  - [Quarto Upgrade and Deployment](#quarto_version_and_deployment)
 - [JEDI Membership](#jedi-membership)
 
 ## Introduction
 
 To contribute code or content, just submit a pull request against the `main` branch! If you are embarking on a larger effort or just want to let us know of an issue, consider creating a GiHub issue as well. 
 
-If you're using R Studio or prefer a GUI-based approach, check out [this recording](https://drive.google.com/file/d/1tYgy2J9Yne-YX4c1JdHnQLGTgK3G2wAc/view?usp=sharing) from a Communications Committee meeting that demostrates two approaches to starting a pull request and requesting a merge. 
+If you're using R Studio or prefer a GUI-based approach, check out [this recording](https://drive.google.com/file/d/1tYgy2J9Yne-YX4c1JdHnQLGTgK3G2wAc/view?usp=sharing) from a Communications Committee meeting that demostrates two approaches to starting a pull request and requesting a merge. Otherwise, head over to the "Development Setup" section of this guide for various other options.
 
-If you want to start developing without installing anything locally, you can use GitHub Codespaces. Once the Codespace is started, just use `quarto preview` to launch a development version of the website that will update with your changes. More information on [setting up Codespaces](#codespaces) is below. 
-
-## Content
+## Content Edits
 
 ### Adding Links
 
@@ -105,13 +103,15 @@ Here are a few resources you can use to learn more about accessibility:
 - [Axe Dev Tools](https://www.deque.com/axe/devtools/)
 - [Thorough Reference on Accessibility](https://www.section508.gov/content/guide-accessible-web-design-development/)
 
-## Development
+## Development Setup
 
 Unless making edits right on the GitHub website serves your needs, [Quarto](https://quarto.org/) is the main dependency required for making updates to the website. Below we provide steps to get started in various development environments, some of which will take care of the Quarto setup for you.
 
+Matching the Quarto version in your development environment to production is important to be able to match the production website behavior (unless of course you are working on changing the version), so please try to get as close as possible. Once set up, you can check the Quarto version in your development environment by running `quarto -V` in a terminal. 
+
 ### Codespaces
 
-Codespaces is a browser-based IDE that currently provides 60 hours of usage free per month.
+Codespaces is a browser-based IDE that currently provides 60 hours of usage free per month with their default two core setup.
 
 1) [Navigate to the repository](https://github.com/datascijedi/website) on GitHub.
 2) Click the Code button, and create or open a Codespace from there. 
@@ -124,26 +124,33 @@ https://docs.github.com/en/codespaces/getting-started/quickstart
 ### Local Development
 
 1) Find the current Quarto version being used in the [deploy script](https://github.com/datascijedi/website/blob/main/netlify_deploy.sh), where it will be in the variable `QUARTO_TARBALL_URL`.
-2) Download the correct version from [Quarto's releases](https://github.com/quarto-dev/quarto-cli/releases) and install.
+2) Download the correct version for your platform from [Quarto's releases](https://github.com/quarto-dev/quarto-cli/releases) and install.
 3) Clone this repository (or fork and clone, e.g. if you don't currently have direct access).
 4) From the root of the repository, run `quarto preview` in your terminal and a local version of this website should be available in your browser. The default port is currently 4200.
 
 ### Project IDX
 
-Project IDX is a browser-based IDE which is currently in beta and available to use for free.
+Project IDX is a browser-based IDE which is currently in beta and available to use for free. 
 
 1) Go to https://idx.dev/. Click on "Get Started" in the top right, creating an account as necessary. If you are already a Google/Gmail user and currently logged in, the default behavior might be to sign you in with the same account.
-2) Click on "Import a repo" on the right hand side, enter in the GitHub URL (https://github.com/datascijedi/website), and then click the "Import" button which will open up the IDE.
+2) Click on "Import a repo" on the right hand side, enter in the GitHub repository URL (https://github.com/datascijedi/website), and then click the "Import" button which should open up the IDE.
 3) Open up the integrated terminal _(Horizontal Striped Menu -> View -> Terminal)_ and run `quarto preview` to start up the Quarto dev server.
 4) Click on the "Project IDX" button on the left side of the window (the bottom button, it looks like an arrow facing right), expand "BACKEND PORTS" at the bottom of the opened side panel, and click the button to open the preview URL which should reflect any changes you make.
 
 For more about Project IDX, check out: https://developers.google.com/idx/guides
 
-### Quarto Version and Deployment
+### Quarto Upgrade and Deployment
 
 The website is deployed with Netlify via [netlify_deploy.sh](https://github.com/datascijedi/website/blob/main/netlify_deploy.sh) and [netlify.toml](https://github.com/datascijedi/website/blob/main/netlify.toml). 
 
-To update the Quarto version used for Netlify production deployments and deploy previews, [find the link](https://github.com/quarto-dev/quarto-cli/releases) to the tarball (it should end with "linux-amd64.tar.gz") and update `QUARTO_TARBALL_URL` in [netlify_deploy.sh](https://github.com/datascijedi/website/blob/main/netlify_deploy.sh) with this link. Also, update the Quarto version specified in the `.devcontainer/devcontainer.json` file, so that Codespaces uses the same version.
+Below is a checklist for upgrading Quarto to a new version:
+
+1. Find the link for your desired Quarto version at https://github.com/quarto-dev/quarto-cli/releases. The file should end with `linux-amd64.tar.gz`.
+2. Update `QUARTO_TARBALL_URL` in `netlify_deploy.sh` in the repository root with the above mentioned link. This is what will be used in the production deployment.
+3. For Codespaces: Update the Quarto version specified in the `.devcontainer/devcontainer.json` file.
+4. For Project IDX: If you can find the right version by searching for "quarto" at https://search.nixos.org/packages, then update `.idx/dev.nix` in the repository root with the correct channel version (e.g. `channel = 24.05`), which will be in the top left of the NixOS website. If you can't find the correct Quarto version, try clicking "unstable" on the NixOS website, and search for quarto again. If you find a better fit (e.g. the right version, or a newer version than what was being used), then replace the channel version with "unsable" (e.g. `channel = unstable`).
+
+If you get stuck on the above (which could happen, for instance, if the process evolves abruptly), feel free to reach out to one of the current or past contributors for help!
 
 ## JEDI Membership
 
