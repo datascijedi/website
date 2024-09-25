@@ -1,6 +1,6 @@
 {
   "name": "JEDI Outreach Group",
-  "image": "ghcr.io/quarto-dev/quarto:1.4.555",
+  "image": "ghcr.io/quarto-dev/quarto:v1.5.57",
   "features": {
       "ghcr.io/devcontainers/features/common-utils:2": {
         "version": "latest"
