@@ -16,5 +16,6 @@
       "openFiles": ["CONTRIBUTING.md"]
     }
   },
-  "forwardPorts": [4200]
+  "forwardPorts": [4200],
+  "postCreateCommand": ". ./quarto_setup.sh"
 }
