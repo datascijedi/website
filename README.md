@@ -1,6 +1,6 @@
 <p align="center"><img src="./images/jedi-logo-wide.png" alt="jedi-logo-wide" width="300"/></p>
 
-<p align="center"><img src="https://img.shields.io/badge/Quarto-v1.5.57-green " alt="quarto-version"/></p>
+<p align="center"><img src="https://img.shields.io/badge/Quarto-v1.5.57-green" alt="quarto-version"/></p>
 
 This repository holds the source files for our live website at https://datascijedi.org. 
 

@@ -115,7 +115,7 @@ Codespaces is a browser-based IDE that currently provides 60 hours of usage free
 
 1) [Navigate to the repository](https://github.com/datascijedi/website) on GitHub.
 2) Click the Code button, and create or open a Codespace from there. 
-3) If needed, open up the integrated terminal, then run `quarto preview` to start up the Quarto dev server.
+3) If needed, open up the integrated terminal, wait for any loading to finish, then run `quarto preview` to start up the Quarto dev server.
 4) At this point, you should be presented with a button to open up a development version of the website in your browser, which should reflect any changes you make. 
 
 For more on Codespaces, check out:
@@ -134,7 +134,7 @@ Project IDX is a browser-based IDE which is currently in beta and available to u
 
 1) Go to https://idx.dev/. Click on "Get Started" in the top right, creating an account as necessary. If you are already a Google/Gmail user and currently logged in, the default behavior might be to sign you in with the same account.
 2) Click on "Import a repo" on the right hand side, enter in the GitHub repository URL (https://github.com/datascijedi/website), and then click the "Import" button which should open up the IDE.
-3) Open up the integrated terminal _(Horizontal Striped Menu -> View -> Terminal)_ and run `quarto preview` to start up the Quarto dev server.
+3) Wait for any loading to finish, open up the integrated terminal _(Horizontal Striped Menu -> View -> Terminal)_ and run `quarto preview` to start up the Quarto dev server.
 4) Click on the "Project IDX" button on the left side of the window (the bottom button, it looks like an arrow facing right), expand "BACKEND PORTS" at the bottom of the opened side panel, and click the button to open the preview URL which should reflect any changes you make.
 
 For more about Project IDX, check out: https://developers.google.com/idx/guides
@@ -143,11 +143,11 @@ For more about Project IDX, check out: https://developers.google.com/idx/guides
 
 The website is deployed with Netlify via [netlify.toml](https://github.com/datascijedi/website/blob/main/netlify.toml) in the repository root. 
 
-Below is a checklist for udpating the Quarto version used in Netlify production deployments as well as Project IDX and Codespaces.
+Below is a checklist for udpating the Quarto version used in Netlify production deployments, as well as Project IDX and Codespaces.
 
-1. Find the desired version at https://github.com/quarto-dev/quarto-cli/releases. The file should end with `linux-amd64.tar.gz`. Note the version number, which should be in the form `#.#.#`.
-2. In `quarto_setup.sh`, update the version in `QUARTO_VERSION='1.5.57'`. Note that there is no "v" character preceding the version. 
-3. For Codespaces: Update the Quarto version specified in the `.devcontainer/devcontainer.json` file.
+1. Find your desired Quarto version at https://github.com/quarto-dev/quarto-cli/releases. The file should end with `linux-amd64.tar.gz`. Note the version number, which should be in the form `#.#.#`.
+2. In `quarto_setup.sh`, update the version in `QUARTO_VERSION='1.5.57'`. Note that there is no "v" character preceding the version used here.
+3. In `README.md`, update the version in the badge url, e.g. https://img.shields.io/badge/Quarto-v1.5.57-green.
 
 Please feel free to create an issue if you run into any problems. Thanks! 
 
