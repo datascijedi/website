@@ -1,6 +1,8 @@
 {
-  "name": "JEDI Outreach Group",
-  "image": "ghcr.io/quarto-dev/quarto:1.5.57",
+  "name": "DataSci JEDI Outreach Group",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
   "features": {
       "ghcr.io/devcontainers/features/common-utils:2": {
         "version": "latest"
@@ -14,6 +16,5 @@
       "openFiles": ["CONTRIBUTING.md"]
     }
   },
-  "forwardPorts": [4200],
-  "onCreateCommand": "apt update && apt install -y git && git config --global --add safe.directory /workspaces/website"
+  "forwardPorts": [4200]
 }

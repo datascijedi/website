@@ -139,18 +139,17 @@ Project IDX is a browser-based IDE which is currently in beta and available to u
 
 For more about Project IDX, check out: https://developers.google.com/idx/guides
 
-### Quarto Upgrade and Deployment
+### Quarto Version and Deployment
 
-The website is deployed with Netlify via [netlify_deploy.sh](https://github.com/datascijedi/website/blob/main/netlify_deploy.sh) and [netlify.toml](https://github.com/datascijedi/website/blob/main/netlify.toml). 
+The website is deployed with Netlify via [netlify.toml](https://github.com/datascijedi/website/blob/main/netlify.toml) in the repository root. 
 
-Below is a checklist for upgrading Quarto to a new version:
+Below is a checklist for udpating the Quarto version used in Netlify production deployments as well as Project IDX and Codespaces.
 
-1. Find the link for your desired Quarto version at https://github.com/quarto-dev/quarto-cli/releases. The file should end with `linux-amd64.tar.gz`.
-2. Update `QUARTO_TARBALL_URL` in `netlify_deploy.sh` in the repository root with the above mentioned link. This is what will be used in the production deployment.
+1. Find the desired version at https://github.com/quarto-dev/quarto-cli/releases. The file should end with `linux-amd64.tar.gz`. Note the version number, which should be in the form `#.#.#`.
+2. In `quarto_setup.sh`, update the version in `QUARTO_VERSION='1.5.57'`. Note that there is no "v" character preceding the version. 
 3. For Codespaces: Update the Quarto version specified in the `.devcontainer/devcontainer.json` file.
-4. For Project IDX: If you can find the right version by searching for "quarto" at https://search.nixos.org/packages, then update `.idx/dev.nix` in the repository root with the correct channel version (e.g. `channel = 24.05`), which will be in the top left of the NixOS website. If you can't find the correct Quarto version, try clicking "unstable" on the NixOS website, and search for quarto again. If you find a better fit (e.g. the right version, or a newer version than what was being used), then replace the channel version with "unsable" (e.g. `channel = unstable`).
 
-If you get stuck on the above (which could happen, for instance, if the process evolves abruptly), feel free to reach out to one of the current or past contributors for help!
+Please feel free to create an issue if you run into any problems. Thanks! 
 
 ## JEDI Membership
 
