@@ -1,8 +1,6 @@
 {
   "name": "DataSci JEDI Outreach Group",
-	"build": {
-		"dockerfile": "Dockerfile"
-	},
+  "image": "debian:12",
   "features": {
       "ghcr.io/devcontainers/features/common-utils:2": {
         "version": "latest"
