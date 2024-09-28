@@ -6,8 +6,9 @@
   "features": {
       "ghcr.io/devcontainers/features/common-utils:2": {
         "version": "latest"
-      }
-  },  
+      },
+      "ghcr.io/devcontainers/features/git:1": {}
+  },
   "customizations": {
     "vscode": {
       "extensions": ["quarto.quarto", "denoland.vscode-deno"]
@@ -17,5 +18,5 @@
     }
   },
   "forwardPorts": [4200],
-  "postCreateCommand": ". ./quarto_setup.sh"
+  "postCreateCommand": "bash ./quarto_setup.sh && export PATH=/root/bin/:$PATH"
 }

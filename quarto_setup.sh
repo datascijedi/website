@@ -30,8 +30,8 @@ ln -s ~/opt/${QUARTO_SHORT_NAME}/bin/quarto ~/bin/quarto
 export PATH=~/bin:$PATH
 rm ${QUARTO_TARBALL_BASENAME}
 
-# Only render up front if we are not in Project IDX
-if [ -z ${IDX_CHANNEL} ]; then
+# Only render up front for production deployments (not for Project IDX or Codespaces)
+if [ -z ${IDX_CHANNEL} -a -z ${CODESPACE_VSCODE_FOLDER} ]; then
   quarto render --output-dir ${QUARTO_OUTPUT_DIR}
 fi
 
