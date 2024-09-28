@@ -18,5 +18,8 @@
     }
   },
   "forwardPorts": [4200],
-  "postCreateCommand": "bash ./quarto_setup.sh && export PATH=/root/bin/:$PATH"
+  "postCreateCommand": "bash ./quarto_setup.sh",
+  "remoteEnv": {
+      "PATH": "/root/bin/:${containerEnv:PATH}"
+  }
 }
