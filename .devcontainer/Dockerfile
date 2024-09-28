@@ -1,10 +1,7 @@
 FROM debian:12
 
-# COPY . .
-
 # Install Quarto
-RUN rm -rf ~/opt ~/bin
-RUN . ~/website/quarto_setup.sh
+RUN . /workspaces/website/quarto_setup.sh
 
 # Install Git
 RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
