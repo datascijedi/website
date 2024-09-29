@@ -115,7 +115,7 @@ Codespaces is a browser-based IDE that currently provides 60 hours of usage free
 
 1) [Navigate to the repository](https://github.com/datascijedi/website) on GitHub.
 2) Click the Code button, and create or open a Codespace from there. 
-3) If needed, open up the integrated terminal, then run `quarto preview` to start up the Quarto dev server.
+3) If needed, open up the integrated terminal, wait for any loading to finish, then run `quarto preview` to start up the Quarto dev server.
 4) At this point, you should be presented with a button to open up a development version of the website in your browser, which should reflect any changes you make. 
 
 For more on Codespaces, check out:
@@ -134,23 +134,22 @@ Project IDX is a browser-based IDE which is currently in beta and available to u
 
 1) Go to https://idx.dev/. Click on "Get Started" in the top right, creating an account as necessary. If you are already a Google/Gmail user and currently logged in, the default behavior might be to sign you in with the same account.
 2) Click on "Import a repo" on the right hand side, enter in the GitHub repository URL (https://github.com/datascijedi/website), and then click the "Import" button which should open up the IDE.
-3) Open up the integrated terminal _(Horizontal Striped Menu -> View -> Terminal)_ and run `quarto preview` to start up the Quarto dev server.
+3) Wait for any loading to finish, open up the integrated terminal _(Horizontal Striped Menu -> View -> Terminal)_ and run `quarto preview` to start up the Quarto dev server.
 4) Click on the "Project IDX" button on the left side of the window (the bottom button, it looks like an arrow facing right), expand "BACKEND PORTS" at the bottom of the opened side panel, and click the button to open the preview URL which should reflect any changes you make.
 
 For more about Project IDX, check out: https://developers.google.com/idx/guides
 
-### Quarto Upgrade and Deployment
+### Quarto Version and Deployment
 
-The website is deployed with Netlify via [netlify_deploy.sh](https://github.com/datascijedi/website/blob/main/netlify_deploy.sh) and [netlify.toml](https://github.com/datascijedi/website/blob/main/netlify.toml). 
+The website is deployed with Netlify via [netlify.toml](https://github.com/datascijedi/website/blob/main/netlify.toml) in the repository root. 
 
-Below is a checklist for upgrading Quarto to a new version:
+Below is a checklist for udpating the Quarto version used in Netlify production deployments, as well as Project IDX and Codespaces.
 
-1. Find the link for your desired Quarto version at https://github.com/quarto-dev/quarto-cli/releases. The file should end with `linux-amd64.tar.gz`.
-2. Update `QUARTO_TARBALL_URL` in `netlify_deploy.sh` in the repository root with the above mentioned link. This is what will be used in the production deployment.
-3. For Codespaces: Update the Quarto version specified in the `.devcontainer/devcontainer.json` file.
-4. For Project IDX: If you can find the right version by searching for "quarto" at https://search.nixos.org/packages, then update `.idx/dev.nix` in the repository root with the correct channel version (e.g. `channel = 24.05`), which will be in the top left of the NixOS website. If you can't find the correct Quarto version, try clicking "unstable" on the NixOS website, and search for quarto again. If you find a better fit (e.g. the right version, or a newer version than what was being used), then replace the channel version with "unsable" (e.g. `channel = unstable`).
+1. Find your desired Quarto version at https://github.com/quarto-dev/quarto-cli/releases. The file should end with `linux-amd64.tar.gz`. Note the version number, which should be in the form `#.#.#`.
+2. In `quarto_setup.sh`, update the version in `QUARTO_VERSION='1.5.57'`. Note that there is no "v" character preceding the version used here.
+3. In `README.md`, update the version in the badge url, e.g. https://img.shields.io/badge/Quarto-v1.5.57-green.
 
-If you get stuck on the above (which could happen, for instance, if the process evolves abruptly), feel free to reach out to one of the current or past contributors for help!
+Please feel free to create an issue if you run into any problems. Thanks! 
 
 ## JEDI Membership
 

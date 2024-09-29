@@ -1,11 +1,12 @@
 {
-  "name": "JEDI Outreach Group",
-  "image": "ghcr.io/quarto-dev/quarto:1.5.57",
+  "name": "DataSci JEDI Outreach Group",
+  "image": "debian:12",
   "features": {
       "ghcr.io/devcontainers/features/common-utils:2": {
         "version": "latest"
-      }
-  },  
+      },
+      "ghcr.io/devcontainers/features/git:1": {}
+  },
   "customizations": {
     "vscode": {
       "extensions": ["quarto.quarto", "denoland.vscode-deno"]
@@ -15,5 +16,8 @@
     }
   },
   "forwardPorts": [4200],
-  "onCreateCommand": "apt update && apt install -y git && git config --global --add safe.directory /workspaces/website"
+  "postCreateCommand": "bash ./quarto_setup.sh",
+  "remoteEnv": {
+      "PATH": "/root/bin/:${containerEnv:PATH}"
+  }
 }
