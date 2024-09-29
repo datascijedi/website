@@ -107,10 +107,10 @@ website:
         - text: "Share Announcements"
           file: share-announcements.qmd
 
+  repo-actions: [edit]
   page-footer:
     border: true
     left: "Copyright 2023 © JEDI"
-    center: "GH-6c622c2fa6a54817" # placeholder text, replaced in post-render script
     right:
     - text: "License"
       href: LICENSE.md
