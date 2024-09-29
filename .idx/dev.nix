@@ -6,6 +6,7 @@
   idx = {
     extensions = [
       "quarto.quarto"
+      "denoland.vscode-deno"
     ];
     previews = {
       enable = true;
