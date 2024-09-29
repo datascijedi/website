@@ -1,6 +1,8 @@
 # Contributing
 
-We welcome and value contributions from everyone. Contributions can include adding website content, making or suggesting a fix, or developing new website features. Hope to see you around! 
+<p><img src="https://img.shields.io/badge/Quarto-v1.5.57-green" alt="quarto-version"/></p>
+
+We welcome and value contributions from everyone. Contributions can include adding website content, making or suggesting a fix, or developing new website features. The main dependency for development is [Quarto](https://quarto.org/), and you can find the current verison in use at the top of this file. Hope to see you around! 
 
 ## Table of Contents
 
@@ -107,7 +109,7 @@ Here are a few resources you can use to learn more about accessibility:
 
 Unless making edits right on the GitHub website serves your needs, [Quarto](https://quarto.org/) is the main dependency required for making updates to the website. Below we provide steps to get started in various development environments, some of which will take care of the Quarto setup for you.
 
-Matching the Quarto version in your development environment to production is important to be able to match the production website behavior (unless of course you are working on changing the version), so please try to get as close as possible. Once set up, you can check the Quarto version in your development environment by running `quarto -V` in a terminal. 
+Matching the Quarto version in your development environment to production is important to be able to match the production website behavior (unless of course you are working on changing the version), so please try to get as close as possible (see the top of this file for the current version). Once set up, you can check the Quarto version in your development environment by running `quarto -V` in a terminal. 
 
 ### Codespaces
 
@@ -123,7 +125,7 @@ https://docs.github.com/en/codespaces/getting-started/quickstart
 
 ### Local Development
 
-1) Find the current Quarto version being used in the [deploy script](https://github.com/datascijedi/website/blob/main/netlify_deploy.sh), where it will be in the variable `QUARTO_TARBALL_URL`.
+1) Find the current Quarto version being used at the top of this CONTRIBUTING.md file or in the [deploy script](https://github.com/datascijedi/website/blob/main/quarto_setup.sh). The versions should match (if they don't, please file an issue!)
 2) Download the correct version for your platform from [Quarto's releases](https://github.com/quarto-dev/quarto-cli/releases) and install.
 3) Clone this repository (or fork and clone, e.g. if you don't currently have direct access).
 4) From the root of the repository, run `quarto preview` in your terminal and a local version of this website should be available in your browser. The default port is currently 4200.
@@ -141,13 +143,13 @@ For more about Project IDX, check out: https://developers.google.com/idx/guides
 
 ### Quarto Version and Deployment
 
-The website is deployed with Netlify via [netlify.toml](https://github.com/datascijedi/website/blob/main/netlify.toml) in the repository root. 
+The website is deployed via [netlify.toml](https://github.com/datascijedi/website/blob/main/netlify.toml) from the repository root. 
 
-Below is a checklist for udpating the Quarto version used in Netlify production deployments, as well as Project IDX and Codespaces.
+Below is a checklist for udpating the Quarto version used in Netlify production deployments, and will also apply to the default version used in Project IDX and Codespaces.
 
-1. Find your desired Quarto version at https://github.com/quarto-dev/quarto-cli/releases. The file should end with `linux-amd64.tar.gz`. Note the version number, which should be in the form `#.#.#`.
-2. In `quarto_setup.sh`, update the version in `QUARTO_VERSION='1.5.57'`. Note that there is no "v" character preceding the version used here.
-3. In `README.md`, update the version in the badge url, e.g. https://img.shields.io/badge/Quarto-v1.5.57-green.
+1. Find your target Quarto version at https://github.com/quarto-dev/quarto-cli/releases. The file should end with `linux-amd64.tar.gz`.
+2. In `quarto_setup.sh`, located in the repository root, update the version being assigned to the `QUARTO_VERSION` variable. Note that there should be no "v" preceding the version number which is of the form `#.#.#`.
+3. At the top of this `CONTRIBUTING.md`, update the version in the badge URL. For instance, if the version is `1.5.7`, the badge URL should be https://img.shields.io/badge/Quarto-v1.5.57-green.
 
 Please feel free to create an issue if you run into any problems. Thanks! 
 

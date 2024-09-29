@@ -11,5 +11,5 @@
 # Local Netlify folder
 .netlify
 
-# For any netlify_deploy.sh script artifacts
+# For any quarto_setup.sh script artifacts
 quarto-1.5.57-linux-amd64.tar.gz*
