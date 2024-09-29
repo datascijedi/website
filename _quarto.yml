@@ -15,7 +15,6 @@ project:
 
   post-render:
     - render_scripts/copy_gh_pages_readme.ts
-    - render_scripts/github_link_insertion.ts
 
 format:
   html:
