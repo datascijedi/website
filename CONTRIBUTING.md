@@ -24,7 +24,28 @@ We welcome and value contributions from everyone. Contributions can include addi
 
 To contribute code or content, just submit a pull request against the `main` branch! If you are embarking on a larger effort or just want to let us know of an issue, consider creating a GiHub issue as well. 
 
-If you're using R Studio or prefer a GUI-based approach, check out [this recording](https://drive.google.com/file/d/1tYgy2J9Yne-YX4c1JdHnQLGTgK3G2wAc/view?usp=sharing) from a Communications Committee meeting that demonstrates two approaches to starting a pull request and requesting a merge. Otherwise, head over to the "Development Setup" section of this guide for various other options.
+You can jump right into developing the project with a pre-configured setup using Project IDX:
+
+<p>
+<a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2Fdatascijedi%2Fquarto-repo-actions">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://cdn.idx.dev/btn/open_light_32.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://cdn.idx.dev/btn/open_dark_32.svg">
+    <img
+      height="32"
+      alt="Open in IDX"
+      src="https://cdn.idx.dev/btn/open_purple_32.svg">
+  </picture>
+</a>
+</p>
+
+If you're using R Studio or prefer a GUI-based approach, check out [this recording](https://drive.google.com/file/d/1tYgy2J9Yne-YX4c1JdHnQLGTgK3G2wAc/view?usp=sharing) from a Communications Committee meeting that demonstrates two approaches to starting a pull request and requesting a merge. 
+
+Finally, head over to the [Development Setup](#development-setup) section of this guide for various other development environment options.
 
 ## Content Edits
 
