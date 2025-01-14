@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/webinars.html",
     "items": [
       "/webinars/past/2023-10-16-mentoring.html",
       "/webinars/past/2023-09-20-funding.html",
@@ -18,7 +18,7 @@
     "items": []
   },
   {
-    "listing": "/webinars.html",
+    "listing": "/index.html",
     "items": [
       "/webinars/past/2023-10-16-mentoring.html",
       "/webinars/past/2023-09-20-funding.html",

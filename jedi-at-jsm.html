@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,12 +36,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-4e3d35fc43d5fe7df195841ffd6f905d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-0f637c84a523e878c24824f1654496cb.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,7 +74,11 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="css/styles.css">
 <meta property="og:title" content="#JEDIatJSM – JEDI Outreach Group">
 <meta property="og:description" content="The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people.">
+<meta property="og:image" content="https://datascijedi.org/images/jedi-at-jsm/JEDIatJSM24-overall-online.png">
 <meta property="og:site_name" content="JEDI Outreach Group">
+<meta property="og:image:alt" content="A schedule graphic with the title 'JEDIatJSM 2024' aligned to the left with the JEDI and JSM 2024 logos to the right. Underneath, in alternating navy blue and mint green boxes, are listed the sessions and events affiliated with JEDI occurring during JSM 2024. On Sunday (August 5) there are 3 sessions, all from 2-3:50p: 'The Impact for Statistics and Data Science of the 2023 SCOTUS Decision on Affirmative Action', 'Building a More Diverse Statistical Future: Recent Graduates from the Math Alliance', and 'From Statistician to Institutional Leader: The Risks and Rewards of Making the Leap'. On Monday (August 6) there are 2 sessions and 1 event. The sessions 'Reducing Barriers to Teaching Novice Learners How to Code' and 'Unchartered Methods In Health Equity Research' are 10:30a - 12:20p. From 3-4p JEDI will host a joint reception with CoWiS, CMRR, CSD, LGBTQ+ Advocacy Committee, and the ASA Book Club. On Tuesday (August 6), there are 3 sessions. The session 'Data Science Ethics: Bridging Teaching and Practice' is from 8:30 - 10:20a. The sessions 'Infusing Data Equity Principles into Health Research: Training Initiatives and Implementation in Practice' and 'Missingness, Marginalization, and Misinformation: How data issues perpetuate cultural biases and impede scientific research for underrepresented communities' are from 2 - 3:50p. On Wednesday (August 7) there will be 5 sessions. The sessions 'Considerations and Best Practices for Use of Race, Ethnicity, and Ancestry in Data Science Research' and 'Synthesis of Ingram Olkin Forum on Statistical Challenges in the Analysis of Police Use of Force' are from 8:30 - 10:20a. The session 'Statistical Analyses and Applications for Studying Intersectionality and Disability Inclusion' is from 10:30a - 12:20p. Also from 10:30a - 12:20p will be the contributed poster presentations for the Caucus for Women in Statistics, as well as the International Chinese, Indian, &amp; Korean Statistical Associations. The session 'Empowering Educators: Supporting Equitable Teaching of Statistics and Data Science Across Grades K-16' will be from 2 - 3:50p.">
+<meta property="og:image:height" content="1728">
+<meta property="og:image:width" content="2304">
 <meta name="twitter:title" content="#JEDIatJSM – JEDI Outreach Group">
 <meta name="twitter:description" content="The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people.">
 <meta name="twitter:image" content="https://datascijedi.org/images/jedi-logo-square.png">
@@ -559,8 +563,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -671,7 +673,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
