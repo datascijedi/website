@@ -5,28 +5,24 @@ title: "Committees"
 Our committees are actively working to promote justice, equity, diversity, and inclusion (JEDI) principles in statistics and data science. 
 
 * The **Communications Committee** manages the JEDI Outreach Group social media channels and website, advertises JEDI-related events and opportunities, and coordinates the JEDI Corner in *Amstat News* [(Link to JEDI Corner archives)](jedi-corner.qmd).
-    + Chair: David Corliss (he/him) [(Link to David Corliss webpage)](https://www.peace-work.org/)
-
+  + Chair: David Corliss (he/him) [(Link to David Corliss webpage)](https://www.peace-work.org/)
 
 * The **Professional Development Committee** provides opportunities for members to learn about JEDI-related issues and how to develop communities that are just, equitable, diverse and inclusive.
-    + Chair: Joel Thurston
-
+  + Chair: Joel Thurston
 
 * The **Program Committee** develops and contributes programming that promotes a just, equitable, diverse and inclusive statistics community and addresses areas of statistical study that face JEDI-related implications. This committee will work to incorporate and/or sponsor JEDI-related programming in statistical conferences.
-    + Chair: Amanda Koepke (she/her) [(Link to Amanda Koepke webpage)](https://www.linkedin.com/in/amandakoepke/)
-
+  + Chair: Amanda Koepke (she/her) [(Link to Amanda Koepke webpage)](https://www.linkedin.com/in/amandakoepke/)
 
 * The **Students and Young Professionals Committee** provides an opportunity for students and young professionals (within five years of their highest degree) to gather and convene to discuss their JEDI-related experiences and concerns. This committee can further pass along ideas and collaborate with the other JEDI Outreach Group committees to publicize and address their related concerns and interests.
-    + Co-Chairs: Megan McCabe (she/her) [(Link to Megan McCabe webpage)](https://www.linkedin.com/in/megan-mccabe-b80040144/) and Michael Dumelle (he/him) [(Link to Michael Dumelle webpage)](https://michaeldumelle.github.io/)
-
+  + Co-Chairs: Megan McCabe (she/her) [(Link to Megan McCabe webpage)](https://www.linkedin.com/in/megan-mccabe-b80040144/) and Michael Dumelle (he/him) [(Link to Michael Dumelle webpage)](https://michaeldumelle.github.io/)
 
 * Other executive committee members:
   + Chair: Eric J. Daza (he/him) [(Link to EJ Daza webpage)](https://ericjdaza.github.io/)
   + Chair-Elect: Samantha Robinson (she/her) [(Link to Samantha Robinson webpage)](https://human-environmental-sciences.uark.edu/people/faculty/uid/sewrob/name/Samantha+Elizabeth+Robinson/)
   + Past Chairs:
-        - Melody Goodman [(Link to Melody Goodman webpage)](https://publichealth.nyu.edu/faculty/melody-goodman)
-        - Wendy Martinez (she/they) [(Link to Wendy Martinez webpage)](https://www.linkedin.com/in/martinez-wendy-483b0112/)
-        - Kimberly F. Sellers (she/her) [(Link to Kimberly Sellers webpage)](https://www.kimflaggsellers.com/about)
+    - Melody Goodman [(Link to Melody Goodman webpage)](https://publichealth.nyu.edu/faculty/melody-goodman)
+    - Wendy Martinez (she/they) [(Link to Wendy Martinez webpage)](https://www.linkedin.com/in/martinez-wendy-483b0112/)
+    - Kimberly F. Sellers (she/her) [(Link to Kimberly Sellers webpage)](https://www.kimflaggsellers.com/about)
 
   + Secretary/Treasurer: Maria Tackett (she/her) [(Link to Maria Tackett webpage)](https://maria-tackett.netlify.app/)
 
