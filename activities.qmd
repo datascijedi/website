@@ -5,7 +5,7 @@ title: "Committees"
 Our committees are actively working to promote justice, equity, diversity, and inclusion (JEDI) principles in statistics and data science. 
 
 * The **Communications Committee** manages the JEDI Outreach Group social media channels and website, advertises JEDI-related events and opportunities, and coordinates the JEDI Corner in *Amstat News* [(Link to JEDI Corner archives)](jedi-corner.qmd).
-  + Chair: David Corliss (he/him) [(Link to David Corliss webpage)](https://www.peace-work.org/)
+  + Chair: David Corliss (he/him) [(Link to David Corliss webpage)](https://www.peace-work.org/)<br>
 
 * The **Professional Development Committee** provides opportunities for members to learn about JEDI-related issues and how to develop communities that are just, equitable, diverse and inclusive.
   + Chair: Joel Thurston
