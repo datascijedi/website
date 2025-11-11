@@ -70,6 +70,14 @@ body .nav-footer-center {
     min-height: unset;
 }
 
+/*
+Fix horizontal alignment of center footer.
+*/
+
+body > footer > div > div.nav-footer-center > div > ul {
+  padding-left: 0;
+}
+
 /* Make an element invisible but focusable, e.g. for screen reader keyboard navigation */
 .jedi-hidden-and-focusable {
   position: absolute !important;
