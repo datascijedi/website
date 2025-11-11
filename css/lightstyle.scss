@@ -44,7 +44,7 @@ $pagination-active-color: #0b0b0b;
   background-color: #ecf0f1;
 }
 
-@media screen and (max-width: 365px) {
+@media (max-width: 365px) {
   .homebox {
     max-height: 250px;
     padding-left: 10px;

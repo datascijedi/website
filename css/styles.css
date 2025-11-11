@@ -6,14 +6,14 @@
   margin-right: 15px;
 }
 
-@media screen and (max-width: 767px) {
+@media (max-width: 767px) {
   .hide-twitter-timeline {
     visibility: hidden;
     display: none;
   }
 }
 
-@media screen and (min-width: 768px) {
+@media (min-width: 768px) {
   .show-twitter-timeline {
     visibility: hidden;
     display: none;
@@ -71,7 +71,7 @@ body .nav-footer-center {
 }
 
 /*
-Fix horizontal alignment of center footer.
+Fix horizontal alignment of center footer. 
 */
 
 body > footer > div > div.nav-footer-center > div > ul {
