@@ -63,11 +63,11 @@ Below is a fix.
 */
 
 body .nav-footer {
-    align-items: center;
+  align-items: center;
 }
 
 body .nav-footer-center {
-    min-height: unset;
+  min-height: unset;
 }
 
 /*
@@ -79,6 +79,7 @@ body > footer > div > div.nav-footer-center > div > ul {
 }
 
 /* Make an element invisible but focusable, e.g. for screen reader keyboard navigation */
+
 .jedi-hidden-and-focusable {
   position: absolute !important;
   width: 0px !important;
