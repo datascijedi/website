@@ -71,13 +71,11 @@ body .nav-footer-center {
 }
 
 /*
-Fix horizontal alignment of center footer for narrow devices. 
+Fix horizontal alignment of center footer. 
 */
 
-@media (max-width: 767px) {
-  body > footer > div > div.nav-footer-center > div > ul {
-    padding-left: 0;
-  }
+body > footer > div > div.nav-footer-center > div > ul {
+  padding-left: 0;
 }
 
 /* Make an element invisible but focusable, e.g. for screen reader keyboard navigation */
