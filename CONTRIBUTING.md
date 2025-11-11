@@ -2,7 +2,7 @@
 
 <p><img src="https://img.shields.io/badge/Quarto-v1.8.25-green" alt="quarto-version"/></p>
 
-We welcome and value contributions from everyone. Contributions can include adding website content, making or suggesting a fix, or developing new website features. The main dependency for development is [Quarto](https://quarto.org/), and you can find the current verison in use at the top of this file. Hope to see you around! 
+We welcome and value contributions from everyone. Contributions can include adding website content, making or suggesting a fix, or developing new website features. The main dependency for development is [Quarto](https://quarto.org/), and you can find the current version in use at the top of this file. Hope to see you around! 
 
 ## Table of Contents
 
