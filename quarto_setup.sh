@@ -4,7 +4,7 @@ echo "Quarto setup has begun. Please wait until it's ready to start using Quarto
 
 # Set the version of Quarto using the form `#.#.#.` and omitting any preceding "v" character
 # Quarto releases can be found here: https://github.com/quarto-dev/quarto-cli/releases/
-QUARTO_VERSION='1.5.57'
+QUARTO_VERSION='1.8.25'
 
 # Set this URL to change the Quarto version for deploys
 QUARTO_TARBALL_URL=https://github.com/quarto-dev/quarto-cli/releases/download/v${QUARTO_VERSION}/quarto-${QUARTO_VERSION}-linux-amd64.tar.gz
