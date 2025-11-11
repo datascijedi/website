@@ -17,7 +17,7 @@ We welcome and value contributions from everyone. Contributions can include addi
   - [Codespaces](#codespaces)
   - [Local Development](#local-development)
   - [Project IDX](#project-idx)
-  - [Quarto Upgrade and Deployment](#quarto_version_and_deployment)
+  - [Quarto Version and Deployment](#quarto-version-and-deployment)
 - [JEDI Membership](#jedi-membership)
 
 ## Introduction
