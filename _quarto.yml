@@ -109,7 +109,7 @@ website:
   repo-actions: [edit]
   page-footer:
     border: true
-    left: "Copyright 2023 © JEDI"
+    left: "© 2023-2025 JEDI Outreach Group"
     right:
     - text: "License"
       href: LICENSE.md
