@@ -18,8 +18,12 @@ listing:
     sort: "date desc"
 ---
 
+```{=html}
 <!-- Temporarily removing the embedded Twitter feed, see discussion here: 
 https://twittercommunity.com/t/again-list-widget-says-nothing-to-see-here-yet-if-logged-out/198782/111 -->
+```
+
+````{=html}
 <!-- ::: column-margin
 ```{=html}
 <div class="hide-twitter-timeline">
@@ -28,6 +32,7 @@ https://twittercommunity.com/t/again-list-widget-says-nothing-to-see-here-yet-if
 </div>
 ```
 ::: -->
+````
 
 ```{=html}
 <h1 class='jedi-hidden-and-focusable'>
@@ -37,6 +42,7 @@ https://twittercommunity.com/t/again-list-widget-says-nothing-to-see-here-yet-if
 <p></p>
 <p></p>
 ```
+
 The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group is a community of statisticians and data scientists committed to communication, programming, and professional development to advance and support a society that values all people.
 JEDI is an outreach group of the [American Statistical Association](https://www.amstat.org/).
 
@@ -44,7 +50,7 @@ JEDI is an outreach group of the [American Statistical Association](https://www.
 
 ## JEDI Corner
 
-::: grid
+::::: grid
 ::: {#jedi-corner .g-col-home-6 .g-col-12}
 :::
 
@@ -53,20 +59,22 @@ JEDI Corner is a regular feature of Amstat News in which statisticians write abo
 
 [View the JEDI Corner archives](jedi-corner.qmd){.button .button1 .center-button}
 :::
-:::
+:::::
 
 ## JEDI Webinars
 
-<!--::: grid
+```{=html}
+::: grid
 ::: {#jedi-webinars .g-col-home-6 .g-col-12}
 :::
 
-::: {.g-col-home-6 .g-col-12 .homebox}-->
+::: {.g-col-home-6 .g-col-12 .homebox}
+```
+
 JEDI Committees organize webinars to educate the community on JEDI-related topics and foster discussion among JEDI members.
 
-[View the JEDI Webinar archives](webinars.qmd){.button .button1 .center-button}
-<!--:::
-:::-->
+[View the JEDI Webinar archives](webinars.qmd){.button .button1 .center-button} :::
+:::
 
 ## Get Involved
 
@@ -74,8 +82,12 @@ Sign-up for your free membership to the JEDI Outreach Group.
 
 [Become a JEDI member](get-involved.qmd){.button .button1 .center}
 
+```{=html}
 <!-- Temporarily removing the embedded Twitter feed, see discussion here: 
 https://twittercommunity.com/t/again-list-widget-says-nothing-to-see-here-yet-if-logged-out/198782/111 -->
+```
+
+````{=html}
 <!-- ::: {.show-twitter-timeline}
 ## Twitter Feed
 ```{=html}
@@ -85,3 +97,4 @@ https://twittercommunity.com/t/again-list-widget-says-nothing-to-see-here-yet-if
 </center>
 ```
 ::: -->
+````
