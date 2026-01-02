@@ -64,7 +64,7 @@ JEDI Corner is a regular feature of Amstat News in which statisticians write abo
 ## JEDI Webinars
 
 ```{=html}
-::: grid
+::::: grid
 ::: {#jedi-webinars .g-col-home-6 .g-col-12}
 :::
 
@@ -74,7 +74,7 @@ JEDI Corner is a regular feature of Amstat News in which statisticians write abo
 JEDI Committees organize webinars to educate the community on JEDI-related topics and foster discussion among JEDI members.
 
 [View the JEDI Webinar archives](webinars.qmd){.button .button1 .center-button} :::
-:::
+:::::
 
 ## Get Involved
 
