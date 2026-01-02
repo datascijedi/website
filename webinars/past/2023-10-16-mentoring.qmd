@@ -5,31 +5,35 @@ title: "Building successful mentor/mentee relationships in the hybrid work era"
 author: JEDI Outreach Group
 date: 10/16/2023
 toc: true
-image: /webinars/images/JEDI-MentoringWebinar.png
-alt: "Colorful flyer advertising past webinar."
+#image: /webinars/images/JEDI-MentoringWebinar.png
+#alt: "Colorful flyer advertising past webinar."
 href: /webinars/past/2023-10-16-mentoring.qmd
 author-title: Presenters
 published-title: Date
 ---
+
 ## Overview
 
-The first 60 minutes of the webinar will be a a panel discussion with several awesome panelists representing a variety of career stages and positions, and they will speak to their experiences as mentors/mentees. The final 30 minutes of the webinar will be a  breakout room format where panelists and attendees can discuss their perspectives and network in a small-group setting.
-
+The first 60 minutes of the webinar will be a a panel discussion with several awesome panelists representing a variety of career stages and positions, and they will speak to their experiences as mentors/mentees.
+The final 30 minutes of the webinar will be a breakout room format where panelists and attendees can discuss their perspectives and network in a small-group setting.
 
 ## Presenters
 
-* Machell Town (Centers for Disease Control and Prevention)
-* Jeffrey Gonzalez (Bureau of Labor Statistics)
-* Brittney Bailey (Amherst College)
-* Eric Daza (Stats-of-1; Evidation) 
-* Kendra Plourde (Yale University)
-* Dorcas Washington (University of Cincinnati)
-* Megan McCabe (University of Iowa)
+-   Machell Town (Centers for Disease Control and Prevention)
+-   Jeffrey Gonzalez (Bureau of Labor Statistics)
+-   Brittney Bailey (Amherst College)
+-   Eric Daza (Stats-of-1; Evidation)
+-   Kendra Plourde (Yale University)
+-   Dorcas Washington (University of Cincinnati)
+-   Megan McCabe (University of Iowa)
 
 ## Recording
 
 <!-- ## When YouTube recording is ready, add in link. Click, share, embed, then extract link from iframe code -->
+
 {{< video https://www.youtube.com/embed/17M2lvMloSQ?si=woS0Um5_xUvWU1aD >}}
 
+```{=html}
 <!-- ## Slides
 [![](/webinars/images/incorporating-diversity.png){fig-alt="Title page from slide deck for the webinar, 'Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses: Two Case Studies'"}](https://drive.google.com/file/d/1mKil-a244bGMPzaV6TcpPY74asFbi6no/view){aria-label="Download the slides from the webinar, 'Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses: Two Case Studies'"} -->
+```
