@@ -199,7 +199,7 @@
     "href": "index.html#jedi-webinars",
     "title": "\n  JEDI Outreach Group\n",
     "section": "JEDI Webinars",
-    "text": "JEDI Webinars\n::: grid\n::: {#jedi-webinars .g-col-home-6 .g-col-12}\n:::\n\n::: {.g-col-home-6 .g-col-12 .homebox}\nJEDI Committees organize webinars to educate the community on JEDI-related topics and foster discussion among JEDI members.\nView the JEDI Webinar archives ::: :::"
+    "text": "JEDI Webinars\n::::: grid\n::: {#jedi-webinars .g-col-home-6 .g-col-12}\n:::\n\n::: {.g-col-home-6 .g-col-12 .homebox}\nJEDI Committees organize webinars to educate the community on JEDI-related topics and foster discussion among JEDI members.\nView the JEDI Webinar archives ::: :::::"
   },
   {
     "objectID": "index.html#get-involved",
